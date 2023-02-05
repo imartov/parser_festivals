@@ -1,0 +1,2578 @@
+{
+    "props": {
+        "pageProps": {
+            "festival": {
+                "introText": "<p>Kubix Festival - Pop &amp; Dance returns for 2023 at an all new expanded site with two huge stages and some surprise new additions!</p>\r\n<p>&nbsp;</p>\r\n<p>&nbsp;</p>",
+                "mediaJson": {
+                    "festivalGallery": [
+                        {
+                            "imageUrl": "https://d31fr2pwly4c4s.cloudfront.net/festivals/8836_1666349582_fest.jpg",
+                            "imagePath": "festivals/8836_1666349582_fest.jpg"
+                        },
+                        {
+                            "imageUrl": "https://d31fr2pwly4c4s.cloudfront.net/festivals/3369_1666349762_fest.jpg",
+                            "imagePath": "festivals/3369_1666349762_fest.jpg"
+                        },
+                        {
+                            "imageUrl": "https://d31fr2pwly4c4s.cloudfront.net/festivals/6227_1666349807_fest.jpg",
+                            "imagePath": "festivals/6227_1666349807_fest.jpg"
+                        },
+                        {
+                            "imageUrl": "https://d31fr2pwly4c4s.cloudfront.net/festivals/2627_1666349829_fest.jpg",
+                            "imagePath": "festivals/2627_1666349829_fest.jpg"
+                        },
+                        {
+                            "imageUrl": "https://d31fr2pwly4c4s.cloudfront.net/festivals/6688_1666349788_fest.jpg",
+                            "imagePath": "festivals/6688_1666349788_fest.jpg"
+                        }
+                    ]
+                },
+                "genres": [
+                    "Pop",
+                    "90s"
+                ],
+                "cheapestDayTicket": "30.00",
+                "festivalID": 2165,
+                "festivalName": "Kubix Festival - Pop & Dance",
+                "festivalShortname": "Kubix Festival",
+                "safeName": "kubix-festival",
+                "listingsData": [
+                    {
+                        "listingId": "1462576",
+                        "listingInstance": 36139210,
+                        "startDate": "2023-07-15",
+                        "endDate": "2023-07-15",
+                        "eventName": "Kubix Festival",
+                        "facebookAdsTrackingID": "0",
+                        "facebookAdsTrackingMode": "checkout",
+                        "facebookAdsTrackingCurrency": "GBP",
+                        "googleAnalyticsAccountID": "",
+                        "adwordsAdsTrackingID": "",
+                        "adwordsAdsTrackingLabel": "",
+                        "adwordsAdsTrackingCurrency": "GBP",
+                        "tiktokPixelID": "",
+                        "snapchatPixelID": "",
+                        "skiddleFBPixelID": "1125788887935179",
+                        "deliveryTypes": {
+                            "eTickets": false,
+                            "rapidscan": true,
+                            "rapidscanFormat": "QRCODE",
+                            "recorded": false,
+                            "special": false,
+                            "space": false,
+                            "intSpecial": false
+                        }
+                    }
+                ],
+                "endDate": "2023-07-15",
+                "descriptionText": "Skiddle is an official ticket outlet of Kubix Festival 2023. Get Kubix Festival tickets, news and information with Skiddle.com",
+                "seoPageTitle": "",
+                "bannerImage": "https://s3-eu-west-1.amazonaws.com/skiddlecdn-images-listings/festivals/4744_1666349522_festbanner.jpg",
+                "image": "https://s3-eu-west-1.amazonaws.com/skiddlecdn-images-listings/festivals/5554_1637843171_fest.jpg",
+                "reviewsSummary": {
+                    "totalReviews": 192,
+                    "ratingValue": 3,
+                    "ratingLocation": 4.5,
+                    "ratingAtmosphere": 4.5,
+                    "ratingMusic": 4.5,
+                    "overallRating": 4
+                },
+                "minAge": 0,
+                "startDate": "2023-07-15",
+                "location": "Herrington Country Park in Sunderland",
+                "travel": {
+                    "coach": "",
+                    "car": "",
+                    "taxi": "",
+                    "bus": "",
+                    "rail": ""
+                },
+                "latitude": "54.90725200000",
+                "longitude": "-1.38105200000",
+                "venueID": 1655,
+                "promoterID": 170679,
+                "currency": "GBP",
+                "queueEnabled": 0,
+                "tbc": 0,
+                "explore": {
+                    "categories": [
+                        {
+                            "name": "Mainstream / Pop Music festivals",
+                            "link": "/festivals/mainstream-pop.html",
+                            "id": "mainstream---pop-music-festivals"
+                        },
+                        {
+                            "name": "Family Friendly festivals",
+                            "link": "/festivals/family-friendly.html",
+                            "id": "family-friendly-festivals"
+                        }
+                    ],
+                    "type": [
+                        {
+                            "name": "Music festivals",
+                            "link": "/festivals/type/music-40.html",
+                            "id": "music"
+                        },
+                        {
+                            "name": "Family Friendly festivals",
+                            "link": "/festivals/type/family-friendly-92.html",
+                            "id": "family-friendly"
+                        }
+                    ],
+                    "size": [
+                        {
+                            "name": "Medium sized festivals",
+                            "link": "/festivals/size/medium-6.html",
+                            "id": "medium"
+                        }
+                    ],
+                    "accommodation": [
+                        {
+                            "name": "Caravan facilities",
+                            "link": "/festivals/accommodation/caravan-18.html",
+                            "id": "caravan"
+                        },
+                        {
+                            "name": "Quiet Camping facilities",
+                            "link": "/festivals/accommodation/quiet-camping-16.html",
+                            "id": "quiet-camping"
+                        },
+                        {
+                            "name": "Campervan facilities",
+                            "link": "/festivals/accommodation/campervan-20.html",
+                            "id": "campervan"
+                        },
+                        {
+                            "name": "Standard Camping facilities",
+                            "link": "/festivals/accommodation/standard-camping-12.html",
+                            "id": "standard-camping"
+                        }
+                    ],
+                    "amenities": [
+                        {
+                            "name": "Toilets",
+                            "link": "/festivals/amenities/toilets-26.html",
+                            "id": "toilets"
+                        },
+                        {
+                            "name": "Showers",
+                            "link": "/festivals/amenities/showers-24.html",
+                            "id": "showers"
+                        },
+                        {
+                            "name": "Luxury Toilets",
+                            "link": "/festivals/amenities/luxury-toilets-30.html",
+                            "id": "luxury-toilets"
+                        }
+                    ],
+                    "attractions": [
+                        {
+                            "name": "Kids Area",
+                            "link": "/festivals/attractions/kids-area-74.html",
+                            "id": "kids-area"
+                        },
+                        {
+                            "name": "Fairground",
+                            "link": "/festivals/attractions/fairground-54.html",
+                            "id": "fairground"
+                        }
+                    ]
+                }
+            },
+            "headerJSON": [
+                {
+                    "id": "gigs",
+                    "title": "gigs",
+                    "titleLink": "/live/",
+                    "links": [
+                        {
+                            "id": "all_eventtype",
+                            "title": "all gigs",
+                            "link": "/live/"
+                        },
+                        {
+                            "id": "all_cities",
+                            "title": "view all cities",
+                            "link": "/whats-on/cities.html"
+                        }
+                    ],
+                    "categories": [
+                        {
+                            "id": "cities",
+                            "category": "browse gigs in",
+                            "links": [
+                                {
+                                    "title": "Birmingham",
+                                    "link": "/gigs/Birmingham/",
+                                    "hrefTitle": "Events in Birmingham"
+                                },
+                                {
+                                    "title": "Bristol",
+                                    "link": "/gigs/Bristol/",
+                                    "hrefTitle": "Events in Bristol"
+                                },
+                                {
+                                    "title": "Brighton",
+                                    "link": "/gigs/Brighton/",
+                                    "hrefTitle": "Events in Brighton"
+                                },
+                                {
+                                    "title": "Cardiff",
+                                    "link": "/gigs/Cardiff/",
+                                    "hrefTitle": "Events in Cardiff"
+                                },
+                                {
+                                    "title": "Edinburgh",
+                                    "link": "/gigs/Edinburgh/",
+                                    "hrefTitle": "Events in Edinburgh"
+                                },
+                                {
+                                    "title": "Glasgow",
+                                    "link": "/gigs/Glasgow/",
+                                    "hrefTitle": "Events in Glasgow"
+                                },
+                                {
+                                    "title": "Leeds",
+                                    "link": "/gigs/Leeds/",
+                                    "hrefTitle": "Events in Leeds"
+                                },
+                                {
+                                    "title": "Liverpool",
+                                    "link": "/gigs/Liverpool/",
+                                    "hrefTitle": "Events in Liverpool"
+                                },
+                                {
+                                    "title": "London",
+                                    "link": "/gigs/London/",
+                                    "hrefTitle": "Events in London"
+                                },
+                                {
+                                    "title": "Manchester",
+                                    "link": "/gigs/Manchester/",
+                                    "hrefTitle": "Events in Manchester"
+                                },
+                                {
+                                    "title": "Newcastle",
+                                    "link": "/gigs/Newcastle-on-Tyne/",
+                                    "hrefTitle": "Events in Newcastle"
+                                },
+                                {
+                                    "title": "Sheffield",
+                                    "link": "/gigs/Sheffield/",
+                                    "hrefTitle": "Events in Sheffield"
+                                },
+                                {
+                                    "title": "",
+                                    "link": ""
+                                },
+                                {
+                                    "title": "View all cities",
+                                    "link": "/whats-on/cities.html",
+                                    "hrefTitle": "View all cities"
+                                }
+                            ]
+                        },
+                        {
+                            "id": "all_eventtype",
+                            "category": "find events",
+                            "links": [
+                                {
+                                    "title": "Artist tour dates",
+                                    "link": "/artists/"
+                                },
+                                {
+                                    "title": "Events by brand",
+                                    "link": "/groups/"
+                                },
+                                {
+                                    "title": "Socially Distanced Events",
+                                    "link": "/inspire-me/socially-distanced-events-2020"
+                                },
+                                {
+                                    "title": "Virtual Events",
+                                    "link": "/whats-on/online/"
+                                }
+                            ]
+                        },
+                        {
+                            "id": "seasonal",
+                            "category": "seasonal",
+                            "links": [
+                                {
+                                    "title": "Festivals 2022",
+                                    "link": "/festivals/"
+                                },
+                                {
+                                    "title": "Valentines Day",
+                                    "link": "/valentinesday/"
+                                }
+                            ]
+                        },
+                        {
+                            "id": "top_venues",
+                            "category": "top venues",
+                            "links": [
+                                {
+                                    "title": "Hare & Hounds ",
+                                    "link": "/whats-on/birmingham/hare-and-hounds/"
+                                },
+                                {
+                                    "title": "YES - Manchester",
+                                    "link": "/whats-on/manchester/yes/"
+                                },
+                                {
+                                    "title": "Phase One",
+                                    "link": "/whats-on/liverpool/phase-one/"
+                                },
+                                {
+                                    "title": "Invisible Wind Factory",
+                                    "link": "/whats-on/liverpool/invisible-wind-factory/"
+                                },
+                                {
+                                    "title": "The Louisiana",
+                                    "link": "/whats-on/bristol/The-louisiana/"
+                                },
+                                {
+                                    "title": "The Concorde 2",
+                                    "link": "/whats-on/brighton/the-concorde-2/"
+                                },
+                                {
+                                    "title": "The Old Dr Bells Baths",
+                                    "link": "/whats-on/edinburgh/the-old-dr-bells-baths/"
+                                },
+                                {
+                                    "title": "St Lukes",
+                                    "link": "/whats-on/glasgow/St-Luke%27s-/"
+                                },
+                                {
+                                    "title": "Barrowland Ballroom",
+                                    "link": "/whats-on/glasgow/Barrowland-ballroom/"
+                                },
+                                {
+                                    "title": "Brudenell Social Club",
+                                    "link": "/whats-on/leeds/brudenell-social-club/"
+                                },
+                                {
+                                    "title": "Millenium Square",
+                                    "link": "/whats-on/leeds/Millenium-square/"
+                                },
+                                {
+                                    "title": "The Jazz Cafe",
+                                    "link": "/whats-on/london/The-jazz-cafe/"
+                                },
+                                {
+                                    "title": "The Steelyard",
+                                    "link": "/whats-on/london/The-steel-yard/"
+                                },
+                                {
+                                    "title": "The Cluny",
+                                    "link": "/whats-on/Newcastle-on-tyne/the-cluny/"
+                                },
+                                {
+                                    "title": "Record Junkee",
+                                    "link": "/whats-on/sheffield/record-junkee/"
+                                }
+                            ]
+                        }
+                    ],
+                    "genres": {
+                        "id": "genre_images",
+                        "title": "gigs by genres",
+                        "links": [
+                            {
+                                "title": "Rock & Metal gigs",
+                                "image": "https://d1plawd8huk6hh.cloudfront.net/images/landing/backgrounds/rhcp-small2.jpg",
+                                "link": "/live/rock-metal.html"
+                            },
+                            {
+                                "title": "Indie & Alternative gigs",
+                                "image": "https://d1plawd8huk6hh.cloudfront.net/images/landing/backgrounds/arctic-monkeys-small2.jpg",
+                                "link": "/live/indie-alternative.html"
+                            },
+                            {
+                                "title": "Hip Hop & R&B gigs",
+                                "image": "https://d1plawd8huk6hh.cloudfront.net/images/landing/backgrounds/loyle-carner-small2.jpg",
+                                "link": "/live/hip-hop-rnb.html"
+                            },
+                            {
+                                "title": "Reggae & Dancehall gigs",
+                                "image": "https://d1plawd8huk6hh.cloudfront.net/images/landing/backgrounds/lee-scratch-perry-small2.jpg",
+                                "link": "/live/reggae-dancehall.html"
+                            },
+                            {
+                                "title": "Electronic gigs",
+                                "image": "https://d1plawd8huk6hh.cloudfront.net/images/landing/backgrounds/daft-punk-small2.jpg",
+                                "link": "/live/electronic.html"
+                            },
+                            {
+                                "title": "Pop gigs",
+                                "image": "https://d1plawd8huk6hh.cloudfront.net/images/landing/backgrounds/jess-glynne-small2.jpg",
+                                "link": "/live/pop.html"
+                            },
+                            {
+                                "title": "Funk & Soul gigs",
+                                "image": "https://d1plawd8huk6hh.cloudfront.net/images/landing/backgrounds/mark-ronson-small2.jpg",
+                                "link": "/live/funk-soul.html"
+                            },
+                            {
+                                "title": "Folk & Blues gigs",
+                                "image": "https://d1plawd8huk6hh.cloudfront.net/images/landing/backgrounds/lucy-rose-small2.jpg",
+                                "link": "/live/folk-blues.html"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "id": "clubs",
+                    "title": "clubs",
+                    "titleLink": "/clubs/",
+                    "links": [
+                        {
+                            "id": "all_eventtype",
+                            "title": "all clubbing events",
+                            "link": "/clubs/"
+                        },
+                        {
+                            "id": "all_cities",
+                            "title": "view all cities",
+                            "link": "/whats-on/cities.html"
+                        }
+                    ],
+                    "categories": [
+                        {
+                            "id": "cities",
+                            "category": "browse club events in",
+                            "links": [
+                                {
+                                    "title": "Birmingham",
+                                    "link": "/clubs/Birmingham/",
+                                    "hrefTitle": "Events in Birmingham"
+                                },
+                                {
+                                    "title": "Bristol",
+                                    "link": "/clubs/Bristol/",
+                                    "hrefTitle": "Events in Bristol"
+                                },
+                                {
+                                    "title": "Brighton",
+                                    "link": "/clubs/Brighton/",
+                                    "hrefTitle": "Events in Brighton"
+                                },
+                                {
+                                    "title": "Cardiff",
+                                    "link": "/clubs/Cardiff/",
+                                    "hrefTitle": "Events in Cardiff"
+                                },
+                                {
+                                    "title": "Edinburgh",
+                                    "link": "/clubs/Edinburgh/",
+                                    "hrefTitle": "Events in Edinburgh"
+                                },
+                                {
+                                    "title": "Glasgow",
+                                    "link": "/clubs/Glasgow/",
+                                    "hrefTitle": "Events in Glasgow"
+                                },
+                                {
+                                    "title": "Leeds",
+                                    "link": "/clubs/Leeds/",
+                                    "hrefTitle": "Events in Leeds"
+                                },
+                                {
+                                    "title": "Liverpool",
+                                    "link": "/clubs/Liverpool/",
+                                    "hrefTitle": "Events in Liverpool"
+                                },
+                                {
+                                    "title": "London",
+                                    "link": "/clubs/London/",
+                                    "hrefTitle": "Events in London"
+                                },
+                                {
+                                    "title": "Manchester",
+                                    "link": "/clubs/Manchester/",
+                                    "hrefTitle": "Events in Manchester"
+                                },
+                                {
+                                    "title": "Newcastle",
+                                    "link": "/clubs/Newcastle-on-Tyne/",
+                                    "hrefTitle": "Events in Newcastle"
+                                },
+                                {
+                                    "title": "Sheffield",
+                                    "link": "/clubs/Sheffield/",
+                                    "hrefTitle": "Events in Sheffield"
+                                },
+                                {
+                                    "title": "",
+                                    "link": ""
+                                },
+                                {
+                                    "title": "View all cities",
+                                    "link": "/whats-on/cities.html",
+                                    "hrefTitle": "View all cities"
+                                }
+                            ]
+                        },
+                        {
+                            "id": "find_events",
+                            "category": "find events",
+                            "links": [
+                                {
+                                    "title": "Artist/DJ tour dates",
+                                    "link": "/artists/"
+                                },
+                                {
+                                    "title": "Events by brand",
+                                    "link": "/groups/"
+                                },
+                                {
+                                    "title": "Top 100 Clubs",
+                                    "link": "/whats-on/top100clubs.html"
+                                },
+                                {
+                                    "title": "Socially Distanced Events",
+                                    "link": "/inspire-me/socially-distanced-events-2021"
+                                },
+                                {
+                                    "title": "Virtual Events",
+                                    "link": "/whats-on/online/"
+                                }
+                            ]
+                        },
+                        {
+                            "id": "seasonal",
+                            "category": "seasonal",
+                            "links": [
+                                {
+                                    "title": "Festivals 2022",
+                                    "link": "/festivals/"
+                                },
+                                {
+                                    "title": "Ibiza 20201",
+                                    "link": "/ibiza/"
+                                },
+                                {
+                                    "title": "Croatia 20201",
+                                    "link": "/croatia/"
+                                },
+                                {
+                                    "title": "Fathers Day",
+                                    "link": "/fathersday/"
+                                }
+                            ]
+                        },
+                        {
+                            "id": "top_clubs",
+                            "category": "top clubs",
+                            "links": [
+                                {
+                                    "title": "WHP",
+                                    "link": "/groups/thewarehouseproject/"
+                                },
+                                {
+                                    "title": "Printworks",
+                                    "link": "/whats-on/London/Printworks-London/"
+                                },
+                                {
+                                    "title": "Motion",
+                                    "link": "/groups/motionbristol/"
+                                },
+                                {
+                                    "title": "Victoria Warehouse",
+                                    "link": "/whats-on/Manchester/O2-Victoria-Warehouse/"
+                                },
+                                {
+                                    "title": "Albert Hall",
+                                    "link": "/groups/alberthall/"
+                                },
+                                {
+                                    "title": "24 Kitchen Street",
+                                    "link": "/whats-on/Liverpool/24-Kitchen-Street/"
+                                },
+                                {
+                                    "title": "Ministry of Sound",
+                                    "link": "/whats-on/London/Ministry-Of-Sound/"
+                                },
+                                {
+                                    "title": "Digital",
+                                    "link": "/whats-on/Newcastle-on-Tyne/Digital/"
+                                },
+                                {
+                                    "title": "Lab11",
+                                    "link": "/whats-on/Birmingham/LAB11/"
+                                },
+                                {
+                                    "title": "Bramley Moore Dock",
+                                    "link": "/whats-on/Liverpool/Bramley-Moore-Dock/"
+                                },
+                                {
+                                    "title": "Digbeth Arena",
+                                    "link": "/whats-on/Birmingham/Digbeth-Arena/"
+                                },
+                                {
+                                    "title": "The Mill",
+                                    "link": "/whats-on/Birmingham/The-Mill-Digbeth/"
+                                },
+                                {
+                                    "title": "Social Avenue",
+                                    "link": "/whats-on/Manchester/Social-Avenue/"
+                                },
+                                {
+                                    "title": "Dreamland",
+                                    "link": "/whats-on/Margate/Dreamland/"
+                                },
+                                {
+                                    "title": "Fabric",
+                                    "link": "/groups/fabric/"
+                                }
+                            ]
+                        },
+                        {
+                            "id": "top_events",
+                            "category": "top events",
+                            "links": [
+                                {
+                                    "title": "WAH",
+                                    "link": "/groups/elrow/"
+                                },
+                                {
+                                    "title": "Elrow",
+                                    "link": "/groups/elrow/"
+                                },
+                                {
+                                    "title": "Glitterbox",
+                                    "link": "/groups/glitterbox/"
+                                },
+                                {
+                                    "title": "Circus",
+                                    "link": "/groups/circusliverpool/"
+                                },
+                                {
+                                    "title": "Homoelectric",
+                                    "link": "/groups/homoelectric/"
+                                },
+                                {
+                                    "title": "Defected",
+                                    "link": "/groups/defectedinthehouse/"
+                                },
+                                {
+                                    "title": "PierJam",
+                                    "link": "/groups/pierjam/"
+                                },
+                                {
+                                    "title": "Garage Nation",
+                                    "link": "/groups/garagenation/"
+                                },
+                                {
+                                    "title": "Goodgreef",
+                                    "link": "/groups/goodgreef/"
+                                },
+                                {
+                                    "title": "Jika Jika",
+                                    "link": "/groups/Jikajika/"
+                                },
+                                {
+                                    "title": "Weird Science",
+                                    "link": "/groups/weirdscience/"
+                                },
+                                {
+                                    "title": "Cirque Du Soul",
+                                    "link": "/groups/cirquedusoul/"
+                                },
+                                {
+                                    "title": "Bedlam",
+                                    "link": "/groups/bedlamcardiff/"
+                                },
+                                {
+                                    "title": "Circus x Cream",
+                                    "link": "/groups/circusxcream/"
+                                },
+                                {
+                                    "title": "Cream",
+                                    "link": "/groups/cream/"
+                                }
+                            ]
+                        }
+                    ],
+                    "genres": {
+                        "id": "genre_images",
+                        "title": "clubs by genres",
+                        "links": [
+                            {
+                                "title": "House & Techno club events",
+                                "image": "https://d1plawd8huk6hh.cloudfront.net/landing-pages/backgrounds/nina-kraviz-small2.jpg",
+                                "link": "/clubs/house-techno.html"
+                            },
+                            {
+                                "title": "UKG & Bass Music club events",
+                                "image": "https://d1plawd8huk6hh.cloudfront.net/landing-pages/backgrounds/dj-ez-small2.png",
+                                "link": "/clubs/ukg-bass-music.html"
+                            },
+                            {
+                                "title": "EDM club events",
+                                "image": "https://d1plawd8huk6hh.cloudfront.net/landing-pages/backgrounds/don-diablo-small2.png",
+                                "link": "/clubs/main-room-edm.html"
+                            },
+                            {
+                                "title": "Funk, Soul & Disco club events",
+                                "image": "https://d1plawd8huk6hh.cloudfront.net/landing-pages/backgrounds/dimitri-from-paris-small2.jpg",
+                                "link": "/clubs/funk-soul-disco.html"
+                            },
+                            {
+                                "title": "Trance & Hard Dance club events",
+                                "image": "https://d1plawd8huk6hh.cloudfront.net/landing-pages/backgrounds/paul-oakenfold-small2.jpg",
+                                "link": "/clubs/trance-hard-dance.html"
+                            },
+                            {
+                                "title": "Hip Hop & R&B club events",
+                                "image": "https://d1plawd8huk6hh.cloudfront.net/landing-pages/backgrounds/kendrick-small2.jpg",
+                                "link": "/clubs/hip-hop-rnb.html"
+                            },
+                            {
+                                "title": "Reggae, DUB & Dancehall club events",
+                                "image": "https://d1plawd8huk6hh.cloudfront.net/images/landing/backgrounds/lee-scratch-perry-small2.jpg",
+                                "link": "/clubs/reggae-dub.html"
+                            },
+                            {
+                                "title": "Pop, Rock & Indie club events",
+                                "image": "https://d1plawd8huk6hh.cloudfront.net/landing-pages/backgrounds/arctic-monkeys-small2.jpg",
+                                "link": "/clubs/rock-indie.html"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "id": "festivals",
+                    "title": "festivals",
+                    "titleLink": "/festivals/",
+                    "links": [
+                        {
+                            "id": "all_eventtype",
+                            "title": "festivals",
+                            "link": "/festivals/"
+                        }
+                    ],
+                    "categories": [
+                        {
+                            "id": "find_festival",
+                            "category": "find your perfect festival",
+                            "links": [
+                                {
+                                    "title": "Festivals 2022",
+                                    "link": "/festivals/"
+                                },
+                                {
+                                    "title": "Festival Finder",
+                                    "link": "/festivals/search/"
+                                }
+                            ]
+                        },
+                        {
+                            "id": "types_festivals",
+                            "category": "types of festivals",
+                            "links": [
+                                {
+                                    "title": "Dance Music Festivals",
+                                    "link": "/festivals/dance.html"
+                                },
+                                {
+                                    "title": "Rock and Indie Festivals",
+                                    "link": "/festivals/rock-indie.html"
+                                },
+                                {
+                                    "title": "Boutique Festivals",
+                                    "link": "/festivals/boutique.html"
+                                },
+                                {
+                                    "title": "Budget Festivals",
+                                    "link": "/festivals/under-100.html"
+                                },
+                                {
+                                    "title": "European/Overseas Festivals",
+                                    "link": "/festivals/overseas.html"
+                                },
+                                {
+                                    "title": "Browse all festivals",
+                                    "link": "/festivals/search/"
+                                },
+                                {
+                                    "title": "Budget Festivals",
+                                    "link": "/festivals/under-100.html"
+                                },
+                                {
+                                    "title": "Family Friendly Festivals",
+                                    "link": "/festivals/family-friendly.html"
+                                },
+                                {
+                                    "title": "Payment Plan Festivals",
+                                    "link": "/inspire-me/payment-plan-festivals"
+                                }
+                            ]
+                        },
+                        {
+                            "id": "festival_tickets",
+                            "category": "festival tickets",
+                            "links": [
+                                {
+                                    "title": "51st Festival",
+                                    "link": "/festivals/51st-state-festival/"
+                                },
+                                {
+                                    "title": "Bassfest",
+                                    "link": "/festivals/bassfest/"
+                                },
+                                {
+                                    "title": "Belladrum",
+                                    "link": "/festivals/belladrum/"
+                                },
+                                {
+                                    "title": "Bluedot",
+                                    "link": "/festivals/bluedot-festival/",
+                                    "hideMobile": true
+                                },
+                                {
+                                    "title": "Boundary Brighton",
+                                    "link": "/festivals/boundary-brighton/"
+                                },
+                                {
+                                    "title": "Creamfields North",
+                                    "link": "/festivals/creamfields/",
+                                    "hideMobile": true
+                                },
+                                {
+                                    "title": "Creamfields South",
+                                    "link": "/festivals/creamfields-south/",
+                                    "hideMobile": true
+                                },
+                                {
+                                    "title": "Dream Valley",
+                                    "link": "/festivals/Dream-Valley/",
+                                    "hideMobile": true
+                                },
+                                {
+                                    "title": "El Dorado",
+                                    "link": "/festivals/El-Dorado/",
+                                    "hideMobile": true
+                                },
+                                {
+                                    "title": "Electric Woodlands",
+                                    "link": "/festivals/Electric-Woodlands/",
+                                    "hideMobile": true
+                                },
+                                {
+                                    "title": "Field day",
+                                    "link": "/festivals/Field-day/",
+                                    "hideMobile": true
+                                },
+                                {
+                                    "title": "Fields of Gold",
+                                    "link": "/festivals/Fields-of-Gold/",
+                                    "hideMobile": true
+                                },
+                                {
+                                    "title": "Hide & Seek",
+                                    "link": "/festivals/hide-seek-festival/",
+                                    "hideMobile": true
+                                },
+                                {
+                                    "title": "Highest Point Festival",
+                                    "link": "/festivals/Highest-Point-Festival/",
+                                    "hideMobile": true
+                                },
+                                {
+                                    "title": "In It Together",
+                                    "link": "/festivals/In-It-Together/",
+                                    "hideMobile": true
+                                },
+                                {
+                                    "title": "Inside Out",
+                                    "link": "/festivals/Inside-Out/",
+                                    "hideMobile": true
+                                },
+                                {
+                                    "title": "Junction 2",
+                                    "link": "/festivals/Junction-2/",
+                                    "hideMobile": true
+                                },
+                                {
+                                    "title": "Kendal calling",
+                                    "link": "/festivals/Kendal-calling/",
+                                    "hideMobile": true
+                                },
+                                {
+                                    "title": "Kubix Festival ",
+                                    "link": "/festivals/Kubix-Festival/",
+                                    "hideMobile": true
+                                },
+                                {
+                                    "title": "Lovebox",
+                                    "link": "/festivals/Lovebox/",
+                                    "hideMobile": true
+                                },
+                                {
+                                    "title": "Lytham Festival",
+                                    "link": "/festivals/Lytham-prom/",
+                                    "hideMobile": true
+                                },
+                                {
+                                    "title": "MADE",
+                                    "link": "/festivals/MADE-birmingham/",
+                                    "hideMobile": true
+                                },
+                                {
+                                    "title": "Mint Festival",
+                                    "link": "/festivals/Mint-Festival/",
+                                    "hideMobile": true
+                                },
+                                {
+                                    "title": "Moovin Festival",
+                                    "link": "/festivals/Moovin-Festival/",
+                                    "hideMobile": true
+                                },
+                                {
+                                    "title": "Neighbourhood Weekender",
+                                    "link": "/festivals/neighbourhood-weekender/"
+                                },
+                                {
+                                    "title": "Parklife",
+                                    "link": "/festivals/Parklife2/",
+                                    "hideMobile": true
+                                },
+                                {
+                                    "title": "Playground Festival",
+                                    "link": "/festivals/playground-festival/",
+                                    "hideMobile": true
+                                },
+                                {
+                                    "title": "Reminisce Festival",
+                                    "link": "/festivals/Reminisce-Festival/",
+                                    "hideMobile": true
+                                },
+                                {
+                                    "title": "Snowboxx",
+                                    "link": "/festivals/Snowboxx-festival/",
+                                    "hideMobile": true
+                                },
+                                {
+                                    "title": "Solfest",
+                                    "link": "/festivals/Solfest/",
+                                    "hideMobile": true
+                                },
+                                {
+                                    "title": "Terminal V",
+                                    "link": "/festivals/Terminal-v-festival/",
+                                    "hideMobile": true
+                                },
+                                {
+                                    "title": "The Weekender",
+                                    "link": "/festivals/The-weekender/",
+                                    "hideMobile": true
+                                },
+                                {
+                                    "title": "Westfest",
+                                    "link": "/festivals/Westfest/",
+                                    "hideMobile": true
+                                },
+                                {
+                                    "title": "More festival tickets",
+                                    "link": "/festivals/",
+                                    "hideMobile": true
+                                }
+                            ]
+                        }
+                    ],
+                    "genres": null
+                },
+                {
+                    "id": "whats_on",
+                    "title": "what's on",
+                    "titleLink": "/whats-on/",
+                    "links": [
+                        {
+                            "id": "all_eventtype",
+                            "title": "All Events",
+                            "link": "/whats-on/"
+                        }
+                    ],
+                    "categories": [
+                        {
+                            "id": "cities",
+                            "category": "browse events in",
+                            "links": [
+                                {
+                                    "title": "Events Home",
+                                    "link": "/whats-on/"
+                                },
+                                {
+                                    "title": "Birmingham",
+                                    "link": "/whats-on/Birmingham/",
+                                    "hrefTitle": "Events in Birmingham"
+                                },
+                                {
+                                    "title": "Bristol",
+                                    "link": "/whats-on/Bristol/",
+                                    "hrefTitle": "Events in Bristol"
+                                },
+                                {
+                                    "title": "Brighton",
+                                    "link": "/whats-on/Brighton/",
+                                    "hrefTitle": "Events in Brighton"
+                                },
+                                {
+                                    "title": "Cardiff",
+                                    "link": "/whats-on/Cardiff/",
+                                    "hrefTitle": "Events in Cardiff"
+                                },
+                                {
+                                    "title": "Edinburgh",
+                                    "link": "/whats-on/Edinburgh/",
+                                    "hrefTitle": "Events in Edinburgh"
+                                },
+                                {
+                                    "title": "Glasgow",
+                                    "link": "/whats-on/Glasgow/",
+                                    "hrefTitle": "Events in Glasgow"
+                                },
+                                {
+                                    "title": "Leeds",
+                                    "link": "/whats-on/Leeds/",
+                                    "hrefTitle": "Events in Leeds"
+                                },
+                                {
+                                    "title": "Liverpool",
+                                    "link": "/whats-on/Liverpool/",
+                                    "hrefTitle": "Events in Liverpool"
+                                },
+                                {
+                                    "title": "London",
+                                    "link": "/whats-on/London/",
+                                    "hrefTitle": "Events in London"
+                                },
+                                {
+                                    "title": "Manchester",
+                                    "link": "/whats-on/Manchester/",
+                                    "hrefTitle": "Events in Manchester"
+                                },
+                                {
+                                    "title": "Newcastle",
+                                    "link": "/whats-on/Newcastle-on-Tyne/",
+                                    "hrefTitle": "Events in Newcastle"
+                                },
+                                {
+                                    "title": "Sheffield",
+                                    "link": "/whats-on/Sheffield/",
+                                    "hrefTitle": "Events in Sheffield"
+                                },
+                                {
+                                    "title": "View all cities",
+                                    "link": "/whats-on/cities.html",
+                                    "hrefTitle": "View all cities"
+                                }
+                            ]
+                        },
+                        {
+                            "id": "city_guides",
+                            "category": "city guides",
+                            "links": [
+                                {
+                                    "title": "London Guide",
+                                    "link": "/cities/london/"
+                                },
+                                {
+                                    "title": "Manchester Guide",
+                                    "link": "/cities/manchester/"
+                                },
+                                {
+                                    "title": "Liverpool Guide",
+                                    "link": "/cities/liverpool/"
+                                },
+                                {
+                                    "title": "Leeds Guide",
+                                    "link": "/cities/leeds/"
+                                },
+                                {
+                                    "title": "Birmingham Guide",
+                                    "link": "/cities/birmingham/"
+                                },
+                                {
+                                    "title": "Newcastle Guide",
+                                    "link": "/cities/newcastle-on-tyne/"
+                                },
+                                {
+                                    "title": "Edinburgh Guide",
+                                    "link": "/cities/edinburgh/"
+                                },
+                                {
+                                    "title": "Glasgow Guide",
+                                    "link": "/cities/glasgow/"
+                                },
+                                {
+                                    "title": "Brighton Guide",
+                                    "link": "/cities/brighton/"
+                                },
+                                {
+                                    "title": "Bristol Guide",
+                                    "link": "/cities/bristol/"
+                                },
+                                {
+                                    "title": "Cardiff Guide",
+                                    "link": "/cities/cardiff/"
+                                }
+                            ]
+                        },
+                        {
+                            "id": "popular_artists",
+                            "category": "popular artists",
+                            "links": [
+                                {
+                                    "title": "andy c",
+                                    "link": "/artists/andy-c-123457009/"
+                                },
+                                {
+                                    "title": "bicep",
+                                    "link": "/artists/bicep-123504694/"
+                                },
+                                {
+                                    "title": "bonobo",
+                                    "link": "/artists/bonobo-123483600/"
+                                },
+                                {
+                                    "title": "camelphat",
+                                    "link": "/artists/camelphat-123530158/"
+                                },
+                                {
+                                    "title": "caribou",
+                                    "link": "/artists/caribou-123481754/"
+                                },
+                                {
+                                    "title": "chase & Status",
+                                    "link": "/artists/chase--status-123456801/"
+                                },
+                                {
+                                    "title": "denis sulta",
+                                    "link": "/artists/denis-sulta-123542576/"
+                                },
+                                {
+                                    "title": "eric prydz",
+                                    "link": "/artists/eric-prydz-123456863/"
+                                },
+                                {
+                                    "title": "four tet",
+                                    "link": "/artists/four-tet-123471730/"
+                                },
+                                {
+                                    "title": "hybrid minds",
+                                    "link": "/artists/hybrid-minds-123508782/"
+                                },
+                                {
+                                    "title": "nina kraviz",
+                                    "link": "/artists/nina-kraviz-123499386/"
+                                },
+                                {
+                                    "title": "patrick topping",
+                                    "link": "/artists/patrick-topping-123520148/"
+                                },
+                                {
+                                    "title": "peggy gou",
+                                    "link": "/artists/peggy-gou-123551749/"
+                                },
+                                {
+                                    "title": "solardo",
+                                    "link": "/artists/solardo-123546951/"
+                                },
+                                {
+                                    "title": "Sonny Fodera",
+                                    "link": "/artists/sonny-fodera-123515298/"
+                                },
+                                {
+                                    "title": "view all artists",
+                                    "link": "/artists/"
+                                }
+                            ]
+                        },
+                        {
+                            "id": "seasonal_links",
+                            "category": "Valentines Day",
+                            "links": [
+                                {
+                                    "title": "London Guide",
+                                    "link": "/cities/london/valentines-day.html"
+                                },
+                                {
+                                    "title": "Manchester Guide",
+                                    "link": "/cities/manchester/valentines-day.html"
+                                },
+                                {
+                                    "title": "Liverpool Guide",
+                                    "link": "/cities/liverpool/valentines-day.html"
+                                },
+                                {
+                                    "title": "Cardiff Guide",
+                                    "link": "/cities/cardiff/valentines-day.html"
+                                },
+                                {
+                                    "title": "Edinburgh Guide",
+                                    "link": "/cities/edinburgh/valentines-day.html"
+                                }
+                            ]
+                        }
+                    ],
+                    "genres": null
+                },
+                {
+                    "id": "things_to_do",
+                    "title": "things to do",
+                    "titleLink": "/cities/",
+                    "links": [
+                        {
+                            "id": "all_eventtype",
+                            "title": "all things to do",
+                            "link": "/things-to-do/"
+                        }
+                    ],
+                    "categories": [
+                        {
+                            "id": "cities",
+                            "category": "things to do in",
+                            "links": [
+                                {
+                                    "title": "Liverpool",
+                                    "link": "/things-to-do/Liverpool/",
+                                    "hrefTitle": "Things to do in Liverpool"
+                                },
+                                {
+                                    "title": "London",
+                                    "link": "/things-to-do/London/",
+                                    "hrefTitle": "Things to do in London"
+                                },
+                                {
+                                    "title": "Manchester",
+                                    "link": "/things-to-do/Manchester/",
+                                    "hrefTitle": "Things to do in Manchester"
+                                },
+                                {
+                                    "title": "Birmingham",
+                                    "link": "/things-to-do/Birmingham/",
+                                    "hrefTitle": "Things to do in Birmingham"
+                                },
+                                {
+                                    "title": "Leeds",
+                                    "link": "/things-to-do/Leeds/",
+                                    "hrefTitle": "Things to do in Leeds"
+                                },
+                                {
+                                    "title": "Newcastle",
+                                    "link": "/things-to-do/Newcastle-on-Tyne/",
+                                    "hrefTitle": "Things to do in Newcastle"
+                                },
+                                {
+                                    "title": "Cardiff",
+                                    "link": "/things-to-do/Cardiff/",
+                                    "hrefTitle": "Things to do in Cardiff"
+                                },
+                                {
+                                    "title": "Edinburgh",
+                                    "link": "/things-to-do/Edinburgh/",
+                                    "hrefTitle": "Things to do in Edinburgh"
+                                },
+                                {
+                                    "title": "Bristol",
+                                    "link": "/things-to-do/Bristol/",
+                                    "hrefTitle": "Things to do in Bristol"
+                                },
+                                {
+                                    "title": "Glasgow",
+                                    "link": "/things-to-do/Glasgow/",
+                                    "hrefTitle": "Things to do in Glasgow"
+                                },
+                                {
+                                    "title": "Sheffield",
+                                    "link": "/things-to-do/Sheffield/",
+                                    "hrefTitle": "Things to do in Sheffield"
+                                }
+                            ]
+                        },
+                        {
+                            "id": "comedy_in",
+                            "category": "comedy in",
+                            "links": [
+                                {
+                                    "title": "Liverpool",
+                                    "link": "/comedy/Liverpool/",
+                                    "hrefTitle": ""
+                                },
+                                {
+                                    "title": "London",
+                                    "link": "/comedy/London/",
+                                    "hrefTitle": ""
+                                },
+                                {
+                                    "title": "Manchester",
+                                    "link": "/comedy/Manchester/",
+                                    "hrefTitle": ""
+                                },
+                                {
+                                    "title": "Birmingham",
+                                    "link": "/comedy/Birmingham/",
+                                    "hrefTitle": ""
+                                },
+                                {
+                                    "title": "Leeds",
+                                    "link": "/comedy/Leeds/",
+                                    "hrefTitle": ""
+                                },
+                                {
+                                    "title": "Newcastle",
+                                    "link": "/comedy/Newcastle/",
+                                    "hrefTitle": ""
+                                },
+                                {
+                                    "title": "Cardiff",
+                                    "link": "/comedy/Cardiff/",
+                                    "hrefTitle": ""
+                                },
+                                {
+                                    "title": "Edinburgh",
+                                    "link": "/comedy/Edinburgh/",
+                                    "hrefTitle": ""
+                                },
+                                {
+                                    "title": "Bristol",
+                                    "link": "/comedy/Bristol/",
+                                    "hrefTitle": ""
+                                },
+                                {
+                                    "title": "Glasgow",
+                                    "link": "/comedy/Glasgow/",
+                                    "hrefTitle": ""
+                                },
+                                {
+                                    "title": "Sheffield",
+                                    "link": "/comedy/Sheffield/",
+                                    "hrefTitle": ""
+                                }
+                            ]
+                        },
+                        {
+                            "id": "theatre_in",
+                            "category": "theatre in",
+                            "links": [
+                                {
+                                    "title": "Liverpool",
+                                    "link": "/theatre/Liverpool/",
+                                    "hrefTitle": ""
+                                },
+                                {
+                                    "title": "London",
+                                    "link": "/theatre/London/",
+                                    "hrefTitle": ""
+                                },
+                                {
+                                    "title": "Manchester",
+                                    "link": "/theatre/Manchester/",
+                                    "hrefTitle": ""
+                                },
+                                {
+                                    "title": "Birmingham",
+                                    "link": "/theatre/Birmingham/",
+                                    "hrefTitle": ""
+                                },
+                                {
+                                    "title": "Leeds",
+                                    "link": "/theatre/Leeds/",
+                                    "hrefTitle": ""
+                                },
+                                {
+                                    "title": "Newcastle",
+                                    "link": "/theatre/Newcastle/",
+                                    "hrefTitle": ""
+                                },
+                                {
+                                    "title": "Cardiff",
+                                    "link": "/theatre/Cardiff/",
+                                    "hrefTitle": ""
+                                },
+                                {
+                                    "title": "Edinburgh",
+                                    "link": "/theatre/Edinburgh/",
+                                    "hrefTitle": ""
+                                },
+                                {
+                                    "title": "Bristol",
+                                    "link": "/theatre/Bristol/",
+                                    "hrefTitle": ""
+                                },
+                                {
+                                    "title": "Glasgow",
+                                    "link": "/theatre/Glasgow/",
+                                    "hrefTitle": ""
+                                },
+                                {
+                                    "title": "Sheffield",
+                                    "link": "/theatre/Sheffield/",
+                                    "hrefTitle": ""
+                                }
+                            ]
+                        },
+                        {
+                            "id": "exhibitions_in",
+                            "category": "exhibitions & attractions in",
+                            "links": [
+                                {
+                                    "title": "Liverpool",
+                                    "link": "/exhibitions/Liverpool/",
+                                    "hrefTitle": ""
+                                },
+                                {
+                                    "title": "London",
+                                    "link": "/exhibitions/London/",
+                                    "hrefTitle": ""
+                                },
+                                {
+                                    "title": "Manchester",
+                                    "link": "/exhibitions/Manchester/",
+                                    "hrefTitle": ""
+                                },
+                                {
+                                    "title": "Birmingham",
+                                    "link": "/exhibitions/Birmingham/",
+                                    "hrefTitle": ""
+                                },
+                                {
+                                    "title": "Leeds",
+                                    "link": "/exhibitions/Leeds/",
+                                    "hrefTitle": ""
+                                },
+                                {
+                                    "title": "Newcastle",
+                                    "link": "/exhibitions/Newcastle/",
+                                    "hrefTitle": ""
+                                },
+                                {
+                                    "title": "Cardiff",
+                                    "link": "/exhibitions/Cardiff/",
+                                    "hrefTitle": ""
+                                },
+                                {
+                                    "title": "Edinburgh",
+                                    "link": "/exhibitions/Edinburgh/",
+                                    "hrefTitle": ""
+                                },
+                                {
+                                    "title": "Bristol",
+                                    "link": "/exhibitions/Bristol/",
+                                    "hrefTitle": ""
+                                },
+                                {
+                                    "title": "Glasgow",
+                                    "link": "/exhibitions/Glasgow/",
+                                    "hrefTitle": ""
+                                },
+                                {
+                                    "title": "Sheffield",
+                                    "link": "/exhibitions/Sheffield/",
+                                    "hrefTitle": ""
+                                }
+                            ]
+                        }
+                    ],
+                    "genres": null
+                },
+                {
+                    "id": "add_event",
+                    "title": "add event",
+                    "titleLink": "https://promotioncentre.co.uk",
+                    "links": [],
+                    "categories": [],
+                    "genres": null
+                }
+            ],
+            "artists": [
+                {
+                    "id": 123458771,
+                    "name": "Basshunter",
+                    "active": true,
+                    "favourite": 0,
+                    "imageUrl": "https://i.scdn.co/image/ab67616100005174c54bad2f1330a03cb8aa177d",
+                    "spotifyMp3Url": "https://p.scdn.co/mp3-preview/0662e5de38c516a23d4c4cc12edd6de3509f50e2",
+                    "spotifyArtistUrl": "spotify:artist:37DdwREpvvQHmGLFEZ4h0Q",
+                    "favouritesCount": 23086,
+                    "artistProfileUrl": "https://skiddle.com/artists/basshunter-123458771",
+                    "stageId": 0,
+                    "stageName": "",
+                    "stageDisplayOrder": 0,
+                    "artistsOrderBy": "custom",
+                    "scenario": "dates",
+                    "artistsDisplayOrder": 0,
+                    "headliner": true,
+                    "datePerforming": "2023-07-15"
+                },
+                {
+                    "id": 123507506,
+                    "name": "Andy Whitby",
+                    "active": true,
+                    "favourite": 0,
+                    "imageUrl": "https://i.scdn.co/image/ab67616100005174d8cab3efb9dee6e240788d53",
+                    "spotifyMp3Url": "https://p.scdn.co/mp3-preview/f432f2bcda49bd8241f9559099ef7e789d23e16e",
+                    "spotifyArtistUrl": "spotify:artist:0Dl6oKsS2ibxaqWsyJBmXd",
+                    "favouritesCount": 9939,
+                    "artistProfileUrl": "https://skiddle.com/artists/andy-whitby-123507506",
+                    "stageId": 0,
+                    "stageName": "",
+                    "stageDisplayOrder": 0,
+                    "artistsOrderBy": "custom",
+                    "scenario": "dates",
+                    "artistsDisplayOrder": 0,
+                    "headliner": true,
+                    "datePerforming": "2023-07-15"
+                },
+                {
+                    "id": 123460049,
+                    "name": "Ultrabeat",
+                    "active": true,
+                    "favourite": 0,
+                    "imageUrl": "https://i.scdn.co/image/ab67616100005174187259658396f0d21130c9fb",
+                    "spotifyMp3Url": "https://p.scdn.co/mp3-preview/ba31ee8300ff9828aa526b0953c3d4c2da7a9f1e",
+                    "spotifyArtistUrl": "spotify:artist:596ByjVYnslGJIHxEBGjF8",
+                    "favouritesCount": 8933,
+                    "artistProfileUrl": "https://skiddle.com/artists/ultrabeat-123460049",
+                    "stageId": 0,
+                    "stageName": "",
+                    "stageDisplayOrder": 0,
+                    "artistsOrderBy": "custom",
+                    "scenario": "dates",
+                    "artistsDisplayOrder": 1,
+                    "headliner": true,
+                    "datePerforming": "2023-07-15"
+                },
+                {
+                    "id": 123467182,
+                    "name": "Sugababes",
+                    "active": true,
+                    "favourite": 0,
+                    "imageUrl": "https://i.scdn.co/image/ab6761610000517429d3081554de32db70b92aca",
+                    "spotifyMp3Url": "https://p.scdn.co/mp3-preview/716c998b8428ce50be275bb2c5651d4350d9b78b",
+                    "spotifyArtistUrl": "spotify:artist:7rZNSLWMjTbwdLNskFbzFf",
+                    "favouritesCount": 5022,
+                    "artistProfileUrl": "https://skiddle.com/artists/sugababes-123467182",
+                    "stageId": 0,
+                    "stageName": "",
+                    "stageDisplayOrder": 0,
+                    "artistsOrderBy": "custom",
+                    "scenario": "dates",
+                    "artistsDisplayOrder": 0,
+                    "headliner": true,
+                    "datePerforming": "2023-07-15"
+                },
+                {
+                    "id": 123487290,
+                    "name": "N-Trance",
+                    "active": true,
+                    "favourite": 0,
+                    "imageUrl": "https://d1mdxzfl9p8pzo.cloudfront.net/0/123487290_2.jpg",
+                    "spotifyMp3Url": "https://p.scdn.co/mp3-preview/ad2d368b53ea0c006c3d075accfa194e6570020b",
+                    "spotifyArtistUrl": "spotify:artist:45InkbGypoMk5nVX6dsHkt",
+                    "favouritesCount": 4796,
+                    "artistProfileUrl": "https://skiddle.com/artists/n-trance-123487290",
+                    "stageId": 0,
+                    "stageName": "",
+                    "stageDisplayOrder": 0,
+                    "artistsOrderBy": "custom",
+                    "scenario": "dates",
+                    "artistsDisplayOrder": 2,
+                    "headliner": true,
+                    "datePerforming": "2023-07-15"
+                },
+                {
+                    "id": 123494328,
+                    "name": "Blue",
+                    "active": true,
+                    "favourite": 0,
+                    "imageUrl": "https://i.scdn.co/image/ab676161000051746c13c0d233bbe7b10fbd6238",
+                    "spotifyMp3Url": "https://p.scdn.co/mp3-preview/932b4239c208150d0c10aa927526378f7d454477",
+                    "spotifyArtistUrl": "spotify:artist:2yEkZBBjhzKzt6LF5XMaFi",
+                    "favouritesCount": 4475,
+                    "artistProfileUrl": "https://skiddle.com/artists/blue-123494328",
+                    "stageId": 0,
+                    "stageName": "",
+                    "stageDisplayOrder": 0,
+                    "artistsOrderBy": "custom",
+                    "scenario": "dates",
+                    "artistsDisplayOrder": 0,
+                    "headliner": true,
+                    "datePerforming": "2023-07-15"
+                },
+                {
+                    "id": 123541417,
+                    "name": "Ironik",
+                    "active": true,
+                    "favourite": 0,
+                    "imageUrl": "https://i.scdn.co/image/ab67616100005174e9be542d6f54a0bf5666c852",
+                    "spotifyMp3Url": "https://p.scdn.co/mp3-preview/b06217f637eef7eb8ed0a50a6a9648fc6c52b8d9?cid=67f3bb40a17f4484a9a80163f644c9c3",
+                    "spotifyArtistUrl": "spotify:artist:1vwcHXpc5g75lakGYbUEJ3",
+                    "favouritesCount": 4475,
+                    "artistProfileUrl": "https://skiddle.com/artists/ironik-123541417",
+                    "stageId": 0,
+                    "stageName": "",
+                    "stageDisplayOrder": 0,
+                    "artistsOrderBy": "custom",
+                    "scenario": "dates",
+                    "artistsDisplayOrder": 0,
+                    "headliner": true,
+                    "datePerforming": "2023-07-15"
+                },
+                {
+                    "id": 123500080,
+                    "name": "Flip N Fill",
+                    "active": true,
+                    "favourite": 0,
+                    "imageUrl": "https://i.scdn.co/image/ab67616100005174ab5e62e8ca900f674059f1b0",
+                    "spotifyMp3Url": "https://p.scdn.co/mp3-preview/365744d2d01a2d62acb77d13b4454da2df179aac",
+                    "spotifyArtistUrl": "spotify:artist:0g202lpdrAgQdN4Z8wVrkV",
+                    "favouritesCount": 1683,
+                    "artistProfileUrl": "https://skiddle.com/artists/flip-n-fill-123500080",
+                    "stageId": 0,
+                    "stageName": "",
+                    "stageDisplayOrder": 0,
+                    "artistsOrderBy": "custom",
+                    "scenario": "dates",
+                    "artistsDisplayOrder": 0,
+                    "headliner": true,
+                    "datePerforming": "2023-07-15"
+                },
+                {
+                    "id": 123507426,
+                    "name": "Kelly Llorenna",
+                    "active": true,
+                    "favourite": 0,
+                    "imageUrl": "https://i.scdn.co/image/ab67616d00001e02339841c2d24430d3da3d1bbd",
+                    "spotifyMp3Url": "",
+                    "spotifyArtistUrl": "spotify:artist:4lllannDzyb2z1jAkNgBV1",
+                    "favouritesCount": 1189,
+                    "artistProfileUrl": "https://skiddle.com/artists/kelly-llorenna-123507426",
+                    "stageId": 0,
+                    "stageName": "",
+                    "stageDisplayOrder": 0,
+                    "artistsOrderBy": "custom",
+                    "scenario": "dates",
+                    "artistsDisplayOrder": 0,
+                    "headliner": false,
+                    "datePerforming": "2023-07-15"
+                },
+                {
+                    "id": 123487348,
+                    "name": "Micky Modelle",
+                    "active": true,
+                    "favourite": 0,
+                    "imageUrl": "https://i.scdn.co/image/ab676161000051744e5a359be1834259d5f1a78b",
+                    "spotifyMp3Url": "https://p.scdn.co/mp3-preview/07dc2fa7e879b7c88211afd74ff84400ffc31cd4",
+                    "spotifyArtistUrl": "spotify:artist:3zcI1GFwUNAZj9NxlKOfYb",
+                    "favouritesCount": 802,
+                    "artistProfileUrl": "https://skiddle.com/artists/micky-modelle-123487348",
+                    "stageId": 0,
+                    "stageName": "",
+                    "stageDisplayOrder": 0,
+                    "artistsOrderBy": "custom",
+                    "scenario": "dates",
+                    "artistsDisplayOrder": 0,
+                    "headliner": false,
+                    "datePerforming": "2023-07-15"
+                },
+                {
+                    "id": 123569033,
+                    "name": "A1",
+                    "active": true,
+                    "favourite": 0,
+                    "imageUrl": "https://i.scdn.co/image/ab676161000051741dd9141d9f8aa9dfce100a2c",
+                    "spotifyMp3Url": "https://p.scdn.co/mp3-preview/f874c2be5e5c8fcd69055088617a3d6e7084eed6?cid=67f3bb40a17f4484a9a80163f644c9c3",
+                    "spotifyArtistUrl": "spotify:artist:5lPsVvHVDr6R5mDxRUXdOs",
+                    "favouritesCount": 783,
+                    "artistProfileUrl": "https://skiddle.com/artists/a1-123569033",
+                    "stageId": 0,
+                    "stageName": "",
+                    "stageDisplayOrder": 0,
+                    "artistsOrderBy": "custom",
+                    "scenario": "dates",
+                    "artistsDisplayOrder": 5,
+                    "headliner": false,
+                    "datePerforming": "2023-07-15"
+                },
+                {
+                    "id": 123552339,
+                    "name": "DJ Sammy",
+                    "active": true,
+                    "favourite": 0,
+                    "imageUrl": "https://i.scdn.co/image/ab676161000051743d276cf7aabcf9e549f1252d",
+                    "spotifyMp3Url": "https://p.scdn.co/mp3-preview/c9538f117d1fb3bec7406abbf62ec77e57abcfbc?cid=67f3bb40a17f4484a9a80163f644c9c3",
+                    "spotifyArtistUrl": "spotify:artist:4z4m1P0iX2nRSPDBEZ8LBT",
+                    "favouritesCount": 776,
+                    "artistProfileUrl": "https://skiddle.com/artists/dj-sammy-123552339",
+                    "stageId": 0,
+                    "stageName": "",
+                    "stageDisplayOrder": 0,
+                    "artistsOrderBy": "custom",
+                    "scenario": "dates",
+                    "artistsDisplayOrder": 0,
+                    "headliner": false,
+                    "datePerforming": "2023-07-15"
+                },
+                {
+                    "id": 123543633,
+                    "name": "SPECIAL D",
+                    "active": true,
+                    "favourite": 0,
+                    "imageUrl": "https://i.scdn.co/image/ab6761610000517437303f84430128d983a9e086",
+                    "spotifyMp3Url": "https://p.scdn.co/mp3-preview/502192e68410003ca2c910a3bc7f55c41f2947ba",
+                    "spotifyArtistUrl": "spotify:artist:4EViwTsUibZWyo1K5EgrJt",
+                    "favouritesCount": 240,
+                    "artistProfileUrl": "https://skiddle.com/artists/special-d-123543633",
+                    "stageId": 0,
+                    "stageName": "",
+                    "stageDisplayOrder": 0,
+                    "artistsOrderBy": "custom",
+                    "scenario": "dates",
+                    "artistsDisplayOrder": 0,
+                    "headliner": false,
+                    "datePerforming": "2023-07-15"
+                },
+                {
+                    "id": 123576833,
+                    "name": "Betty Boo",
+                    "active": true,
+                    "favourite": 0,
+                    "imageUrl": "https://i.scdn.co/image/ab67616100005174f5def4820493053c32dd4e54",
+                    "spotifyMp3Url": "https://p.scdn.co/mp3-preview/00e913c9e6a601dc1703c1a33999c46f56509573?cid=67f3bb40a17f4484a9a80163f644c9c3",
+                    "spotifyArtistUrl": "spotify:artist:5hMCIlD2CIuOBcWPHuQXKJ",
+                    "favouritesCount": 161,
+                    "artistProfileUrl": "https://skiddle.com/artists/betty-boo-123576833",
+                    "stageId": 0,
+                    "stageName": "",
+                    "stageDisplayOrder": 0,
+                    "artistsOrderBy": "custom",
+                    "scenario": "dates",
+                    "artistsDisplayOrder": 6,
+                    "headliner": false,
+                    "datePerforming": "2023-07-15"
+                },
+                {
+                    "id": 123545528,
+                    "name": "911 Band",
+                    "active": true,
+                    "favourite": 0,
+                    "imageUrl": "https://i.scdn.co/image/ab67616d00001e0201ae0a7c708b57b74003bae8",
+                    "spotifyMp3Url": "https://p.scdn.co/mp3-preview/08acd52cdce2cb469690e3665800084e08446625",
+                    "spotifyArtistUrl": "spotify:artist:2Y1Q8yxBVUwFurE5Ld0AUU",
+                    "favouritesCount": 152,
+                    "artistProfileUrl": "https://skiddle.com/artists/911-band-123545528",
+                    "stageId": 0,
+                    "stageName": "",
+                    "stageDisplayOrder": 0,
+                    "artistsOrderBy": "custom",
+                    "scenario": "dates",
+                    "artistsDisplayOrder": 3,
+                    "headliner": false,
+                    "datePerforming": "2023-07-15"
+                },
+                {
+                    "id": 123559855,
+                    "name": "Five (5ive)",
+                    "active": true,
+                    "favourite": 0,
+                    "imageUrl": "https://d1mdxzfl9p8pzo.cloudfront.net/5/123559855_1.jpg",
+                    "spotifyMp3Url": "",
+                    "spotifyArtistUrl": "",
+                    "favouritesCount": 133,
+                    "artistProfileUrl": "https://skiddle.com/artists/five-5ive-123559855",
+                    "stageId": 0,
+                    "stageName": "",
+                    "stageDisplayOrder": 0,
+                    "artistsOrderBy": "custom",
+                    "scenario": "dates",
+                    "artistsDisplayOrder": 4,
+                    "headliner": false,
+                    "datePerforming": "2023-07-15"
+                },
+                {
+                    "id": 123523168,
+                    "name": "DJ Sash",
+                    "active": true,
+                    "favourite": 0,
+                    "imageUrl": "https://i.scdn.co/image/ab67616d00001e02bce5cae458f199cf023c2f3c",
+                    "spotifyMp3Url": "https://p.scdn.co/mp3-preview/8c32633176532889989c98c8371f9c6d14411b49?cid=67f3bb40a17f4484a9a80163f644c9c3",
+                    "spotifyArtistUrl": "spotify:artist:1chPSZgtZUNUUlD5rqYRi5",
+                    "favouritesCount": 55,
+                    "artistProfileUrl": "https://skiddle.com/artists/dj-sash-123523168",
+                    "stageId": 0,
+                    "stageName": "",
+                    "stageDisplayOrder": 0,
+                    "artistsOrderBy": "custom",
+                    "scenario": "dates",
+                    "artistsDisplayOrder": 0,
+                    "headliner": false,
+                    "datePerforming": "2023-07-15"
+                },
+                {
+                    "id": 123580584,
+                    "name": "JX",
+                    "active": false,
+                    "favourite": 0,
+                    "imageUrl": "https://i.scdn.co/image/ab67616100005174e86c7d0fede0e6d9a4893c19",
+                    "spotifyMp3Url": "https://p.scdn.co/mp3-preview/a169abe0334c45867426d77892c2872e9735cdbc?cid=67f3bb40a17f4484a9a80163f644c9c3",
+                    "spotifyArtistUrl": "spotify:artist:0kjCW6i4ba1M9ou8OhgbV0",
+                    "favouritesCount": 1,
+                    "artistProfileUrl": "https://skiddle.com/artists/jx-123580584",
+                    "stageId": 0,
+                    "stageName": "",
+                    "stageDisplayOrder": 0,
+                    "artistsOrderBy": "custom",
+                    "scenario": "dates",
+                    "artistsDisplayOrder": 0,
+                    "headliner": false,
+                    "datePerforming": "2023-07-15"
+                }
+            ],
+            "reviews": [
+                {
+                    "id": 764181,
+                    "title": "Review of Kubix Festival",
+                    "body": "prices were rediculous, took way to long to get served and pretty much every act on the main stage done other peoples music rather than their own. ð¤·ââï¸ i personally wouldnt pay to go again but i would possibly consider sitting outside the event on the grass with a cool box and drinks. ",
+                    "postedDate": "2022-10-30 15:38:56",
+                    "verified": true,
+                    "eventName": "Kubix Festival",
+                    "overallRating": 3,
+                    "breakdown": {
+                        "ratingValue": 2,
+                        "ratingLocation": 3,
+                        "ratingAtmosphere": 3,
+                        "ratingMusic": 3
+                    },
+                    "user": {
+                        "fullName": "Michael Knight",
+                        "username": "MichaelKnight33",
+                        "image": ""
+                    }
+                },
+                {
+                    "id": 761388,
+                    "title": "Review of Kubix Festival",
+                    "body": "drinks prices where ridiculous and bar staff clueless ",
+                    "postedDate": "2022-10-29 09:23:06",
+                    "verified": true,
+                    "eventName": "Kubix Festival",
+                    "overallRating": 4,
+                    "breakdown": {
+                        "ratingValue": 1,
+                        "ratingLocation": 5,
+                        "ratingAtmosphere": 5,
+                        "ratingMusic": 5
+                    },
+                    "user": {
+                        "fullName": "Garry Pearson",
+                        "username": "GarryPearson",
+                        "image": ""
+                    }
+                },
+                {
+                    "id": 758272,
+                    "title": "Review of Kubix Festival",
+                    "body": "Fantastic day out with fantastic cheesey music. Loved it",
+                    "postedDate": "2022-10-23 03:39:17",
+                    "verified": true,
+                    "eventName": "Kubix Festival",
+                    "overallRating": 5,
+                    "breakdown": {
+                        "ratingValue": 5,
+                        "ratingLocation": 5,
+                        "ratingAtmosphere": 5,
+                        "ratingMusic": 5
+                    },
+                    "user": {
+                        "fullName": "Ken Chung",
+                        "username": "KenChung3",
+                        "image": "https://platform-lookaside.fbsbx.com/platform/profilepic/?asid=10216598137532981&height=400&ext=1668553049&hash=AeTEo3r0ziGimFf0fJQ"
+                    }
+                },
+                {
+                    "id": 752249,
+                    "title": "Review of Kubix Festival",
+                    "body": "",
+                    "postedDate": "2022-10-09 01:34:13",
+                    "verified": true,
+                    "eventName": "Kubix Festival",
+                    "overallRating": 3.5,
+                    "breakdown": {
+                        "ratingValue": 1,
+                        "ratingLocation": 4,
+                        "ratingAtmosphere": 4,
+                        "ratingMusic": 4
+                    },
+                    "user": {
+                        "fullName": "Grant Bilton",
+                        "username": "GrantBilton",
+                        "image": "https://platform-lookaside.fbsbx.com/platform/profilepic/?asid=10159054841468902&height=400&ext=1671479037&hash=AeQUvI8vJOy2cJ6rI7Y"
+                    }
+                },
+                {
+                    "id": 735759,
+                    "title": "Review of Kubix Festival",
+                    "body": "food and drinks prices were total rip off ,but ticket prices really cheep and venue was great",
+                    "postedDate": "2022-08-29 15:10:15",
+                    "verified": true,
+                    "eventName": "Kubix Festival",
+                    "overallRating": 5,
+                    "breakdown": {
+                        "ratingValue": 5,
+                        "ratingLocation": 5,
+                        "ratingAtmosphere": 5,
+                        "ratingMusic": 5
+                    },
+                    "user": {
+                        "fullName": "Julie Flowers",
+                        "username": "Julieflowers2",
+                        "image": ""
+                    }
+                },
+                {
+                    "id": 734520,
+                    "title": "Review of Kubix Festival",
+                    "body": "",
+                    "postedDate": "2022-08-28 23:29:32",
+                    "verified": true,
+                    "eventName": "Kubix Festival",
+                    "overallRating": 3,
+                    "breakdown": {
+                        "ratingValue": 1,
+                        "ratingLocation": 3,
+                        "ratingAtmosphere": 3,
+                        "ratingMusic": 5
+                    },
+                    "user": {
+                        "fullName": "Joanne Dixon",
+                        "username": "JoanneDixon12",
+                        "image": ""
+                    }
+                },
+                {
+                    "id": 734515,
+                    "title": "Review of Kubix Festival",
+                    "body": "",
+                    "postedDate": "2022-08-28 23:25:34",
+                    "verified": true,
+                    "eventName": "Kubix Festival",
+                    "overallRating": 3,
+                    "breakdown": {
+                        "ratingValue": 3,
+                        "ratingLocation": 2,
+                        "ratingAtmosphere": 3,
+                        "ratingMusic": 4
+                    },
+                    "user": {
+                        "fullName": "Georgia Knowles",
+                        "username": "GeorgiaKnowles4",
+                        "image": "https://graph.facebook.com/10156626075953251/picture?type=large"
+                    }
+                },
+                {
+                    "id": 734461,
+                    "title": "Review of Kubix Festival",
+                    "body": "music acts brilliant\nproblems with Internet connection ",
+                    "postedDate": "2022-08-28 22:49:21",
+                    "verified": true,
+                    "eventName": "Kubix Festival",
+                    "overallRating": 4.5,
+                    "breakdown": {
+                        "ratingValue": 4,
+                        "ratingLocation": 4,
+                        "ratingAtmosphere": 5,
+                        "ratingMusic": 5
+                    },
+                    "user": {
+                        "fullName": "Deborah Sheldon",
+                        "username": "DEBORAHSHELDON1",
+                        "image": ""
+                    }
+                },
+                {
+                    "id": 731683,
+                    "title": "Review of Kubix Festival",
+                    "body": "Best one yet. ",
+                    "postedDate": "2022-08-21 14:32:19",
+                    "verified": true,
+                    "eventName": "Kubix Festival",
+                    "overallRating": 5,
+                    "breakdown": {
+                        "ratingValue": 5,
+                        "ratingLocation": 5,
+                        "ratingAtmosphere": 5,
+                        "ratingMusic": 5
+                    },
+                    "user": {
+                        "fullName": "Vicky Ellison",
+                        "username": "VickyEllison",
+                        "image": ""
+                    }
+                },
+                {
+                    "id": 723271,
+                    "title": "Review of Kubix Festival",
+                    "body": "",
+                    "postedDate": "2022-08-01 16:39:11",
+                    "verified": true,
+                    "eventName": "Kubix Festival",
+                    "overallRating": 4.5,
+                    "breakdown": {
+                        "ratingValue": 3,
+                        "ratingLocation": 5,
+                        "ratingAtmosphere": 5,
+                        "ratingMusic": 5
+                    },
+                    "user": {
+                        "fullName": "Shiona Carr",
+                        "username": "shionacarr",
+                        "image": ""
+                    }
+                }
+            ],
+            "meta": {
+                "totalPages": 20,
+                "totalResults": 192
+            },
+            "reviewsSummary": {
+                "totalReviews": 25,
+                "ratingValue": 4.5,
+                "ratingLocation": 5,
+                "ratingAtmosphere": 5,
+                "ratingMusic": 5,
+                "overallRating": 5
+            },
+            "faqs": [
+                {
+                    "id": 525,
+                    "festivalId": 2165,
+                    "question": "When is Kubix Festival - Pop & Dance?",
+                    "answer": "<p>Kubix Festival - Pop &amp; Dance takes place on Saturday 15th July 2023.</p>",
+                    "order": 1,
+                    "tab": "general"
+                },
+                {
+                    "id": 527,
+                    "festivalId": 2165,
+                    "question": "Tickets availability and info",
+                    "answer": "<p>Tickets are emailed electronically to you immediately after your purchase, so please enter your email address accurately.</p>\r\n<p>&nbsp;</p>\r\n<p>Tickets for Kubix Festival 2023 will be released in tiers containing a pre-determined allocation of tickets.&nbsp; Early Birds are the first, with the cheapest price, followed by First Release and then Second Relase. When each release sells out, the following release becomes available at a new higher price so the sooner you buy, the more you save.&nbsp; There will be announcements on the website and social media before each release is due to sell out.</p>\r\n<p>&nbsp;</p>\r\n<p>We can guarantee that the initial Early Bird price launched first are THE cheapest tickets available at any time for 2023's Kubix Festival.</p>\r\n<p>&nbsp;</p>\r\n<p>We expect Kubix Festival 2023 to sell-out in advance, as it did in 2022.</p>",
+                    "order": 1,
+                    "tab": "ticket_information"
+                },
+                {
+                    "id": 531,
+                    "festivalId": 2165,
+                    "question": "Where do the shuttle buses for Kubix Festival - Pop & Dance run from?",
+                    "answer": "<p>All bus ticket options can be found in the tickets section, and each ticket reserves a set for return bus travel to and from the festival. Buses will depart at a set pick-up time and return from the festival at 11pm, after all the music has finished. Buses will return to the same pick-up / drop-off point. Exact times and addresses are below:</p>\r\n<p>Saturday 15th July 2023</p>\r\n<ul>\r\n<li>10.50 Middlesbrough, Bus Stop outside Domino's Pizza, Linthorpe Road, TS1 3RB &amp; 11.30 Hartlepool, The National Museum Royal Navy Hartlepool, Jackson Dock, Maritime Avenue, Hartlepool, TS24 0XZ - Coach Park</li>\r\n<li>11.40 Newcastle, Bewick Street &amp; 12.00 Gateshead, Bus Stop at bottom of Jackson Street (High Street end) outside The Metropole</li>\r\n<li>12.00 Durham, Sutton Street bus stop opposite Domino&rsquo;s</li>\r\n<li>12.00 Sunderland, Cowan Terrace (adjacent to Park Lane Interchange)</li>\r\n<li>11.15 Darlington, Outside Dolphin Centre</li>\r\n</ul>\r\n<p>For further details and maps, please visit&nbsp;https://www.kubixfestival.com/event-info/</p>",
+                    "order": 1,
+                    "tab": "travel"
+                },
+                {
+                    "id": 3131,
+                    "festivalId": 2165,
+                    "question": "Does Kubix Festival - Pop & Dance have onsite camping?",
+                    "answer": "<p>YES! Kubix Festival's pop and dance day on Saturday 15th July 2023 will have camping right next door to the music arena, for tents, motorhomes and caravans. The vehicle parking will be next door, so there'll be no long walks with your camping gear or to the music arena.</p>\r\n<p>&nbsp;</p>\r\n<p>Camping tickets are in addition to the music entry tickets and are for tent camping, per person. If you are camping in a caravan, motorhome or camper van, you will also require a Live-In Vehicle Permit (one permit per vehicle). Campsite times and dates are for:</p>\r\n<p>&nbsp;</p>\r\n<p>The camp site will open from 9am on Saturday 15th July, until 2pm on Sunday 16th July 2023.</p>\r\n<p>&nbsp;</p>\r\n<p>There will be 4 main camping sections which will all be very close together and next door to the music arena, so no long walks:</p>\r\n<ul>\r\n<li>Tents</li>\r\n<li>Motorhomes and caravans</li>\r\n<li>Car parking for campers with tents</li>\r\n<li>Disabled camping section, located at the closest point of the camp site, to the music arena.</li>\r\n</ul>",
+                    "order": 1,
+                    "tab": "camping"
+                },
+                {
+                    "id": 3151,
+                    "festivalId": 2165,
+                    "question": "Accessibility information",
+                    "answer": "<p>It is very important to the organisers that the event is accessible to everyone, and all aspects are being reviewed to make further improvements in 2023. This includes the availability of accessible disabled parking, toilets, including disabled toilets which will be separately located in a secure stewarded area, and designing the site so that it utilises hard standing routes to make the event as accessible as possible for wheelchair users.</p>\r\n<p>&nbsp;</p>\r\n<p>There will also be a dedicated viewing area for wheelchair users to view the event, though it does have a capacity and will be first come first served to wheelchair users and one companion.</p>\r\n<p>&nbsp;</p>\r\n<p>Any person with additional needs who requires a free ticket for a carer or assistant, can email Kubix Festival at info@kubixfestival.co.uk with the ticket order reference number and copy proof of PIP.</p>\r\n<p>&nbsp;</p>\r\n<p>The free Disabled Facilities Access Permit is for those who require accessible facilities or additional support to accommodate disabilities only, and can be accessed by booking the free Disabled Facilities Access Permit, in addition to all normal purchased tickets (per person). Kindly note the Disabled Permit is NOT an entry ticket and is additional to the entry tickets per person.</p>\r\n<p>&nbsp;</p>\r\n<p>If you have any other specific requirements, please contact info@kubixfestival.co.uk for more details.</p>",
+                    "order": 1,
+                    "tab": "disabled_access"
+                },
+                {
+                    "id": 526,
+                    "festivalId": 2165,
+                    "question": "Where is Kubix Festival - Pop & Dance?",
+                    "answer": "<p>Kubix Festival - Pop &amp; Dance is located at Herrington Country Park in Sunderland, Tyne &amp; Wear, DH4 7EL.</p>",
+                    "order": 2,
+                    "tab": "general"
+                },
+                {
+                    "id": 3127,
+                    "festivalId": 2165,
+                    "question": "What happens if I bought a ticket and cannot attend?",
+                    "answer": "<p>Unfortunately we can&rsquo;t issue you with a refund if you can&rsquo;t make the event due to work commitments or your mates have dropped out. In these circumstances, we advise passing on your tickets privately to avoid losing out on the money spent. Refunds can only be offered if the event is cancelled or postponed, as agreed upon purchase.</p>\r\n<p>&nbsp;</p>",
+                    "order": 2,
+                    "tab": "ticket_information"
+                },
+                {
+                    "id": 3132,
+                    "festivalId": 2165,
+                    "question": "What facilities are there on the camp site?",
+                    "answer": "<p>The camp site facilities will include:</p>\r\n<ul>\r\n<li>24/7 security</li>\r\n<li>Toilets, showers and drinking water supplies</li>\r\n<li>ELSAN waste disposal point</li>\r\n</ul>",
+                    "order": 2,
+                    "tab": "camping"
+                },
+                {
+                    "id": 3141,
+                    "festivalId": 2165,
+                    "question": "Directions travelling on the A1 from the North",
+                    "answer": "<p>Travelling southbound on the A1, take the turnoff for the A1231 (Washington, Sunderland). At the 1st roundabout, take the 3rd Exit (A1231, Washington, Sunderland).&nbsp; At the next Roundabout, take the 3rd Exit (A182). At the next Roundabout take the 1st Exit to continue on the A182.&nbsp; At the next Roundabout, take the 2nd Exit onto the A183 (Sunderland). Continue on this road until you reach Herrington Country Park.</p>",
+                    "order": 2,
+                    "tab": "travel"
+                },
+                {
+                    "id": 3152,
+                    "festivalId": 2165,
+                    "question": "",
+                    "answer": "",
+                    "order": 2,
+                    "tab": "disabled_access"
+                },
+                {
+                    "id": 3125,
+                    "festivalId": 2165,
+                    "question": "Is Kubix Festival - Pop & Dance safe and family friendly?",
+                    "answer": "<p>Certainly! Kubix Festival -&nbsp;Pop &amp; Dance is a family friendly event and children of all ages are welcome!&nbsp; Junior tickets allow access, at a reduced price, for children aged 15 and under. Under 18s are welcome, provided they are accompanied by a responsible ticket-holding Adult over the age of 21.&nbsp; Children 5 and under are free and do not require a ticket.</p>\r\n<p>&nbsp;</p>\r\n<p>Kubix Festival - Pop &amp; Dance's Security Provider are specialists in Live Music Events and supports its provider in ensuring that their zero-tolerance approach to anti-social or disruptive behaviour maintains a calm and enjoyable atmosphere for everyone.</p>\r\n<p>&nbsp;</p>\r\n<p>Also available on-site are a team of professional medical staff to assist with any problems.</p>\r\n<p>&nbsp;</p>\r\n<p>The festival also have comprehensive safeguarding policies including a professional approach to dealing with lost children to ensure that all possible steps are taken to keep everyone as safe as possible.</p>",
+                    "order": 3,
+                    "tab": "general"
+                },
+                {
+                    "id": 3128,
+                    "festivalId": 2165,
+                    "question": "What does a VIP Ticket include?",
+                    "answer": "<p>Kubix Festival's 2023 VIP option is being arranged by a new bespoke team of independent hospitality experts, to ensure the very best VIP experience possible, with a host of further changes and improvements implemented, to make the VIP experience the very best it can be. For 2023 there will be:&nbsp;</p>\r\n<ul>\r\n<li>A top-quality BBQ, offering a range of meat, vegetarian and vegan options, accompanied by a variety of accompaniments and salads plus a range of sweet choices.</li>\r\n<li>Posh toilets for exclusive use of VIP only.</li>\r\n<li>Separate parking and a fast track separate entrance.</li>\r\n<li>Dressed marquee, heated, with table seating and soft furnishings.</li>\r\n<li>Dedicated cocktail bar with trained mixologists and premium drinks (ice buckets, etc.).</li>\r\n<li>Welcome drink of your choice included on arrival.</li>\r\n<li>Various special drink packages available to buy on the day. Details of these will be posted here at least 2 months before the event.</li>\r\n<li>Guest DJ in the VIP marquee.</li>\r\n<li>Beer garden seating area (expanded in size from 2021&rsquo;s) with excellent stage views.</li>\r\n</ul>\r\n<p>This VIP experience will be for very limited numbers only on each day and a VIP ticket can be purchased including the standard entry ticket, or as a VIP upgrade, if you have already bought a standard ticket. If you have any queries about VIP just email info@kubixfestival.com</p>",
+                    "order": 3,
+                    "tab": "ticket_information"
+                },
+                {
+                    "id": 3133,
+                    "festivalId": 2165,
+                    "question": "Can I park my car next to my tent?",
+                    "answer": "<p>For safety reasons, to avoid the risk of vehicles driving between tents, the cars will be parked in a separate car park next door to the tents area.</p>",
+                    "order": 3,
+                    "tab": "camping"
+                },
+                {
+                    "id": 3142,
+                    "festivalId": 2165,
+                    "question": "Directions travelling on the A1 from the South",
+                    "answer": "<p>Travelling northbound on the A1, take the turnoff for the A690 (Sunderland). Continue on the A690 until you reach the A19.&nbsp; At the Roundabout take the 1st exit onto the A19. Take the next exit signposted A183 (Sunderland). Take the 1st Exit at the Roundabout and follow the road until you reach Herrington Country Park.</p>",
+                    "order": 3,
+                    "tab": "travel"
+                },
+                {
+                    "id": 3126,
+                    "festivalId": 2165,
+                    "question": "What Food & Drink and other items can I bring into the festival?",
+                    "answer": "<p>Each attendee can bring a small bottle of water or soft drink up to 500ml, if it remains sealed, as bought.&nbsp; Free drinking water will be available at points throughout the festival, so you can bring an empty reusable plastic or aluminium bottle to the event for water refills. Alcohol cannot be brought into the event.</p>\r\n<p>&nbsp;</p>\r\n<p>Any person with specific dietary requirements can inform the festival organisers in advance and, where suitable options aren&rsquo;t available on site, they will give dispensation to bring suitable food to the event. Please email INFO@KUBIXFESTIVAL.CO.UK if you have specific dietary requirements.&nbsp; Personal picnics are also permitted into the event, upon arrival, but no metal/glass utensils, glass bottles (including perfume bottles), or cool boxes, for safety and security reasons can be brought into the event.</p>\r\n<p>&nbsp;</p>\r\n<p>Further take away food cannot be brought in during the event.&nbsp; There will be&nbsp;a wide choice of caterers who will be very reasonably priced.</p>\r\n<p>&nbsp;</p>\r\n<p>Please note, to allow time for security bag searches, a 'no big bags policy' will be in operation, so no large rucksacks or bags are permitted. Only small rucksacks/bags with length/width dimensions no larger than a piece of A4 paper can be brought into the music arena.</p>",
+                    "order": 4,
+                    "tab": "general"
+                },
+                {
+                    "id": 3129,
+                    "festivalId": 2165,
+                    "question": "Can I use a ticket from last year's event that I didn't use?",
+                    "answer": "<p>Unused Tickets from the 2022 festival cannot be used for the 2023 event.</p>",
+                    "order": 4,
+                    "tab": "ticket_information"
+                },
+                {
+                    "id": 3134,
+                    "festivalId": 2165,
+                    "question": "What is the difference between the Live-In Vehicle Camping and Tent Camping Add-Ons?",
+                    "answer": "<p>The Camping Add-On tickets are PER PERSON wishing to camp, and allow TENTS CAMPING (plus car parking) on Saturday. They must be purchased in addition to a standard music entry ticket, per person.</p>\r\n<p>&nbsp;</p>\r\n<p>If you wish to camp in a motorhome, caravan or camper van, you will also need a LIVE-IN VEHICLE PERMIT (one permit per live-in vehicle).</p>",
+                    "order": 4,
+                    "tab": "camping"
+                },
+                {
+                    "id": 3143,
+                    "festivalId": 2165,
+                    "question": "Directions travelling on the A19 from the North",
+                    "answer": "<p>Travelling on the A19, take the turnoff signposted A183 (Sunderland). At the roundabout, take the 3rd Exit onto the A183 (Herrington) and follow the road until you reach Herrington Country Park.</p>",
+                    "order": 4,
+                    "tab": "travel"
+                },
+                {
+                    "id": 3130,
+                    "festivalId": 2165,
+                    "question": "Do children need tickets?",
+                    "answer": "<ul>\r\n<li>Children aged 6-15 qualify for a ticket at a reduced price.</li>\r\n<li>Children ages 5 and under are free and do not require a ticket.</li>\r\n<li>Under 18s must be accompanied by a responsible ticket-holding adult aged 21+.</li>\r\n</ul>",
+                    "order": 5,
+                    "tab": "ticket_information"
+                },
+                {
+                    "id": 3135,
+                    "festivalId": 2165,
+                    "question": "Is there a quiet family camping area?",
+                    "answer": "<p>There will be a quiet family area of the camp site located further away from the music arena. This section does not have to be pre-booked and you can choose to pitch up in this area when you arrive. The stewards will direct you to this area.</p>",
+                    "order": 5,
+                    "tab": "camping"
+                },
+                {
+                    "id": 3144,
+                    "festivalId": 2165,
+                    "question": "Directions travelling on the A19 from the South",
+                    "answer": "<p>Travelling on the A19, take the turnoff signposted A183 (Sunderland). At the roundabout, take the 1st Exit onto the A183 (Herrington) and follow the road until you reach Herrington Country Park.</p>",
+                    "order": 5,
+                    "tab": "travel"
+                },
+                {
+                    "id": 3154,
+                    "festivalId": 2165,
+                    "question": "Can we leave and come back in?",
+                    "answer": "<p>Yes, you can.&nbsp; Once you have entered the event, you can leave any time you wish and re-enter (further picnics cannot be brought in on re-entry) by showing your wristband, which you will be given. There will, however, be a last entry time to the event of 8pm, after which time you will not be able to re-enter the event.&nbsp; This is to ensure that as much attention as possible to paid to the running of the event at its busiest times and the site can be made ready for the exit of all of the attendees in a safe manner.</p>",
+                    "order": 5,
+                    "tab": "general"
+                },
+                {
+                    "id": 3136,
+                    "festivalId": 2165,
+                    "question": "Can I pitch up next to my friends?",
+                    "answer": "<p>The camp sites are filled sequentially on arrival, so if you'd like to pitch up next to friends, please arrive together.</p>\r\n<p>&nbsp;</p>\r\n<p>Tents and accompanying vehicles, for safety reasons, are in separate areas of each camp site to motorhomes and caravans. Campers are able to socialise with friends in any other areas of the camp site.</p>",
+                    "order": 6,
+                    "tab": "camping"
+                },
+                {
+                    "id": 3145,
+                    "festivalId": 2165,
+                    "question": "Where can I park?",
+                    "answer": "<p>There is a large car park within Herrington Country Park which will be manned by our stewards. There is NO CHARGE for this car parking at Kubix Festival. If you have a VIP ticket, you will have access to a further car park right at the door of the event, included in the price of your VIP ticket.</p>",
+                    "order": 6,
+                    "tab": "travel"
+                },
+                {
+                    "id": 3155,
+                    "festivalId": 2165,
+                    "question": "Can we bring folding chairs, blankets, etc in?",
+                    "answer": "<p>There is&nbsp;a small amount of seating and tables around the bar area. If you would like to bring your own folding chairs or blankets, please feel free.&nbsp; There will, however, be an area immediately in front of the stage which will be marked as standing only and no chairs/blankets will be permitted in that area for safety reasons.</p>\r\n<p>&nbsp;</p>\r\n<p>Kubix is an open-air 'music in the park' style event with great views from all areas of the park and video screens for enhanced viewing enjoyment.</p>",
+                    "order": 6,
+                    "tab": "general"
+                },
+                {
+                    "id": 3137,
+                    "festivalId": 2165,
+                    "question": "What Food & Drink can I bring into the camp site?",
+                    "answer": "<p>Campers can bring personal food and drink onto the site for consumption by campers, in the camp site only.</p>\r\n<p>&nbsp;</p>\r\n<p>Free drinking water will be provided so you can bring in an empty reusable plastic or aluminium bottle for refills.</p>\r\n<p>&nbsp;</p>\r\n<p>NO GLASS or metal utensils are allowed anywhere on site due to Health &amp; Safety restrictions.</p>",
+                    "order": 7,
+                    "tab": "camping"
+                },
+                {
+                    "id": 3156,
+                    "festivalId": 2165,
+                    "question": "Are dogs allowed into the event?",
+                    "answer": "<p>Unfortunately, for safety reasons, dogs are not allowed, except for guide or assistance dogs, who will be permitted.</p>",
+                    "order": 7,
+                    "tab": "general"
+                },
+                {
+                    "id": 3138,
+                    "festivalId": 2165,
+                    "question": "What are the rules on BBQs/Fires/Stoves?",
+                    "answer": "<ul>\r\n<li>Open fires are permitted only in fireproof containers clearly raised from the ground (fire pits etc) and should only be used when supervised by persons sober and sensible.</li>\r\n<li>BBQs are permitted only when clearly raised from the ground (fire pits etc) and should only be used when supervised by persons sober and sensible.</li>\r\n<li>Camping Stoves are permitted,&nbsp;you are encouraged&nbsp;to use either solid or liquid fuelled options which are not only much safer but more environmentally friendly too.</li>\r\n<li>If you use a gas canister supplied stove (butane etc) please ensure that you bring only the minimum amount of gas required for your stay and both always use and store these items appropriately.</li>\r\n<li>All fires / stoves must always be used an appropriate distance from any tents.&nbsp; At least 1m is essential and over 2m for any form of open fire or BBQ.</li>\r\n<li>Security will prevent any improper use of fires, BBQs or stoves and person who fail to follow these basic safety steps risk their items being seized and/or being ejected from the Festival.</li>\r\n</ul>\r\n<p>Please enjoy, but do so sensibly and safely, thank you.</p>",
+                    "order": 8,
+                    "tab": "camping"
+                },
+                {
+                    "id": 3157,
+                    "festivalId": 2165,
+                    "question": "Are there any rides and attractions?",
+                    "answer": "<p>Kubix Festival aims to be much more than just the live music and there will be various other activities within the event, including fairground rides, lots of new children's entertainment, novelty attractions and a variety of traders exhibiting items for sale along the theme of the event.</p>",
+                    "order": 8,
+                    "tab": "general"
+                },
+                {
+                    "id": 3139,
+                    "festivalId": 2165,
+                    "question": "Which camp site will my tickets be for?\t",
+                    "answer": "<p>Camping pitches will be filled sequentially on arrival, so you will be directed to the correct camp site for your camping pitch, by stewards, as you arrive.</p>\r\n<p>&nbsp;</p>\r\n<p>There will be dedicated sections for:</p>\r\n<ul>\r\n<li>Tents</li>\r\n<li>Car Parking</li>\r\n<li>Motorhomes/caravans/live-in vehicles</li>\r\n<li>Disabled camping section, located at the closest point in the camp site to the music arena.</li>\r\n</ul>",
+                    "order": 9,
+                    "tab": "camping"
+                },
+                {
+                    "id": 3158,
+                    "festivalId": 2165,
+                    "question": "Is there a cash withdrawal facility in the event?",
+                    "answer": "<p>Confirmation on this will be made at a later date.</p>\r\n<p>&nbsp;</p>\r\n<p>All the bars will accept credit and debit cards, including contactless in 2023.</p>",
+                    "order": 9,
+                    "tab": "general"
+                },
+                {
+                    "id": 3140,
+                    "festivalId": 2165,
+                    "question": "Is there a Disabled camp site?",
+                    "answer": "<p>There will be a Disabled Camping Section close to the music arena for ease of access, clearly signposted on the weekend, and this does not need to be pre-booked in advance.</p>",
+                    "order": 10,
+                    "tab": "camping"
+                }
+            ],
+            "venue": {
+                "id": 1655,
+                "name": "Herrington Country Park",
+                "location": {
+                    "address": "Herrington Country Park",
+                    "town": "Sunderland",
+                    "postcode": "DH4 7EL",
+                    "latitude": 54.907252,
+                    "longitude": -1.381052
+                },
+                "type": "Outdoors",
+                "imageUrl": "false",
+                "postcodeLookup": "Durham"
+            },
+            "adminPanelData": {
+                "memory": 414,
+                "version": "v16.19.0",
+                "containerIP": "169.254.172.2",
+                "listingsData": [
+                    {
+                        "listingId": "1462576",
+                        "listingInstance": 36139210,
+                        "startDate": "2023-07-15",
+                        "endDate": "2023-07-15",
+                        "eventName": "Kubix Festival",
+                        "facebookAdsTrackingID": "0",
+                        "facebookAdsTrackingMode": "checkout",
+                        "facebookAdsTrackingCurrency": "GBP",
+                        "googleAnalyticsAccountID": "",
+                        "adwordsAdsTrackingID": "",
+                        "adwordsAdsTrackingLabel": "",
+                        "adwordsAdsTrackingCurrency": "GBP",
+                        "tiktokPixelID": "",
+                        "snapchatPixelID": "",
+                        "skiddleFBPixelID": "1125788887935179",
+                        "deliveryTypes": {
+                            "eTickets": false,
+                            "rapidscan": true,
+                            "rapidscanFormat": "QRCODE",
+                            "recorded": false,
+                            "special": false,
+                            "space": false,
+                            "intSpecial": false
+                        }
+                    }
+                ],
+                "promoterID": 170679,
+                "remoteAddr": "93.84.31.149"
+            },
+            "reviewsDisplayFour": [
+                {
+                    "id": 758272,
+                    "title": "Review of Kubix Festival",
+                    "body": "Fantastic day out with fantastic cheesey music. Loved it",
+                    "postedDate": "2022-10-23 03:39:17",
+                    "verified": true,
+                    "eventName": "Kubix Festival",
+                    "overallRating": 5,
+                    "breakdown": {
+                        "ratingValue": 5,
+                        "ratingLocation": 5,
+                        "ratingAtmosphere": 5,
+                        "ratingMusic": 5
+                    },
+                    "user": {
+                        "fullName": "Ken Chung",
+                        "username": "KenChung3",
+                        "image": "https://platform-lookaside.fbsbx.com/platform/profilepic/?asid=10216598137532981&height=400&ext=1668553049&hash=AeTEo3r0ziGimFf0fJQ"
+                    }
+                },
+                {
+                    "id": 735759,
+                    "title": "Review of Kubix Festival",
+                    "body": "food and drinks prices were total rip off ,but ticket prices really cheep and venue was great",
+                    "postedDate": "2022-08-29 15:10:15",
+                    "verified": true,
+                    "eventName": "Kubix Festival",
+                    "overallRating": 5,
+                    "breakdown": {
+                        "ratingValue": 5,
+                        "ratingLocation": 5,
+                        "ratingAtmosphere": 5,
+                        "ratingMusic": 5
+                    },
+                    "user": {
+                        "fullName": "Julie Flowers",
+                        "username": "Julieflowers2",
+                        "image": ""
+                    }
+                },
+                {
+                    "id": 734461,
+                    "title": "Review of Kubix Festival",
+                    "body": "music acts brilliant\nproblems with Internet connection ",
+                    "postedDate": "2022-08-28 22:49:21",
+                    "verified": true,
+                    "eventName": "Kubix Festival",
+                    "overallRating": 4.5,
+                    "breakdown": {
+                        "ratingValue": 4,
+                        "ratingLocation": 4,
+                        "ratingAtmosphere": 5,
+                        "ratingMusic": 5
+                    },
+                    "user": {
+                        "fullName": "Deborah Sheldon",
+                        "username": "DEBORAHSHELDON1",
+                        "image": ""
+                    }
+                },
+                {
+                    "id": 731683,
+                    "title": "Review of Kubix Festival",
+                    "body": "Best one yet. ",
+                    "postedDate": "2022-08-21 14:32:19",
+                    "verified": true,
+                    "eventName": "Kubix Festival",
+                    "overallRating": 5,
+                    "breakdown": {
+                        "ratingValue": 5,
+                        "ratingLocation": 5,
+                        "ratingAtmosphere": 5,
+                        "ratingMusic": 5
+                    },
+                    "user": {
+                        "fullName": "Vicky Ellison",
+                        "username": "VickyEllison",
+                        "image": ""
+                    }
+                },
+                {
+                    "id": 710697,
+                    "title": "Review of Kubix Festival",
+                    "body": "Fab event. Just needed better litter control and collection. ",
+                    "postedDate": "2022-07-16 18:12:22",
+                    "verified": true,
+                    "eventName": "Kubix Festival",
+                    "overallRating": 4.5,
+                    "breakdown": {
+                        "ratingValue": 4,
+                        "ratingLocation": 5,
+                        "ratingAtmosphere": 4,
+                        "ratingMusic": 5
+                    },
+                    "user": {
+                        "fullName": "Tanya South-Fitzhugh",
+                        "username": "TanyaSouth-Fitzhugh",
+                        "image": "https://platform-lookaside.fbsbx.com/platform/profilepic/?asid=10223482936234022&height=400&ext=1660070853&hash=AeTQziJ9rRZxTJrt15c"
+                    }
+                },
+                {
+                    "id": 709857,
+                    "title": "Review of Kubix Festival",
+                    "body": "Could have done with more water stations and bins but the kids loved their first festival!!! Finally got to see Steps after 25 years!!!",
+                    "postedDate": "2022-07-11 22:20:49",
+                    "verified": true,
+                    "eventName": "Kubix Festival",
+                    "overallRating": 5,
+                    "breakdown": {
+                        "ratingValue": 4,
+                        "ratingLocation": 5,
+                        "ratingAtmosphere": 5,
+                        "ratingMusic": 5
+                    },
+                    "user": {
+                        "fullName": "Eva-Lousie Hannon",
+                        "username": "Eva-LousieHannon",
+                        "image": ""
+                    }
+                },
+                {
+                    "id": 708985,
+                    "title": "Review of Kubix Festival",
+                    "body": "It was EPIC! ",
+                    "postedDate": "2022-07-10 14:20:28",
+                    "verified": true,
+                    "eventName": "Kubix Festival",
+                    "overallRating": 5,
+                    "breakdown": {
+                        "ratingValue": 5,
+                        "ratingLocation": 5,
+                        "ratingAtmosphere": 5,
+                        "ratingMusic": 5
+                    },
+                    "user": {
+                        "fullName": "Deborah Taylor-Smith",
+                        "username": "DeborahTaylor-smith",
+                        "image": "https://platform-lookaside.fbsbx.com/platform/profilepic/?asid=1178032798875923&height=400&ext=1656971591&hash=AeTNc0Kmfr7wEVSfKxE"
+                    }
+                },
+                {
+                    "id": 708968,
+                    "title": "Review of Kubix Festival",
+                    "body": "brilliant first festival as a family. the music was great for all of us, nostalgic for the oldies and fun for the kids. they could have allowed for more space as at times it felt claustrophobic and daunting for the little ones. toilets for little ones would have also been great as waiting times for general ones were crazy at times, and when kids need to go.... they need to go. will definitely go back next year if the line up was as great as this year's. ",
+                    "postedDate": "2022-07-10 13:54:46",
+                    "verified": true,
+                    "eventName": "Kubix Festival",
+                    "overallRating": 4.5,
+                    "breakdown": {
+                        "ratingValue": 5,
+                        "ratingLocation": 4,
+                        "ratingAtmosphere": 4,
+                        "ratingMusic": 4
+                    },
+                    "user": {
+                        "fullName": "Mat Wright",
+                        "username": "matWright2",
+                        "image": ""
+                    }
+                },
+                {
+                    "id": 708882,
+                    "title": "Review of Kubix Festival",
+                    "body": "absolutely awesome festival. we were vip and was worth paying the extra. vip area gave brilliant viewing of stage. sound was fantastic. kroud karaoke was a brilliant idea. vip food, drink, toilets and all round atmosphere was really good from start to finish..defo going back next year if line up was as good ",
+                    "postedDate": "2022-07-10 12:28:50",
+                    "verified": true,
+                    "eventName": "Kubix Festival",
+                    "overallRating": 5,
+                    "breakdown": {
+                        "ratingValue": 5,
+                        "ratingLocation": 5,
+                        "ratingAtmosphere": 5,
+                        "ratingMusic": 5
+                    },
+                    "user": {
+                        "fullName": "Katherine Brabrook",
+                        "username": "KatherineBrabrook",
+                        "image": ""
+                    }
+                },
+                {
+                    "id": 708707,
+                    "title": "Review of Kubix Festival",
+                    "body": "absolute brilliant day, atmosphere was amazing. we all had the beat day, will remember this day forever ",
+                    "postedDate": "2022-07-10 10:47:55",
+                    "verified": true,
+                    "eventName": "Kubix Festival",
+                    "overallRating": 5,
+                    "breakdown": {
+                        "ratingValue": 4,
+                        "ratingLocation": 5,
+                        "ratingAtmosphere": 5,
+                        "ratingMusic": 5
+                    },
+                    "user": {
+                        "fullName": "Jane Bel",
+                        "username": "JaneBel",
+                        "image": ""
+                    }
+                }
+            ],
+            "news": null
+        },
+        "__N_SSP": true
+    },
+    "page": "/[...all]",
+    "query": {
+        "all": [
+            "kubix-festival"
+        ]
+    },
+    "buildId": "s36eHI9zSRpf3XbedkL60",
+    "assetPrefix": "/festivals",
+    "isFallback": false,
+    "dynamicIds": [
+        6772,
+        7315
+    ],
+    "gssp": true,
+    "customServer": true,
+    "scriptLoader": []
+}

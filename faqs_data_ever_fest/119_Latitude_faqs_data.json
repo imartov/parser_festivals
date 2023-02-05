@@ -1,0 +1,2107 @@
+{
+    "props": {
+        "pageProps": {
+            "festival": {
+                "introText": "<h3>About Latitude</h3>\r\n<p>Latitude has become renowned for its unique atmosphere as well as its eclectic and thoroughly enjoyable mixture of Art, Theatre, Cabaret, Poetry, Dance, and even Politics! There is no other festival like it on the calendar.&nbsp;</p>\r\n<p>It&rsquo;s that sort of eclecticism that makes Latitude stand out from the crowd. <br /> <br />Described as &lsquo;sumptuous, otherworldly and home to probably the only multi-coloured sheep you'll see this year&rsquo;, Latitude brings intrigue, creativity, and excitement to the Suffolk Countryside, in the beautiful setting of Henham Park.</p>\r\n<p>&nbsp;</p>",
+                "mediaJson": null,
+                "genres": [
+                    "Pop",
+                    "Indie Pop",
+                    "Pop Rock"
+                ],
+                "cheapestDayTicket": "0.00",
+                "festivalID": 54,
+                "festivalName": "Latitude Festival",
+                "festivalShortname": "Latitude",
+                "safeName": "latitude-festival",
+                "listingsData": null,
+                "endDate": "2023-07-23",
+                "descriptionText": "",
+                "seoPageTitle": "Latitude Festival",
+                "bannerImage": "https://s3-eu-west-1.amazonaws.com/skiddlecdn-images-listings/festivals/7802_1548322369_festbanner.jpg",
+                "image": "https://s3-eu-west-1.amazonaws.com/skiddlecdn-images-listings/festivals/6041_1666707924_fest.jpg",
+                "reviewsSummary": {
+                    "totalReviews": 6,
+                    "ratingValue": 4,
+                    "ratingLocation": 4.5,
+                    "ratingAtmosphere": 4.5,
+                    "ratingMusic": 4.5,
+                    "overallRating": 4.5
+                },
+                "minAge": 0,
+                "startDate": "2023-07-20",
+                "location": "Henham Park in Beccles",
+                "travel": {
+                    "coach": "",
+                    "car": "",
+                    "taxi": "",
+                    "bus": "",
+                    "rail": ""
+                },
+                "latitude": "52.34889520000",
+                "longitude": "1.59528000000",
+                "venueID": 8718,
+                "promoterID": 236577,
+                "currency": "GBP",
+                "queueEnabled": 0,
+                "tbc": 0,
+                "explore": {
+                    "categories": [
+                        {
+                            "name": null,
+                            "link": ".html",
+                            "id": "rock---metal---indie-music-festivals"
+                        },
+                        {
+                            "name": "Family Friendly festivals",
+                            "link": "/festivals/family-friendly.html",
+                            "id": "family-friendly-festivals"
+                        },
+                        {
+                            "name": "Mainstream / Pop Music festivals",
+                            "link": "/festivals/mainstream-pop.html",
+                            "id": "mainstream---pop-music-festivals"
+                        }
+                    ],
+                    "type": [
+                        {
+                            "name": "Music festivals",
+                            "link": "/festivals/type/music-40.html",
+                            "id": "music"
+                        }
+                    ],
+                    "size": [
+                        {
+                            "name": "Medium sized festivals",
+                            "link": "/festivals/size/medium-6.html",
+                            "id": "medium"
+                        }
+                    ],
+                    "accommodation": [
+                        {
+                            "name": "Quiet Camping facilities",
+                            "link": "/festivals/accommodation/quiet-camping-16.html",
+                            "id": "quiet-camping"
+                        },
+                        {
+                            "name": "Campervan facilities",
+                            "link": "/festivals/accommodation/campervan-20.html",
+                            "id": "campervan"
+                        },
+                        {
+                            "name": "Luxury / VIP Camping facilities",
+                            "link": "/festivals/accommodation/luxury---vip-camping-14.html",
+                            "id": "luxury---vip-camping"
+                        },
+                        {
+                            "name": "Caravan facilities",
+                            "link": "/festivals/accommodation/caravan-18.html",
+                            "id": "caravan"
+                        },
+                        {
+                            "name": "Standard Camping facilities",
+                            "link": "/festivals/accommodation/standard-camping-12.html",
+                            "id": "standard-camping"
+                        }
+                    ],
+                    "amenities": [
+                        {
+                            "name": "Luxury Toilets",
+                            "link": "/festivals/amenities/luxury-toilets-30.html",
+                            "id": "luxury-toilets"
+                        },
+                        {
+                            "name": "Showers",
+                            "link": "/festivals/amenities/showers-24.html",
+                            "id": "showers"
+                        },
+                        {
+                            "name": "Luxury Showers",
+                            "link": "/festivals/amenities/luxury-showers-28.html",
+                            "id": "luxury-showers"
+                        },
+                        {
+                            "name": "Toilets",
+                            "link": "/festivals/amenities/toilets-26.html",
+                            "id": "toilets"
+                        }
+                    ],
+                    "attractions": [
+                        {
+                            "name": "Silent Disco",
+                            "link": "/festivals/attractions/silent-disco-56.html",
+                            "id": "silent-disco"
+                        },
+                        {
+                            "name": "Cinema / Film screenings",
+                            "link": "/festivals/attractions/cinema---film-screenings-76.html",
+                            "id": "cinema---film-screenings"
+                        }
+                    ]
+                }
+            },
+            "headerJSON": [
+                {
+                    "id": "gigs",
+                    "title": "gigs",
+                    "titleLink": "/live/",
+                    "links": [
+                        {
+                            "id": "all_eventtype",
+                            "title": "all gigs",
+                            "link": "/live/"
+                        },
+                        {
+                            "id": "all_cities",
+                            "title": "view all cities",
+                            "link": "/whats-on/cities.html"
+                        }
+                    ],
+                    "categories": [
+                        {
+                            "id": "cities",
+                            "category": "browse gigs in",
+                            "links": [
+                                {
+                                    "title": "Birmingham",
+                                    "link": "/gigs/Birmingham/",
+                                    "hrefTitle": "Events in Birmingham"
+                                },
+                                {
+                                    "title": "Bristol",
+                                    "link": "/gigs/Bristol/",
+                                    "hrefTitle": "Events in Bristol"
+                                },
+                                {
+                                    "title": "Brighton",
+                                    "link": "/gigs/Brighton/",
+                                    "hrefTitle": "Events in Brighton"
+                                },
+                                {
+                                    "title": "Cardiff",
+                                    "link": "/gigs/Cardiff/",
+                                    "hrefTitle": "Events in Cardiff"
+                                },
+                                {
+                                    "title": "Edinburgh",
+                                    "link": "/gigs/Edinburgh/",
+                                    "hrefTitle": "Events in Edinburgh"
+                                },
+                                {
+                                    "title": "Glasgow",
+                                    "link": "/gigs/Glasgow/",
+                                    "hrefTitle": "Events in Glasgow"
+                                },
+                                {
+                                    "title": "Leeds",
+                                    "link": "/gigs/Leeds/",
+                                    "hrefTitle": "Events in Leeds"
+                                },
+                                {
+                                    "title": "Liverpool",
+                                    "link": "/gigs/Liverpool/",
+                                    "hrefTitle": "Events in Liverpool"
+                                },
+                                {
+                                    "title": "London",
+                                    "link": "/gigs/London/",
+                                    "hrefTitle": "Events in London"
+                                },
+                                {
+                                    "title": "Manchester",
+                                    "link": "/gigs/Manchester/",
+                                    "hrefTitle": "Events in Manchester"
+                                },
+                                {
+                                    "title": "Newcastle",
+                                    "link": "/gigs/Newcastle-on-Tyne/",
+                                    "hrefTitle": "Events in Newcastle"
+                                },
+                                {
+                                    "title": "Sheffield",
+                                    "link": "/gigs/Sheffield/",
+                                    "hrefTitle": "Events in Sheffield"
+                                },
+                                {
+                                    "title": "",
+                                    "link": ""
+                                },
+                                {
+                                    "title": "View all cities",
+                                    "link": "/whats-on/cities.html",
+                                    "hrefTitle": "View all cities"
+                                }
+                            ]
+                        },
+                        {
+                            "id": "all_eventtype",
+                            "category": "find events",
+                            "links": [
+                                {
+                                    "title": "Artist tour dates",
+                                    "link": "/artists/"
+                                },
+                                {
+                                    "title": "Events by brand",
+                                    "link": "/groups/"
+                                },
+                                {
+                                    "title": "Socially Distanced Events",
+                                    "link": "/inspire-me/socially-distanced-events-2020"
+                                },
+                                {
+                                    "title": "Virtual Events",
+                                    "link": "/whats-on/online/"
+                                }
+                            ]
+                        },
+                        {
+                            "id": "seasonal",
+                            "category": "seasonal",
+                            "links": [
+                                {
+                                    "title": "Festivals 2022",
+                                    "link": "/festivals/"
+                                },
+                                {
+                                    "title": "Valentines Day",
+                                    "link": "/valentinesday/"
+                                }
+                            ]
+                        },
+                        {
+                            "id": "top_venues",
+                            "category": "top venues",
+                            "links": [
+                                {
+                                    "title": "Hare & Hounds ",
+                                    "link": "/whats-on/birmingham/hare-and-hounds/"
+                                },
+                                {
+                                    "title": "YES - Manchester",
+                                    "link": "/whats-on/manchester/yes/"
+                                },
+                                {
+                                    "title": "Phase One",
+                                    "link": "/whats-on/liverpool/phase-one/"
+                                },
+                                {
+                                    "title": "Invisible Wind Factory",
+                                    "link": "/whats-on/liverpool/invisible-wind-factory/"
+                                },
+                                {
+                                    "title": "The Louisiana",
+                                    "link": "/whats-on/bristol/The-louisiana/"
+                                },
+                                {
+                                    "title": "The Concorde 2",
+                                    "link": "/whats-on/brighton/the-concorde-2/"
+                                },
+                                {
+                                    "title": "The Old Dr Bells Baths",
+                                    "link": "/whats-on/edinburgh/the-old-dr-bells-baths/"
+                                },
+                                {
+                                    "title": "St Lukes",
+                                    "link": "/whats-on/glasgow/St-Luke%27s-/"
+                                },
+                                {
+                                    "title": "Barrowland Ballroom",
+                                    "link": "/whats-on/glasgow/Barrowland-ballroom/"
+                                },
+                                {
+                                    "title": "Brudenell Social Club",
+                                    "link": "/whats-on/leeds/brudenell-social-club/"
+                                },
+                                {
+                                    "title": "Millenium Square",
+                                    "link": "/whats-on/leeds/Millenium-square/"
+                                },
+                                {
+                                    "title": "The Jazz Cafe",
+                                    "link": "/whats-on/london/The-jazz-cafe/"
+                                },
+                                {
+                                    "title": "The Steelyard",
+                                    "link": "/whats-on/london/The-steel-yard/"
+                                },
+                                {
+                                    "title": "The Cluny",
+                                    "link": "/whats-on/Newcastle-on-tyne/the-cluny/"
+                                },
+                                {
+                                    "title": "Record Junkee",
+                                    "link": "/whats-on/sheffield/record-junkee/"
+                                }
+                            ]
+                        }
+                    ],
+                    "genres": {
+                        "id": "genre_images",
+                        "title": "gigs by genres",
+                        "links": [
+                            {
+                                "title": "Rock & Metal gigs",
+                                "image": "https://d1plawd8huk6hh.cloudfront.net/images/landing/backgrounds/rhcp-small2.jpg",
+                                "link": "/live/rock-metal.html"
+                            },
+                            {
+                                "title": "Indie & Alternative gigs",
+                                "image": "https://d1plawd8huk6hh.cloudfront.net/images/landing/backgrounds/arctic-monkeys-small2.jpg",
+                                "link": "/live/indie-alternative.html"
+                            },
+                            {
+                                "title": "Hip Hop & R&B gigs",
+                                "image": "https://d1plawd8huk6hh.cloudfront.net/images/landing/backgrounds/loyle-carner-small2.jpg",
+                                "link": "/live/hip-hop-rnb.html"
+                            },
+                            {
+                                "title": "Reggae & Dancehall gigs",
+                                "image": "https://d1plawd8huk6hh.cloudfront.net/images/landing/backgrounds/lee-scratch-perry-small2.jpg",
+                                "link": "/live/reggae-dancehall.html"
+                            },
+                            {
+                                "title": "Electronic gigs",
+                                "image": "https://d1plawd8huk6hh.cloudfront.net/images/landing/backgrounds/daft-punk-small2.jpg",
+                                "link": "/live/electronic.html"
+                            },
+                            {
+                                "title": "Pop gigs",
+                                "image": "https://d1plawd8huk6hh.cloudfront.net/images/landing/backgrounds/jess-glynne-small2.jpg",
+                                "link": "/live/pop.html"
+                            },
+                            {
+                                "title": "Funk & Soul gigs",
+                                "image": "https://d1plawd8huk6hh.cloudfront.net/images/landing/backgrounds/mark-ronson-small2.jpg",
+                                "link": "/live/funk-soul.html"
+                            },
+                            {
+                                "title": "Folk & Blues gigs",
+                                "image": "https://d1plawd8huk6hh.cloudfront.net/images/landing/backgrounds/lucy-rose-small2.jpg",
+                                "link": "/live/folk-blues.html"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "id": "clubs",
+                    "title": "clubs",
+                    "titleLink": "/clubs/",
+                    "links": [
+                        {
+                            "id": "all_eventtype",
+                            "title": "all clubbing events",
+                            "link": "/clubs/"
+                        },
+                        {
+                            "id": "all_cities",
+                            "title": "view all cities",
+                            "link": "/whats-on/cities.html"
+                        }
+                    ],
+                    "categories": [
+                        {
+                            "id": "cities",
+                            "category": "browse club events in",
+                            "links": [
+                                {
+                                    "title": "Birmingham",
+                                    "link": "/clubs/Birmingham/",
+                                    "hrefTitle": "Events in Birmingham"
+                                },
+                                {
+                                    "title": "Bristol",
+                                    "link": "/clubs/Bristol/",
+                                    "hrefTitle": "Events in Bristol"
+                                },
+                                {
+                                    "title": "Brighton",
+                                    "link": "/clubs/Brighton/",
+                                    "hrefTitle": "Events in Brighton"
+                                },
+                                {
+                                    "title": "Cardiff",
+                                    "link": "/clubs/Cardiff/",
+                                    "hrefTitle": "Events in Cardiff"
+                                },
+                                {
+                                    "title": "Edinburgh",
+                                    "link": "/clubs/Edinburgh/",
+                                    "hrefTitle": "Events in Edinburgh"
+                                },
+                                {
+                                    "title": "Glasgow",
+                                    "link": "/clubs/Glasgow/",
+                                    "hrefTitle": "Events in Glasgow"
+                                },
+                                {
+                                    "title": "Leeds",
+                                    "link": "/clubs/Leeds/",
+                                    "hrefTitle": "Events in Leeds"
+                                },
+                                {
+                                    "title": "Liverpool",
+                                    "link": "/clubs/Liverpool/",
+                                    "hrefTitle": "Events in Liverpool"
+                                },
+                                {
+                                    "title": "London",
+                                    "link": "/clubs/London/",
+                                    "hrefTitle": "Events in London"
+                                },
+                                {
+                                    "title": "Manchester",
+                                    "link": "/clubs/Manchester/",
+                                    "hrefTitle": "Events in Manchester"
+                                },
+                                {
+                                    "title": "Newcastle",
+                                    "link": "/clubs/Newcastle-on-Tyne/",
+                                    "hrefTitle": "Events in Newcastle"
+                                },
+                                {
+                                    "title": "Sheffield",
+                                    "link": "/clubs/Sheffield/",
+                                    "hrefTitle": "Events in Sheffield"
+                                },
+                                {
+                                    "title": "",
+                                    "link": ""
+                                },
+                                {
+                                    "title": "View all cities",
+                                    "link": "/whats-on/cities.html",
+                                    "hrefTitle": "View all cities"
+                                }
+                            ]
+                        },
+                        {
+                            "id": "find_events",
+                            "category": "find events",
+                            "links": [
+                                {
+                                    "title": "Artist/DJ tour dates",
+                                    "link": "/artists/"
+                                },
+                                {
+                                    "title": "Events by brand",
+                                    "link": "/groups/"
+                                },
+                                {
+                                    "title": "Top 100 Clubs",
+                                    "link": "/whats-on/top100clubs.html"
+                                },
+                                {
+                                    "title": "Socially Distanced Events",
+                                    "link": "/inspire-me/socially-distanced-events-2021"
+                                },
+                                {
+                                    "title": "Virtual Events",
+                                    "link": "/whats-on/online/"
+                                }
+                            ]
+                        },
+                        {
+                            "id": "seasonal",
+                            "category": "seasonal",
+                            "links": [
+                                {
+                                    "title": "Festivals 2022",
+                                    "link": "/festivals/"
+                                },
+                                {
+                                    "title": "Ibiza 20201",
+                                    "link": "/ibiza/"
+                                },
+                                {
+                                    "title": "Croatia 20201",
+                                    "link": "/croatia/"
+                                },
+                                {
+                                    "title": "Fathers Day",
+                                    "link": "/fathersday/"
+                                }
+                            ]
+                        },
+                        {
+                            "id": "top_clubs",
+                            "category": "top clubs",
+                            "links": [
+                                {
+                                    "title": "WHP",
+                                    "link": "/groups/thewarehouseproject/"
+                                },
+                                {
+                                    "title": "Printworks",
+                                    "link": "/whats-on/London/Printworks-London/"
+                                },
+                                {
+                                    "title": "Motion",
+                                    "link": "/groups/motionbristol/"
+                                },
+                                {
+                                    "title": "Victoria Warehouse",
+                                    "link": "/whats-on/Manchester/O2-Victoria-Warehouse/"
+                                },
+                                {
+                                    "title": "Albert Hall",
+                                    "link": "/groups/alberthall/"
+                                },
+                                {
+                                    "title": "24 Kitchen Street",
+                                    "link": "/whats-on/Liverpool/24-Kitchen-Street/"
+                                },
+                                {
+                                    "title": "Ministry of Sound",
+                                    "link": "/whats-on/London/Ministry-Of-Sound/"
+                                },
+                                {
+                                    "title": "Digital",
+                                    "link": "/whats-on/Newcastle-on-Tyne/Digital/"
+                                },
+                                {
+                                    "title": "Lab11",
+                                    "link": "/whats-on/Birmingham/LAB11/"
+                                },
+                                {
+                                    "title": "Bramley Moore Dock",
+                                    "link": "/whats-on/Liverpool/Bramley-Moore-Dock/"
+                                },
+                                {
+                                    "title": "Digbeth Arena",
+                                    "link": "/whats-on/Birmingham/Digbeth-Arena/"
+                                },
+                                {
+                                    "title": "The Mill",
+                                    "link": "/whats-on/Birmingham/The-Mill-Digbeth/"
+                                },
+                                {
+                                    "title": "Social Avenue",
+                                    "link": "/whats-on/Manchester/Social-Avenue/"
+                                },
+                                {
+                                    "title": "Dreamland",
+                                    "link": "/whats-on/Margate/Dreamland/"
+                                },
+                                {
+                                    "title": "Fabric",
+                                    "link": "/groups/fabric/"
+                                }
+                            ]
+                        },
+                        {
+                            "id": "top_events",
+                            "category": "top events",
+                            "links": [
+                                {
+                                    "title": "WAH",
+                                    "link": "/groups/elrow/"
+                                },
+                                {
+                                    "title": "Elrow",
+                                    "link": "/groups/elrow/"
+                                },
+                                {
+                                    "title": "Glitterbox",
+                                    "link": "/groups/glitterbox/"
+                                },
+                                {
+                                    "title": "Circus",
+                                    "link": "/groups/circusliverpool/"
+                                },
+                                {
+                                    "title": "Homoelectric",
+                                    "link": "/groups/homoelectric/"
+                                },
+                                {
+                                    "title": "Defected",
+                                    "link": "/groups/defectedinthehouse/"
+                                },
+                                {
+                                    "title": "PierJam",
+                                    "link": "/groups/pierjam/"
+                                },
+                                {
+                                    "title": "Garage Nation",
+                                    "link": "/groups/garagenation/"
+                                },
+                                {
+                                    "title": "Goodgreef",
+                                    "link": "/groups/goodgreef/"
+                                },
+                                {
+                                    "title": "Jika Jika",
+                                    "link": "/groups/Jikajika/"
+                                },
+                                {
+                                    "title": "Weird Science",
+                                    "link": "/groups/weirdscience/"
+                                },
+                                {
+                                    "title": "Cirque Du Soul",
+                                    "link": "/groups/cirquedusoul/"
+                                },
+                                {
+                                    "title": "Bedlam",
+                                    "link": "/groups/bedlamcardiff/"
+                                },
+                                {
+                                    "title": "Circus x Cream",
+                                    "link": "/groups/circusxcream/"
+                                },
+                                {
+                                    "title": "Cream",
+                                    "link": "/groups/cream/"
+                                }
+                            ]
+                        }
+                    ],
+                    "genres": {
+                        "id": "genre_images",
+                        "title": "clubs by genres",
+                        "links": [
+                            {
+                                "title": "House & Techno club events",
+                                "image": "https://d1plawd8huk6hh.cloudfront.net/landing-pages/backgrounds/nina-kraviz-small2.jpg",
+                                "link": "/clubs/house-techno.html"
+                            },
+                            {
+                                "title": "UKG & Bass Music club events",
+                                "image": "https://d1plawd8huk6hh.cloudfront.net/landing-pages/backgrounds/dj-ez-small2.png",
+                                "link": "/clubs/ukg-bass-music.html"
+                            },
+                            {
+                                "title": "EDM club events",
+                                "image": "https://d1plawd8huk6hh.cloudfront.net/landing-pages/backgrounds/don-diablo-small2.png",
+                                "link": "/clubs/main-room-edm.html"
+                            },
+                            {
+                                "title": "Funk, Soul & Disco club events",
+                                "image": "https://d1plawd8huk6hh.cloudfront.net/landing-pages/backgrounds/dimitri-from-paris-small2.jpg",
+                                "link": "/clubs/funk-soul-disco.html"
+                            },
+                            {
+                                "title": "Trance & Hard Dance club events",
+                                "image": "https://d1plawd8huk6hh.cloudfront.net/landing-pages/backgrounds/paul-oakenfold-small2.jpg",
+                                "link": "/clubs/trance-hard-dance.html"
+                            },
+                            {
+                                "title": "Hip Hop & R&B club events",
+                                "image": "https://d1plawd8huk6hh.cloudfront.net/landing-pages/backgrounds/kendrick-small2.jpg",
+                                "link": "/clubs/hip-hop-rnb.html"
+                            },
+                            {
+                                "title": "Reggae, DUB & Dancehall club events",
+                                "image": "https://d1plawd8huk6hh.cloudfront.net/images/landing/backgrounds/lee-scratch-perry-small2.jpg",
+                                "link": "/clubs/reggae-dub.html"
+                            },
+                            {
+                                "title": "Pop, Rock & Indie club events",
+                                "image": "https://d1plawd8huk6hh.cloudfront.net/landing-pages/backgrounds/arctic-monkeys-small2.jpg",
+                                "link": "/clubs/rock-indie.html"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "id": "festivals",
+                    "title": "festivals",
+                    "titleLink": "/festivals/",
+                    "links": [
+                        {
+                            "id": "all_eventtype",
+                            "title": "festivals",
+                            "link": "/festivals/"
+                        }
+                    ],
+                    "categories": [
+                        {
+                            "id": "find_festival",
+                            "category": "find your perfect festival",
+                            "links": [
+                                {
+                                    "title": "Festivals 2022",
+                                    "link": "/festivals/"
+                                },
+                                {
+                                    "title": "Festival Finder",
+                                    "link": "/festivals/search/"
+                                }
+                            ]
+                        },
+                        {
+                            "id": "types_festivals",
+                            "category": "types of festivals",
+                            "links": [
+                                {
+                                    "title": "Dance Music Festivals",
+                                    "link": "/festivals/dance.html"
+                                },
+                                {
+                                    "title": "Rock and Indie Festivals",
+                                    "link": "/festivals/rock-indie.html"
+                                },
+                                {
+                                    "title": "Boutique Festivals",
+                                    "link": "/festivals/boutique.html"
+                                },
+                                {
+                                    "title": "Budget Festivals",
+                                    "link": "/festivals/under-100.html"
+                                },
+                                {
+                                    "title": "European/Overseas Festivals",
+                                    "link": "/festivals/overseas.html"
+                                },
+                                {
+                                    "title": "Browse all festivals",
+                                    "link": "/festivals/search/"
+                                },
+                                {
+                                    "title": "Budget Festivals",
+                                    "link": "/festivals/under-100.html"
+                                },
+                                {
+                                    "title": "Family Friendly Festivals",
+                                    "link": "/festivals/family-friendly.html"
+                                },
+                                {
+                                    "title": "Payment Plan Festivals",
+                                    "link": "/inspire-me/payment-plan-festivals"
+                                }
+                            ]
+                        },
+                        {
+                            "id": "festival_tickets",
+                            "category": "festival tickets",
+                            "links": [
+                                {
+                                    "title": "51st Festival",
+                                    "link": "/festivals/51st-state-festival/"
+                                },
+                                {
+                                    "title": "Bassfest",
+                                    "link": "/festivals/bassfest/"
+                                },
+                                {
+                                    "title": "Belladrum",
+                                    "link": "/festivals/belladrum/"
+                                },
+                                {
+                                    "title": "Bluedot",
+                                    "link": "/festivals/bluedot-festival/",
+                                    "hideMobile": true
+                                },
+                                {
+                                    "title": "Boundary Brighton",
+                                    "link": "/festivals/boundary-brighton/"
+                                },
+                                {
+                                    "title": "Creamfields North",
+                                    "link": "/festivals/creamfields/",
+                                    "hideMobile": true
+                                },
+                                {
+                                    "title": "Creamfields South",
+                                    "link": "/festivals/creamfields-south/",
+                                    "hideMobile": true
+                                },
+                                {
+                                    "title": "Dream Valley",
+                                    "link": "/festivals/Dream-Valley/",
+                                    "hideMobile": true
+                                },
+                                {
+                                    "title": "El Dorado",
+                                    "link": "/festivals/El-Dorado/",
+                                    "hideMobile": true
+                                },
+                                {
+                                    "title": "Electric Woodlands",
+                                    "link": "/festivals/Electric-Woodlands/",
+                                    "hideMobile": true
+                                },
+                                {
+                                    "title": "Field day",
+                                    "link": "/festivals/Field-day/",
+                                    "hideMobile": true
+                                },
+                                {
+                                    "title": "Fields of Gold",
+                                    "link": "/festivals/Fields-of-Gold/",
+                                    "hideMobile": true
+                                },
+                                {
+                                    "title": "Hide & Seek",
+                                    "link": "/festivals/hide-seek-festival/",
+                                    "hideMobile": true
+                                },
+                                {
+                                    "title": "Highest Point Festival",
+                                    "link": "/festivals/Highest-Point-Festival/",
+                                    "hideMobile": true
+                                },
+                                {
+                                    "title": "In It Together",
+                                    "link": "/festivals/In-It-Together/",
+                                    "hideMobile": true
+                                },
+                                {
+                                    "title": "Inside Out",
+                                    "link": "/festivals/Inside-Out/",
+                                    "hideMobile": true
+                                },
+                                {
+                                    "title": "Junction 2",
+                                    "link": "/festivals/Junction-2/",
+                                    "hideMobile": true
+                                },
+                                {
+                                    "title": "Kendal calling",
+                                    "link": "/festivals/Kendal-calling/",
+                                    "hideMobile": true
+                                },
+                                {
+                                    "title": "Kubix Festival ",
+                                    "link": "/festivals/Kubix-Festival/",
+                                    "hideMobile": true
+                                },
+                                {
+                                    "title": "Lovebox",
+                                    "link": "/festivals/Lovebox/",
+                                    "hideMobile": true
+                                },
+                                {
+                                    "title": "Lytham Festival",
+                                    "link": "/festivals/Lytham-prom/",
+                                    "hideMobile": true
+                                },
+                                {
+                                    "title": "MADE",
+                                    "link": "/festivals/MADE-birmingham/",
+                                    "hideMobile": true
+                                },
+                                {
+                                    "title": "Mint Festival",
+                                    "link": "/festivals/Mint-Festival/",
+                                    "hideMobile": true
+                                },
+                                {
+                                    "title": "Moovin Festival",
+                                    "link": "/festivals/Moovin-Festival/",
+                                    "hideMobile": true
+                                },
+                                {
+                                    "title": "Neighbourhood Weekender",
+                                    "link": "/festivals/neighbourhood-weekender/"
+                                },
+                                {
+                                    "title": "Parklife",
+                                    "link": "/festivals/Parklife2/",
+                                    "hideMobile": true
+                                },
+                                {
+                                    "title": "Playground Festival",
+                                    "link": "/festivals/playground-festival/",
+                                    "hideMobile": true
+                                },
+                                {
+                                    "title": "Reminisce Festival",
+                                    "link": "/festivals/Reminisce-Festival/",
+                                    "hideMobile": true
+                                },
+                                {
+                                    "title": "Snowboxx",
+                                    "link": "/festivals/Snowboxx-festival/",
+                                    "hideMobile": true
+                                },
+                                {
+                                    "title": "Solfest",
+                                    "link": "/festivals/Solfest/",
+                                    "hideMobile": true
+                                },
+                                {
+                                    "title": "Terminal V",
+                                    "link": "/festivals/Terminal-v-festival/",
+                                    "hideMobile": true
+                                },
+                                {
+                                    "title": "The Weekender",
+                                    "link": "/festivals/The-weekender/",
+                                    "hideMobile": true
+                                },
+                                {
+                                    "title": "Westfest",
+                                    "link": "/festivals/Westfest/",
+                                    "hideMobile": true
+                                },
+                                {
+                                    "title": "More festival tickets",
+                                    "link": "/festivals/",
+                                    "hideMobile": true
+                                }
+                            ]
+                        }
+                    ],
+                    "genres": null
+                },
+                {
+                    "id": "whats_on",
+                    "title": "what's on",
+                    "titleLink": "/whats-on/",
+                    "links": [
+                        {
+                            "id": "all_eventtype",
+                            "title": "All Events",
+                            "link": "/whats-on/"
+                        }
+                    ],
+                    "categories": [
+                        {
+                            "id": "cities",
+                            "category": "browse events in",
+                            "links": [
+                                {
+                                    "title": "Events Home",
+                                    "link": "/whats-on/"
+                                },
+                                {
+                                    "title": "Birmingham",
+                                    "link": "/whats-on/Birmingham/",
+                                    "hrefTitle": "Events in Birmingham"
+                                },
+                                {
+                                    "title": "Bristol",
+                                    "link": "/whats-on/Bristol/",
+                                    "hrefTitle": "Events in Bristol"
+                                },
+                                {
+                                    "title": "Brighton",
+                                    "link": "/whats-on/Brighton/",
+                                    "hrefTitle": "Events in Brighton"
+                                },
+                                {
+                                    "title": "Cardiff",
+                                    "link": "/whats-on/Cardiff/",
+                                    "hrefTitle": "Events in Cardiff"
+                                },
+                                {
+                                    "title": "Edinburgh",
+                                    "link": "/whats-on/Edinburgh/",
+                                    "hrefTitle": "Events in Edinburgh"
+                                },
+                                {
+                                    "title": "Glasgow",
+                                    "link": "/whats-on/Glasgow/",
+                                    "hrefTitle": "Events in Glasgow"
+                                },
+                                {
+                                    "title": "Leeds",
+                                    "link": "/whats-on/Leeds/",
+                                    "hrefTitle": "Events in Leeds"
+                                },
+                                {
+                                    "title": "Liverpool",
+                                    "link": "/whats-on/Liverpool/",
+                                    "hrefTitle": "Events in Liverpool"
+                                },
+                                {
+                                    "title": "London",
+                                    "link": "/whats-on/London/",
+                                    "hrefTitle": "Events in London"
+                                },
+                                {
+                                    "title": "Manchester",
+                                    "link": "/whats-on/Manchester/",
+                                    "hrefTitle": "Events in Manchester"
+                                },
+                                {
+                                    "title": "Newcastle",
+                                    "link": "/whats-on/Newcastle-on-Tyne/",
+                                    "hrefTitle": "Events in Newcastle"
+                                },
+                                {
+                                    "title": "Sheffield",
+                                    "link": "/whats-on/Sheffield/",
+                                    "hrefTitle": "Events in Sheffield"
+                                },
+                                {
+                                    "title": "View all cities",
+                                    "link": "/whats-on/cities.html",
+                                    "hrefTitle": "View all cities"
+                                }
+                            ]
+                        },
+                        {
+                            "id": "city_guides",
+                            "category": "city guides",
+                            "links": [
+                                {
+                                    "title": "London Guide",
+                                    "link": "/cities/london/"
+                                },
+                                {
+                                    "title": "Manchester Guide",
+                                    "link": "/cities/manchester/"
+                                },
+                                {
+                                    "title": "Liverpool Guide",
+                                    "link": "/cities/liverpool/"
+                                },
+                                {
+                                    "title": "Leeds Guide",
+                                    "link": "/cities/leeds/"
+                                },
+                                {
+                                    "title": "Birmingham Guide",
+                                    "link": "/cities/birmingham/"
+                                },
+                                {
+                                    "title": "Newcastle Guide",
+                                    "link": "/cities/newcastle-on-tyne/"
+                                },
+                                {
+                                    "title": "Edinburgh Guide",
+                                    "link": "/cities/edinburgh/"
+                                },
+                                {
+                                    "title": "Glasgow Guide",
+                                    "link": "/cities/glasgow/"
+                                },
+                                {
+                                    "title": "Brighton Guide",
+                                    "link": "/cities/brighton/"
+                                },
+                                {
+                                    "title": "Bristol Guide",
+                                    "link": "/cities/bristol/"
+                                },
+                                {
+                                    "title": "Cardiff Guide",
+                                    "link": "/cities/cardiff/"
+                                }
+                            ]
+                        },
+                        {
+                            "id": "popular_artists",
+                            "category": "popular artists",
+                            "links": [
+                                {
+                                    "title": "andy c",
+                                    "link": "/artists/andy-c-123457009/"
+                                },
+                                {
+                                    "title": "bicep",
+                                    "link": "/artists/bicep-123504694/"
+                                },
+                                {
+                                    "title": "bonobo",
+                                    "link": "/artists/bonobo-123483600/"
+                                },
+                                {
+                                    "title": "camelphat",
+                                    "link": "/artists/camelphat-123530158/"
+                                },
+                                {
+                                    "title": "caribou",
+                                    "link": "/artists/caribou-123481754/"
+                                },
+                                {
+                                    "title": "chase & Status",
+                                    "link": "/artists/chase--status-123456801/"
+                                },
+                                {
+                                    "title": "denis sulta",
+                                    "link": "/artists/denis-sulta-123542576/"
+                                },
+                                {
+                                    "title": "eric prydz",
+                                    "link": "/artists/eric-prydz-123456863/"
+                                },
+                                {
+                                    "title": "four tet",
+                                    "link": "/artists/four-tet-123471730/"
+                                },
+                                {
+                                    "title": "hybrid minds",
+                                    "link": "/artists/hybrid-minds-123508782/"
+                                },
+                                {
+                                    "title": "nina kraviz",
+                                    "link": "/artists/nina-kraviz-123499386/"
+                                },
+                                {
+                                    "title": "patrick topping",
+                                    "link": "/artists/patrick-topping-123520148/"
+                                },
+                                {
+                                    "title": "peggy gou",
+                                    "link": "/artists/peggy-gou-123551749/"
+                                },
+                                {
+                                    "title": "solardo",
+                                    "link": "/artists/solardo-123546951/"
+                                },
+                                {
+                                    "title": "Sonny Fodera",
+                                    "link": "/artists/sonny-fodera-123515298/"
+                                },
+                                {
+                                    "title": "view all artists",
+                                    "link": "/artists/"
+                                }
+                            ]
+                        },
+                        {
+                            "id": "seasonal_links",
+                            "category": "Valentines Day",
+                            "links": [
+                                {
+                                    "title": "London Guide",
+                                    "link": "/cities/london/valentines-day.html"
+                                },
+                                {
+                                    "title": "Manchester Guide",
+                                    "link": "/cities/manchester/valentines-day.html"
+                                },
+                                {
+                                    "title": "Liverpool Guide",
+                                    "link": "/cities/liverpool/valentines-day.html"
+                                },
+                                {
+                                    "title": "Cardiff Guide",
+                                    "link": "/cities/cardiff/valentines-day.html"
+                                },
+                                {
+                                    "title": "Edinburgh Guide",
+                                    "link": "/cities/edinburgh/valentines-day.html"
+                                }
+                            ]
+                        }
+                    ],
+                    "genres": null
+                },
+                {
+                    "id": "things_to_do",
+                    "title": "things to do",
+                    "titleLink": "/cities/",
+                    "links": [
+                        {
+                            "id": "all_eventtype",
+                            "title": "all things to do",
+                            "link": "/things-to-do/"
+                        }
+                    ],
+                    "categories": [
+                        {
+                            "id": "cities",
+                            "category": "things to do in",
+                            "links": [
+                                {
+                                    "title": "Liverpool",
+                                    "link": "/things-to-do/Liverpool/",
+                                    "hrefTitle": "Things to do in Liverpool"
+                                },
+                                {
+                                    "title": "London",
+                                    "link": "/things-to-do/London/",
+                                    "hrefTitle": "Things to do in London"
+                                },
+                                {
+                                    "title": "Manchester",
+                                    "link": "/things-to-do/Manchester/",
+                                    "hrefTitle": "Things to do in Manchester"
+                                },
+                                {
+                                    "title": "Birmingham",
+                                    "link": "/things-to-do/Birmingham/",
+                                    "hrefTitle": "Things to do in Birmingham"
+                                },
+                                {
+                                    "title": "Leeds",
+                                    "link": "/things-to-do/Leeds/",
+                                    "hrefTitle": "Things to do in Leeds"
+                                },
+                                {
+                                    "title": "Newcastle",
+                                    "link": "/things-to-do/Newcastle-on-Tyne/",
+                                    "hrefTitle": "Things to do in Newcastle"
+                                },
+                                {
+                                    "title": "Cardiff",
+                                    "link": "/things-to-do/Cardiff/",
+                                    "hrefTitle": "Things to do in Cardiff"
+                                },
+                                {
+                                    "title": "Edinburgh",
+                                    "link": "/things-to-do/Edinburgh/",
+                                    "hrefTitle": "Things to do in Edinburgh"
+                                },
+                                {
+                                    "title": "Bristol",
+                                    "link": "/things-to-do/Bristol/",
+                                    "hrefTitle": "Things to do in Bristol"
+                                },
+                                {
+                                    "title": "Glasgow",
+                                    "link": "/things-to-do/Glasgow/",
+                                    "hrefTitle": "Things to do in Glasgow"
+                                },
+                                {
+                                    "title": "Sheffield",
+                                    "link": "/things-to-do/Sheffield/",
+                                    "hrefTitle": "Things to do in Sheffield"
+                                }
+                            ]
+                        },
+                        {
+                            "id": "comedy_in",
+                            "category": "comedy in",
+                            "links": [
+                                {
+                                    "title": "Liverpool",
+                                    "link": "/comedy/Liverpool/",
+                                    "hrefTitle": ""
+                                },
+                                {
+                                    "title": "London",
+                                    "link": "/comedy/London/",
+                                    "hrefTitle": ""
+                                },
+                                {
+                                    "title": "Manchester",
+                                    "link": "/comedy/Manchester/",
+                                    "hrefTitle": ""
+                                },
+                                {
+                                    "title": "Birmingham",
+                                    "link": "/comedy/Birmingham/",
+                                    "hrefTitle": ""
+                                },
+                                {
+                                    "title": "Leeds",
+                                    "link": "/comedy/Leeds/",
+                                    "hrefTitle": ""
+                                },
+                                {
+                                    "title": "Newcastle",
+                                    "link": "/comedy/Newcastle/",
+                                    "hrefTitle": ""
+                                },
+                                {
+                                    "title": "Cardiff",
+                                    "link": "/comedy/Cardiff/",
+                                    "hrefTitle": ""
+                                },
+                                {
+                                    "title": "Edinburgh",
+                                    "link": "/comedy/Edinburgh/",
+                                    "hrefTitle": ""
+                                },
+                                {
+                                    "title": "Bristol",
+                                    "link": "/comedy/Bristol/",
+                                    "hrefTitle": ""
+                                },
+                                {
+                                    "title": "Glasgow",
+                                    "link": "/comedy/Glasgow/",
+                                    "hrefTitle": ""
+                                },
+                                {
+                                    "title": "Sheffield",
+                                    "link": "/comedy/Sheffield/",
+                                    "hrefTitle": ""
+                                }
+                            ]
+                        },
+                        {
+                            "id": "theatre_in",
+                            "category": "theatre in",
+                            "links": [
+                                {
+                                    "title": "Liverpool",
+                                    "link": "/theatre/Liverpool/",
+                                    "hrefTitle": ""
+                                },
+                                {
+                                    "title": "London",
+                                    "link": "/theatre/London/",
+                                    "hrefTitle": ""
+                                },
+                                {
+                                    "title": "Manchester",
+                                    "link": "/theatre/Manchester/",
+                                    "hrefTitle": ""
+                                },
+                                {
+                                    "title": "Birmingham",
+                                    "link": "/theatre/Birmingham/",
+                                    "hrefTitle": ""
+                                },
+                                {
+                                    "title": "Leeds",
+                                    "link": "/theatre/Leeds/",
+                                    "hrefTitle": ""
+                                },
+                                {
+                                    "title": "Newcastle",
+                                    "link": "/theatre/Newcastle/",
+                                    "hrefTitle": ""
+                                },
+                                {
+                                    "title": "Cardiff",
+                                    "link": "/theatre/Cardiff/",
+                                    "hrefTitle": ""
+                                },
+                                {
+                                    "title": "Edinburgh",
+                                    "link": "/theatre/Edinburgh/",
+                                    "hrefTitle": ""
+                                },
+                                {
+                                    "title": "Bristol",
+                                    "link": "/theatre/Bristol/",
+                                    "hrefTitle": ""
+                                },
+                                {
+                                    "title": "Glasgow",
+                                    "link": "/theatre/Glasgow/",
+                                    "hrefTitle": ""
+                                },
+                                {
+                                    "title": "Sheffield",
+                                    "link": "/theatre/Sheffield/",
+                                    "hrefTitle": ""
+                                }
+                            ]
+                        },
+                        {
+                            "id": "exhibitions_in",
+                            "category": "exhibitions & attractions in",
+                            "links": [
+                                {
+                                    "title": "Liverpool",
+                                    "link": "/exhibitions/Liverpool/",
+                                    "hrefTitle": ""
+                                },
+                                {
+                                    "title": "London",
+                                    "link": "/exhibitions/London/",
+                                    "hrefTitle": ""
+                                },
+                                {
+                                    "title": "Manchester",
+                                    "link": "/exhibitions/Manchester/",
+                                    "hrefTitle": ""
+                                },
+                                {
+                                    "title": "Birmingham",
+                                    "link": "/exhibitions/Birmingham/",
+                                    "hrefTitle": ""
+                                },
+                                {
+                                    "title": "Leeds",
+                                    "link": "/exhibitions/Leeds/",
+                                    "hrefTitle": ""
+                                },
+                                {
+                                    "title": "Newcastle",
+                                    "link": "/exhibitions/Newcastle/",
+                                    "hrefTitle": ""
+                                },
+                                {
+                                    "title": "Cardiff",
+                                    "link": "/exhibitions/Cardiff/",
+                                    "hrefTitle": ""
+                                },
+                                {
+                                    "title": "Edinburgh",
+                                    "link": "/exhibitions/Edinburgh/",
+                                    "hrefTitle": ""
+                                },
+                                {
+                                    "title": "Bristol",
+                                    "link": "/exhibitions/Bristol/",
+                                    "hrefTitle": ""
+                                },
+                                {
+                                    "title": "Glasgow",
+                                    "link": "/exhibitions/Glasgow/",
+                                    "hrefTitle": ""
+                                },
+                                {
+                                    "title": "Sheffield",
+                                    "link": "/exhibitions/Sheffield/",
+                                    "hrefTitle": ""
+                                }
+                            ]
+                        }
+                    ],
+                    "genres": null
+                },
+                {
+                    "id": "add_event",
+                    "title": "add event",
+                    "titleLink": "https://promotioncentre.co.uk",
+                    "links": [],
+                    "categories": [],
+                    "genres": null
+                }
+            ],
+            "artists": [
+                {
+                    "id": 123460075,
+                    "name": "young fathers",
+                    "active": true,
+                    "favourite": 0,
+                    "imageUrl": "https://i.scdn.co/image/ab67616100005174e161bc55e14395b926045857",
+                    "spotifyMp3Url": "https://p.scdn.co/mp3-preview/d7f6a5fc8009838446db46f57d9bcf90ec430b18",
+                    "spotifyArtistUrl": "spotify:artist:5mZC7ndY6oGMxJentRwsuV",
+                    "favouritesCount": 5132,
+                    "artistProfileUrl": "https://skiddle.com/artists/young-fathers-123460075",
+                    "stageId": 0,
+                    "stageName": "",
+                    "stageDisplayOrder": 0,
+                    "artistsOrderBy": "az",
+                    "scenario": "datesandstages",
+                    "artistsDisplayOrder": 1,
+                    "headliner": false,
+                    "datePerforming": ""
+                },
+                {
+                    "id": 123460551,
+                    "name": "Metronomy",
+                    "active": true,
+                    "favourite": 0,
+                    "imageUrl": "https://i.scdn.co/image/ab6761610000517486dd27699ca06ca87a355c62",
+                    "spotifyMp3Url": "https://p.scdn.co/mp3-preview/c1a9ed05f4262d6f70cef7675ba6b7fc8343a519",
+                    "spotifyArtistUrl": "spotify:artist:54QMjE4toDfiCryzYWCpXX",
+                    "favouritesCount": 14583,
+                    "artistProfileUrl": "https://skiddle.com/artists/metronomy-123460551",
+                    "stageId": 0,
+                    "stageName": "",
+                    "stageDisplayOrder": 0,
+                    "artistsOrderBy": "az",
+                    "scenario": "datesandstages",
+                    "artistsDisplayOrder": 2,
+                    "headliner": false,
+                    "datePerforming": ""
+                },
+                {
+                    "id": 123492306,
+                    "name": "The Kooks",
+                    "active": true,
+                    "favourite": 0,
+                    "imageUrl": "https://i.scdn.co/image/ab67616100005174720d6b8dd091334f38fb49ad",
+                    "spotifyMp3Url": "https://p.scdn.co/mp3-preview/3f4309f74347f2090a17f1717958bf5e30b49256",
+                    "spotifyArtistUrl": "spotify:artist:1GLtl8uqKmnyCWxHmw9tL4",
+                    "favouritesCount": 60731,
+                    "artistProfileUrl": "https://skiddle.com/artists/the-kooks-123492306",
+                    "stageId": 0,
+                    "stageName": "",
+                    "stageDisplayOrder": 0,
+                    "artistsOrderBy": "az",
+                    "scenario": "datesandstages",
+                    "artistsDisplayOrder": 3,
+                    "headliner": false,
+                    "datePerforming": ""
+                },
+                {
+                    "id": 123502466,
+                    "name": "Paolo Nutini",
+                    "active": true,
+                    "favourite": 0,
+                    "imageUrl": "https://i.scdn.co/image/ab676161000051745b30c7c50a4dc96f5d5872d5",
+                    "spotifyMp3Url": "https://p.scdn.co/mp3-preview/9675e04fe5333efb02e08feab8be1fdebe204980",
+                    "spotifyArtistUrl": "spotify:artist:7x5rK9BClDQ8wmCkYAGsQp",
+                    "favouritesCount": 49565,
+                    "artistProfileUrl": "https://skiddle.com/artists/paolo-nutini-123502466",
+                    "stageId": 0,
+                    "stageName": "",
+                    "stageDisplayOrder": 0,
+                    "artistsOrderBy": "az",
+                    "scenario": "datesandstages",
+                    "artistsDisplayOrder": 4,
+                    "headliner": true,
+                    "datePerforming": ""
+                },
+                {
+                    "id": 123502874,
+                    "name": "The Proclaimers",
+                    "active": true,
+                    "favourite": 0,
+                    "imageUrl": "https://i.scdn.co/image/ab6772690000dd2242dd0ee8085ec78b75857c9c",
+                    "spotifyMp3Url": "https://p.scdn.co/mp3-preview/a5e44c043b4e27c01ee92be422224edd2a222f34",
+                    "spotifyArtistUrl": "spotify:artist:1A92IAcd7A6npCA33oGM5i",
+                    "favouritesCount": 4304,
+                    "artistProfileUrl": "https://skiddle.com/artists/the-proclaimers-123502874",
+                    "stageId": 0,
+                    "stageName": "",
+                    "stageDisplayOrder": 0,
+                    "artistsOrderBy": "az",
+                    "scenario": "datesandstages",
+                    "artistsDisplayOrder": 5,
+                    "headliner": false,
+                    "datePerforming": ""
+                },
+                {
+                    "id": 123504558,
+                    "name": "Lightning Seeds",
+                    "active": true,
+                    "favourite": 0,
+                    "imageUrl": "https://i.scdn.co/image/ab67616100005174ca47c6098b912a71e891e68a",
+                    "spotifyMp3Url": "https://p.scdn.co/mp3-preview/dbd4cc3c14c795ea79a2b9fdf75a700ee58113eb?cid=67f3bb40a17f4484a9a80163f644c9c3",
+                    "spotifyArtistUrl": "spotify:artist:67YNiSqhrx1P8oPvIIvbP5",
+                    "favouritesCount": 325,
+                    "artistProfileUrl": "https://skiddle.com/artists/lightning-seeds-123504558",
+                    "stageId": 0,
+                    "stageName": "",
+                    "stageDisplayOrder": 0,
+                    "artistsOrderBy": "az",
+                    "scenario": "datesandstages",
+                    "artistsDisplayOrder": 6,
+                    "headliner": false,
+                    "datePerforming": ""
+                },
+                {
+                    "id": 123511274,
+                    "name": "Pulp",
+                    "active": true,
+                    "favourite": 0,
+                    "imageUrl": "https://i.scdn.co/image/ec898afde4a75ca38803ac0233d804db067ff2b2",
+                    "spotifyMp3Url": "https://p.scdn.co/mp3-preview/bca5e57907c831864c662e3e27b703f725302ef7",
+                    "spotifyArtistUrl": "spotify:artist:36E7oYfz3LLRto6l2WmDcD",
+                    "favouritesCount": 11071,
+                    "artistProfileUrl": "https://skiddle.com/artists/pulp-123511274",
+                    "stageId": 0,
+                    "stageName": "",
+                    "stageDisplayOrder": 0,
+                    "artistsOrderBy": "az",
+                    "scenario": "datesandstages",
+                    "artistsDisplayOrder": 7,
+                    "headliner": true,
+                    "datePerforming": ""
+                },
+                {
+                    "id": 123532952,
+                    "name": "George Ezra",
+                    "active": true,
+                    "favourite": 0,
+                    "imageUrl": "https://i.scdn.co/image/ab67616100005174be936a26ceb9cbbdec7df15b",
+                    "spotifyMp3Url": "https://p.scdn.co/mp3-preview/9b9fb07cc053e76f66dcd1c5f1ae5cc0b89ab459?cid=67f3bb40a17f4484a9a80163f644c9c3",
+                    "spotifyArtistUrl": "spotify:artist:2ysnwxxNtSgbb9t1m2Ur4j",
+                    "favouritesCount": 33094,
+                    "artistProfileUrl": "https://skiddle.com/artists/george-ezra-123532952",
+                    "stageId": 0,
+                    "stageName": "",
+                    "stageDisplayOrder": 0,
+                    "artistsOrderBy": "az",
+                    "scenario": "datesandstages",
+                    "artistsDisplayOrder": 8,
+                    "headliner": true,
+                    "datePerforming": ""
+                },
+                {
+                    "id": 123533132,
+                    "name": "Sophie Ellis-Bextor",
+                    "active": true,
+                    "favourite": 0,
+                    "imageUrl": "https://i.scdn.co/image/ab67616100005174d46935a82c7a893b692ccb9e",
+                    "spotifyMp3Url": "https://p.scdn.co/mp3-preview/f48c64b474029332805169d54a782f279f1a67a4",
+                    "spotifyArtistUrl": "spotify:artist:2cBh5lVMg222FFuRU7EfDE",
+                    "favouritesCount": 7639,
+                    "artistProfileUrl": "https://skiddle.com/artists/sophie-ellis-bextor-123533132",
+                    "stageId": 0,
+                    "stageName": "",
+                    "stageDisplayOrder": 0,
+                    "artistsOrderBy": "az",
+                    "scenario": "datesandstages",
+                    "artistsDisplayOrder": 9,
+                    "headliner": false,
+                    "datePerforming": ""
+                },
+                {
+                    "id": 123544210,
+                    "name": "The Big Moon",
+                    "active": true,
+                    "favourite": 0,
+                    "imageUrl": "https://i.scdn.co/image/ab67616100005174070d2b952b6ea0014a2fd11d",
+                    "spotifyMp3Url": "https://p.scdn.co/mp3-preview/39933090b2557054033d2c8ede08ce986ae88c9d",
+                    "spotifyArtistUrl": "spotify:artist:0KU55rzxAihPhi27MAuz9O",
+                    "favouritesCount": 3608,
+                    "artistProfileUrl": "https://skiddle.com/artists/the-big-moon-123544210",
+                    "stageId": 0,
+                    "stageName": "",
+                    "stageDisplayOrder": 0,
+                    "artistsOrderBy": "az",
+                    "scenario": "datesandstages",
+                    "artistsDisplayOrder": 10,
+                    "headliner": false,
+                    "datePerforming": ""
+                },
+                {
+                    "id": 123558106,
+                    "name": "Black Midi",
+                    "active": true,
+                    "favourite": 0,
+                    "imageUrl": "https://i.scdn.co/image/ab67616100005174069ff978752054a7e015daab",
+                    "spotifyMp3Url": "https://p.scdn.co/mp3-preview/5333c2b476d3400af67861e5cf744d8880bb2317?cid=67f3bb40a17f4484a9a80163f644c9c3",
+                    "spotifyArtistUrl": "spotify:artist:7Hvq85OU8T7Hsd63zNBwaL",
+                    "favouritesCount": 2599,
+                    "artistProfileUrl": "https://skiddle.com/artists/black-midi-123558106",
+                    "stageId": 0,
+                    "stageName": "",
+                    "stageDisplayOrder": 0,
+                    "artistsOrderBy": "az",
+                    "scenario": "datesandstages",
+                    "artistsDisplayOrder": 11,
+                    "headliner": false,
+                    "datePerforming": ""
+                },
+                {
+                    "id": 123566026,
+                    "name": "The Beths",
+                    "active": true,
+                    "favourite": 0,
+                    "imageUrl": "https://i.scdn.co/image/ab6761610000517467a4ee2671abdaa121a8afc2",
+                    "spotifyMp3Url": "https://p.scdn.co/mp3-preview/01a536c43bd22fe4ca07b0a3f487c50da48dc9eb?cid=67f3bb40a17f4484a9a80163f644c9c3",
+                    "spotifyArtistUrl": "spotify:artist:7DjwIxbe8kpw4pqnzAMoin",
+                    "favouritesCount": 527,
+                    "artistProfileUrl": "https://skiddle.com/artists/the-beths-123566026",
+                    "stageId": 0,
+                    "stageName": "",
+                    "stageDisplayOrder": 0,
+                    "artistsOrderBy": "az",
+                    "scenario": "datesandstages",
+                    "artistsDisplayOrder": 12,
+                    "headliner": false,
+                    "datePerforming": ""
+                },
+                {
+                    "id": 123566827,
+                    "name": "Paul Heaton",
+                    "active": true,
+                    "favourite": 0,
+                    "imageUrl": "https://i.scdn.co/image/b797ecab4f7f99e0970d2e74a2f99c2639642a2e",
+                    "spotifyMp3Url": "",
+                    "spotifyArtistUrl": "spotify:artist:1aIozCeQrpKipbEdkGtr0j",
+                    "favouritesCount": 3773,
+                    "artistProfileUrl": "https://skiddle.com/artists/paul-heaton-123566827",
+                    "stageId": 0,
+                    "stageName": "",
+                    "stageDisplayOrder": 0,
+                    "artistsOrderBy": "az",
+                    "scenario": "datesandstages",
+                    "artistsDisplayOrder": 13,
+                    "headliner": false,
+                    "datePerforming": ""
+                },
+                {
+                    "id": 123566828,
+                    "name": "Jacqui Abbott",
+                    "active": true,
+                    "favourite": 0,
+                    "imageUrl": "https://i.scdn.co/image/c7cc61472e58885cf9a68b48b6a9c1195c80ed09",
+                    "spotifyMp3Url": "",
+                    "spotifyArtistUrl": "spotify:artist:3Zz8IqUsNIKI7sHIkhccyf",
+                    "favouritesCount": 68,
+                    "artistProfileUrl": "https://skiddle.com/artists/jacqui-abbott-123566828",
+                    "stageId": 0,
+                    "stageName": "",
+                    "stageDisplayOrder": 0,
+                    "artistsOrderBy": "az",
+                    "scenario": "datesandstages",
+                    "artistsDisplayOrder": 14,
+                    "headliner": false,
+                    "datePerforming": ""
+                },
+                {
+                    "id": 123582941,
+                    "name": "The Dinner Party",
+                    "active": false,
+                    "favourite": 0,
+                    "imageUrl": "https://d1plawd8huk6hh.cloudfront.net/assets/default400.png",
+                    "spotifyMp3Url": "",
+                    "spotifyArtistUrl": "",
+                    "favouritesCount": 0,
+                    "artistProfileUrl": "https://skiddle.com/artists/the-dinner-party-123582941",
+                    "stageId": 0,
+                    "stageName": "",
+                    "stageDisplayOrder": 0,
+                    "artistsOrderBy": "az",
+                    "scenario": "datesandstages",
+                    "artistsDisplayOrder": 15,
+                    "headliner": false,
+                    "datePerforming": ""
+                }
+            ],
+            "reviews": [
+                {
+                    "id": 443804,
+                    "title": "Review of Latitude 2019",
+                    "body": "very disappointed with sound at Lana del Rey performance.  sat in tiered seating and feed back terrible. all other bands were fine.  had to leave along with many others.  only went to Latitude to see Lana.",
+                    "postedDate": "2019-07-23 11:38:20",
+                    "verified": true,
+                    "eventName": "Latitude 2019",
+                    "overallRating": 4,
+                    "breakdown": {
+                        "ratingValue": 3,
+                        "ratingLocation": 3,
+                        "ratingAtmosphere": 4,
+                        "ratingMusic": 5
+                    },
+                    "user": {
+                        "fullName": "Anthony Cain",
+                        "username": "AnthonyCain1",
+                        "image": ""
+                    }
+                },
+                {
+                    "id": 443643,
+                    "title": "Review of Latitude 2019",
+                    "body": "Brilliant atmosphere and some wonderful shows, superb assistance re parking etc, (although perhaps one or two more marshals would be useful at the discos ) but Saturday programme was uninspired.",
+                    "postedDate": "2019-07-22 20:28:13",
+                    "verified": true,
+                    "eventName": "Latitude 2019",
+                    "overallRating": 4.5,
+                    "breakdown": {
+                        "ratingValue": 4,
+                        "ratingLocation": 5,
+                        "ratingAtmosphere": 5,
+                        "ratingMusic": 3
+                    },
+                    "user": {
+                        "fullName": "Amanda Cunningham",
+                        "username": "AmandaCunningham6",
+                        "image": ""
+                    }
+                },
+                {
+                    "id": 442124,
+                    "title": "Review of Latitude 2019",
+                    "body": "Great festival... something for everyone!",
+                    "postedDate": "2019-07-21 09:50:48",
+                    "verified": true,
+                    "eventName": "Latitude 2019",
+                    "overallRating": 5,
+                    "breakdown": {
+                        "ratingValue": 4,
+                        "ratingLocation": 5,
+                        "ratingAtmosphere": 5,
+                        "ratingMusic": 5
+                    },
+                    "user": {
+                        "fullName": "Jackie Norton",
+                        "username": "JackieNorton",
+                        "image": "https://graph.facebook.com/10210013397585964/picture?type=large"
+                    }
+                },
+                {
+                    "id": 324870,
+                    "title": "Review of Latitude 2018",
+                    "body": "Seeing Benjamin Clementine live was a dream come true. I am still trying to process his voice, his presence , his brilliant band a week later. Stunning. The driving piano of a modern  Nina Simone and a voice that tears your heart out . Still in recovery! Thank you Benjamin ( and the band)   My son ( a drummer  and guitarist( was inspired -including  by the band-  and is composing away as I type.",
+                    "postedDate": "2018-07-18 20:55:11",
+                    "verified": false,
+                    "eventName": "Latitude 2018",
+                    "overallRating": 4.5,
+                    "breakdown": {
+                        "ratingValue": 4,
+                        "ratingLocation": 4,
+                        "ratingAtmosphere": 4,
+                        "ratingMusic": 5
+                    },
+                    "user": {
+                        "fullName": "Anne Jackson",
+                        "username": "AnneJackson6",
+                        "image": "https://graph.facebook.com/10216945827542349/picture?type=large"
+                    }
+                },
+                {
+                    "id": 324050,
+                    "title": "Review of Latitude 2018",
+                    "body": "had a brilliant day jessie ware the vaccines and the killers amazing the only down side was getting out of the car park totally shambolic expect to wait awhile it was totally disorganised hopefully they will learn from this",
+                    "postedDate": "2018-07-15 12:01:31",
+                    "verified": true,
+                    "eventName": "Latitude 2018",
+                    "overallRating": 5,
+                    "breakdown": {
+                        "ratingValue": 4,
+                        "ratingLocation": 5,
+                        "ratingAtmosphere": 5,
+                        "ratingMusic": 5
+                    },
+                    "user": {
+                        "fullName": "Tessa Adams",
+                        "username": "TESSAADAMS",
+                        "image": ""
+                    }
+                },
+                {
+                    "id": 241313,
+                    "title": "Review of Latitude 2017",
+                    "body": "Best Latitude very but never went to main stage, the best acts were on the second stage, followed by all the other music stages. standouts, Imelda may, Sigrid, the head and the heart and Beth Orton",
+                    "postedDate": "2017-07-15 21:33:49",
+                    "verified": false,
+                    "eventName": "Latitude 2017",
+                    "overallRating": 5,
+                    "breakdown": {
+                        "ratingValue": 4,
+                        "ratingLocation": 5,
+                        "ratingAtmosphere": 5,
+                        "ratingMusic": 5
+                    },
+                    "user": {
+                        "fullName": "Chris East",
+                        "username": "ChrisEast1",
+                        "image": "https://scontent-lcy1-1.xx.fbcdn.net/v/t1.6435-1/182963160_10158229229410488_4870080503065632380_n.jpg?stp=dst-jpg_p480x480&_nc_cat=107&ccb=1-7&_nc_sid=0c64ff&_nc_ohc=dOjATAsGW6kAX8Y-WKt&_nc_ht=scontent-lcy1-1.xx&edm=AHgPADgEAAAA&oh=00_AfDapcdcS7Pi2sqZ1eousXFRl4Y3dq7YmxjVCfGqTEv2cQ&oe=63B16CFC"
+                    }
+                }
+            ],
+            "meta": {
+                "totalPages": 1,
+                "totalResults": 6
+            },
+            "reviewsSummary": {
+                "totalReviews": 4,
+                "ratingValue": 4,
+                "ratingLocation": 5,
+                "ratingAtmosphere": 5,
+                "ratingMusic": 5,
+                "overallRating": 4.5
+            },
+            "faqs": [
+                {
+                    "id": 1793,
+                    "festivalId": 54,
+                    "question": "When is Latitude Festival 2023?",
+                    "answer": "<p>Latitude Festival takes place Thursday 20th July - Sunday 23rd July 2023.</p>",
+                    "order": 1,
+                    "tab": "general"
+                },
+                {
+                    "id": 1795,
+                    "festivalId": 54,
+                    "question": "How to get to Latitude Festival",
+                    "answer": "<p>Coach</p>\r\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 11pt; font-family: Arial; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">Big Green Coach are once again the OFFICIAL and EXCLUSIVE coach travel provider to cinch presents Latitude. Take the hassle out of planning your journey and get yourselves dropped inside the festival gates &ndash;no one gets you closer.</span></p>\r\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 11pt; font-family: Arial; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">WEEKEND CAMPERS &ndash;Picking up from 18 locations across the UK. Services arrive on Thursday (with the option to arrive on Friday from London) and take you home on Monday morning (still covered in last night&rsquo;s glitter!).</span></p>\r\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 11pt; font-family: Arial; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">Pick up locations for weekend campers: Basingstoke, Birmingham, Brighton, Bristol, Cambridge, Chelmsford, Colchester, Coventry, Ipswich, Leeds, London (Victoria), Manchester, Norwich, Nottingham, Portsmouth, Reading, Sheffield and Southampton.</span></p>\r\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 11pt; font-family: Arial; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">DAY TICKETS &ndash;If you don&rsquo;t fancy camping but are coming in to see your favourite act for the day; there are day return coaches on Friday, Saturday &amp; Sunday. You&rsquo;ll arrive before the action starts and they will get you back to your own bed at theend of the night. Party hard and sleep all the way back!</span></p>\r\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 11pt; font-family: Arial; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">Pick up locations for day ticket holders: Colchester, Ipswich, London (Victoria) and Norwich.</span></p>\r\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 11pt; font-family: Arial; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">Return journeys from just &pound;37 return &ndash;book now before prices go up!</span></p>\r\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 11pt; font-family: Arial; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">Deposit scheme available. Secure your seat now for the lowest possible price and clear balance later in 2022.</span></p>\r\n<p><strong style=\"font-weight: normal;\">&nbsp;</strong></p>\r\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 11pt; font-family: Arial; color: #000000; background-color: transparent; font-weight: bold; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">Car</span></p>\r\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 11pt; font-family: Arial; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">Please do not use a Sat Nav system to get to the festival as there are different routes into the site depending on which direction you are approaching from and whether you are being dropped off, a family ticket holder, a weekend camper, bringing a campervan, a day ticket holder or a guest. Instead, please refer to the temporary festival road signage on your way to the festival site.</span></p>\r\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 11pt; font-family: Arial; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">Parking</span></p>\r\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 11pt; font-family: Arial; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">Weekend and day car parking is separate to the campsites in adjacent or nearby fields. Car parking is included in the price of your ticket. No sleeping, camping or fires are allowed in the car parks.</span></p>\r\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 11pt; font-family: Arial; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">Tow-away vehicles will remove any illegally parked cars. There will be a local recovery service based onsite on Monday morning. Suffolk Police will be enforcing the speed limits approaching the site, please comply with them!</span></p>\r\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 11pt; font-family: Arial; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">Drop off/Pick up</span></p>\r\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 11pt; font-family: Arial; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">There is a drop off and pick up point at yellow gate.</span></p>\r\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 11pt; font-family: Arial; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">Distances from local villages</span></p>\r\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 11pt; font-family: Arial; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">Blyford &ndash; 6 mins, 3 miles</span></p>\r\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 11pt; font-family: Arial; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">Blythburgh &ndash; 1.8 miles, 4 mins</span></p>\r\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 11pt; font-family: Arial; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">Frostenden &ndash; 3.7 miles, 7 mins</span></p>\r\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 11pt; font-family: Arial; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">Halesworth &ndash; 6.1 miles, 13 mins</span></p>\r\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 11pt; font-family: Arial; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">Lowestoft &ndash; 13.8 miles, 26 mins</span></p>\r\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 11pt; font-family: Arial; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">Reydon &ndash; 3.9 miles, 8 mins</span></p>\r\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 11pt; font-family: Arial; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">Southwold &ndash; 11 mins, 5 miles</span></p>\r\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 11pt; font-family: Arial; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">Uggeshall &ndash; 3.1 miles, 8 mins</span></p>\r\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 11pt; font-family: Arial; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">Walberswick &ndash; 5.2 miles, 12 mins</span></p>\r\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 11pt; font-family: Arial; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">Wangford &ndash; 1.9 miles, 4 mins</span></p>\r\n<p><strong style=\"font-weight: normal;\">&nbsp;</strong></p>\r\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 11pt; font-family: Arial; color: #000000; background-color: transparent; font-weight: bold; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">Train</span></p>\r\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 11pt; font-family: Arial; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">The most convenient station to arrive into is Diss if attending on Thurs/Fri/Sat/Sun.</span></p>\r\n<p><span style=\"font-size: 11pt; font-family: Arial; background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;\">Please visit</span><a style=\"text-decoration-line: none;\" href=\"https://www.greateranglia.co.uk/?_ga=2.19744504.1586707028.1554820123-1906339581.1548176215\"><span style=\"font-size: 11pt; font-family: Arial; color: #000000; background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;\"> abelliogreateranglia.co.uk</span></a><span style=\"font-size: 11pt; font-family: Arial; background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;\"> for more train information.</span></p>",
+                    "order": 1,
+                    "tab": "travel"
+                },
+                {
+                    "id": 1796,
+                    "festivalId": 54,
+                    "question": "campsite opening times",
+                    "answer": "<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 11pt; font-family: Arial; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">The campsite opens at 8:00am on Thursday 21st July 2022 and closes at 13.00 on Monday 25th July 2022. The campsite is staffed 24 hours a day and you can arrive at any time during this period.</span></p>\r\n<p>&nbsp;</p>\r\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 11pt; font-family: Arial; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">Campervan and caravan fields (General and Family) will be open from 2pm on Wednesday 20th July. Please note this will be access to the campervan and caravan fields ONLY &ndash; the rest of the site including the Village will not be accessible until Thursday. </span></p>",
+                    "order": 1,
+                    "tab": "camping"
+                },
+                {
+                    "id": 1801,
+                    "festivalId": 54,
+                    "question": "Accessibility information",
+                    "answer": "<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 11pt; font-family: Arial; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">Latitude aims to create an event that&rsquo;s truly accessible for all, which is why &ndash; for the past 15 years &ndash; Festival Republic (who own and operate Latitude Festival) have been working in close partnership with </span><a style=\"text-decoration: none;\" href=\"http://www.attitudeiseverything.org.uk/\"><span style=\"font-size: 11pt; font-family: Arial; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">Attitude is Everything</span></a><span style=\"font-size: 11pt; font-family: Arial; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\"> to achieve this goal.</span></p>\r\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 11pt; font-family: Arial; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">A charity set up to help improve deaf and disabled people&rsquo;s access to live music, as well as to support the music industry in making live music events more accessible, Attitude is Everything started life as a pilot project in 2000, growing into a fully independent charity which is now part of the Arts Council England&rsquo;s National Portfolio of organisations.</span></p>\r\n<p>&nbsp;</p>\r\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 11pt; font-family: Arial; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">Latitude has a dedicated Access Team working all year round to constantly improve the experience for access customers. The team can be found at the festival itself, working alongside Attitude is Everything volunteers who run the information tent within the Access Campsite</span></p>",
+                    "order": 1,
+                    "tab": "disabled_access"
+                },
+                {
+                    "id": 1802,
+                    "festivalId": 54,
+                    "question": "Latitude Festival ticket information",
+                    "answer": "<p>For information on tickets head over to&nbsp;https://www.latitudefestival.com/tickets/</p>",
+                    "order": 1,
+                    "tab": "ticket_information"
+                },
+                {
+                    "id": 1794,
+                    "festivalId": 54,
+                    "question": "Where is Latitude Festival?",
+                    "answer": "<p>Latitude Festival is located at Henham Park in Beccles.</p>",
+                    "order": 2,
+                    "tab": "general"
+                },
+                {
+                    "id": 1797,
+                    "festivalId": 54,
+                    "question": "weekend campsites",
+                    "answer": "<p><strong id=\"docs-internal-guid-02546866-7fff-76e6-3441-8bb36ff3d643\" style=\"font-weight: normal;\">&nbsp;</strong></p>\r\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 11pt; font-family: Arial; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">All Weekend Tickets include camping onsite. There are a number of colour-coded campsites around the site. There is plenty of space in the campsites for the capacity attending and so you should be able to find a space which is comfortable for you.</span></p>\r\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 11pt; font-family: Arial; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">On arrival at the campsites, please ask the gate staff if you would like to camp in less-crowded area. If a campsite zone is full, they will direct you to an alternative campsite.</span></p>\r\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 11pt; font-family: Arial; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">Once camped, take a note of a nearby fixed point or mark your site with a flag so that you can find your way back. Say hello to your neighbours so you can watch out for each other throughout the festival.</span></p>\r\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 11pt; font-family: Arial; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">You cannot drive into the campsites at any time due to fire regulations.</span></p>\r\n<p>&nbsp;</p>\r\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 11pt; font-family: Arial; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">Zone Managers will be working 24 hours in each zone. Their bases are by each area&rsquo;s fire tower. There are also teams of security and Campsite Assistance Teams (CATs) in each zone who are there if you need any help.</span></p>\r\n<p><span style=\"font-size: 11pt; font-family: Arial; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">&nbsp;</span></p>",
+                    "order": 2,
+                    "tab": "camping"
+                },
+                {
+                    "id": 1798,
+                    "festivalId": 54,
+                    "question": "family campsite",
+                    "answer": "<p><strong id=\"docs-internal-guid-c738a458-7fff-58fd-4bd4-d5846d9a2302\" style=\"font-weight: normal;\">&nbsp;</strong></p>\r\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 11pt; font-family: Arial; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">The Family Campsite is our dedicated area for families with children 16 or under at the festival to camp out. The site features dedicated toilets, showers, washing up facilities and food traders.</span></p>\r\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 11pt; font-family: Arial; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">The campsite is situated right next to the family activity areas and has its own arena entrance, meaning you can get into the festival in a hop, skip and a jump.</span></p>\r\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 11pt; font-family: Arial; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">To stay in the Family Campsite, you will need to purchase the Family Camping version of your tickets. Please be sure to choose the correct option when purchasing.</span></p>\r\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 11pt; font-family: Arial; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">Those with the Family Camping version will have access to our Family Car Park, located close to the Family Campsite to minimise your journey from car to tent.</span></p>\r\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 11pt; font-family: Arial; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">No single or groups of adults will be permitted in the Family Campsite unless accompanied by children 16 or under. Due to limited space, the Family Campsite area is restricted to relatives and guardians of children.</span></p>\r\n<p>&nbsp;</p>\r\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 11pt; font-family: Arial; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">Groups of friends and other family members who arrive without children should camp in the regular campsites.</span></p>\r\n<p><span style=\"font-size: 11pt; font-family: Arial; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">&nbsp;</span></p>",
+                    "order": 3,
+                    "tab": "camping"
+                },
+                {
+                    "id": 1799,
+                    "festivalId": 54,
+                    "question": "day campsite",
+                    "answer": "<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 11pt; font-family: Arial; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">We appreciate that sometimes getting home at the end of your day at a festival is not always easy, especially from our lovely site in Suffolk. Day ticket holders may therefore choose to stay overnight and travel the following morning.</span></p>\r\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 11pt; font-family: Arial; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">For anyone wishing to camp in the Day Campsite, there will be a charge of &pound;5.00 per person, payable on the day only. Basic facilities (toilets and drinking water) will be made available.</span></p>\r\n<p>&nbsp;</p>\r\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 11pt; font-family: Arial; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">To access the Day Campsite you must also be in possession of a Day Ticket for the event. Access will be from 10:00hrs on the chosen day and you must vacate the event site by no later than 09:00hrs the following day.</span></p>",
+                    "order": 4,
+                    "tab": "camping"
+                },
+                {
+                    "id": 1800,
+                    "festivalId": 54,
+                    "question": "Campervan, Caravan & Motorhome Passes",
+                    "answer": "<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 11pt; font-family: Arial; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">You need a campervan, caravan or motorhome pass for each vehicle, and each occupant, including the driver, must also have a Weekend Ticket. You must buy a campervan, caravan or motorpass for your vehicle when tickets go on sale.</span></p>\r\n<p>&nbsp;</p>\r\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 11pt; font-family: Arial; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">If you have a campervan, caravan or motorhome pass, you can arrive on site from 2pm on Wednesday 20th July. Please note: there will be no access to the festival village, arena, or food traders until Thursday afternoon. Basic toilet facilities and water points will still be available.</span></p>",
+                    "order": 5,
+                    "tab": "camping"
+                }
+            ],
+            "venue": {
+                "id": 8718,
+                "name": "Henham Park",
+                "location": {
+                    "address": "Beccles, Suffolk",
+                    "town": "Beccles",
+                    "postcode": "NR34 8AN",
+                    "latitude": 52.3488952,
+                    "longitude": 1.59528
+                },
+                "type": "Outdoors",
+                "imageUrl": "https://dhzjvxyl79yzn.cloudfront.net/8/8718_1_henham-park_th.jpg",
+                "postcodeLookup": "Norwich"
+            },
+            "adminPanelData": {
+                "memory": 406,
+                "version": "v16.19.0",
+                "containerIP": "169.254.172.2",
+                "listingsData": null,
+                "promoterID": 236577,
+                "remoteAddr": "93.84.31.149"
+            },
+            "reviewsDisplayFour": [
+                {
+                    "id": 442124,
+                    "title": "Review of Latitude 2019",
+                    "body": "Great festival... something for everyone!",
+                    "postedDate": "2019-07-21 09:50:48",
+                    "verified": true,
+                    "eventName": "Latitude 2019",
+                    "overallRating": 5,
+                    "breakdown": {
+                        "ratingValue": 4,
+                        "ratingLocation": 5,
+                        "ratingAtmosphere": 5,
+                        "ratingMusic": 5
+                    },
+                    "user": {
+                        "fullName": "Jackie Norton",
+                        "username": "JackieNorton",
+                        "image": "https://graph.facebook.com/10210013397585964/picture?type=large"
+                    }
+                },
+                {
+                    "id": 324870,
+                    "title": "Review of Latitude 2018",
+                    "body": "Seeing Benjamin Clementine live was a dream come true. I am still trying to process his voice, his presence , his brilliant band a week later. Stunning. The driving piano of a modern  Nina Simone and a voice that tears your heart out . Still in recovery! Thank you Benjamin ( and the band)   My son ( a drummer  and guitarist( was inspired -including  by the band-  and is composing away as I type.",
+                    "postedDate": "2018-07-18 20:55:11",
+                    "verified": false,
+                    "eventName": "Latitude 2018",
+                    "overallRating": 4.5,
+                    "breakdown": {
+                        "ratingValue": 4,
+                        "ratingLocation": 4,
+                        "ratingAtmosphere": 4,
+                        "ratingMusic": 5
+                    },
+                    "user": {
+                        "fullName": "Anne Jackson",
+                        "username": "AnneJackson6",
+                        "image": "https://graph.facebook.com/10216945827542349/picture?type=large"
+                    }
+                },
+                {
+                    "id": 324050,
+                    "title": "Review of Latitude 2018",
+                    "body": "had a brilliant day jessie ware the vaccines and the killers amazing the only down side was getting out of the car park totally shambolic expect to wait awhile it was totally disorganised hopefully they will learn from this",
+                    "postedDate": "2018-07-15 12:01:31",
+                    "verified": true,
+                    "eventName": "Latitude 2018",
+                    "overallRating": 5,
+                    "breakdown": {
+                        "ratingValue": 4,
+                        "ratingLocation": 5,
+                        "ratingAtmosphere": 5,
+                        "ratingMusic": 5
+                    },
+                    "user": {
+                        "fullName": "Tessa Adams",
+                        "username": "TESSAADAMS",
+                        "image": ""
+                    }
+                },
+                {
+                    "id": 241313,
+                    "title": "Review of Latitude 2017",
+                    "body": "Best Latitude very but never went to main stage, the best acts were on the second stage, followed by all the other music stages. standouts, Imelda may, Sigrid, the head and the heart and Beth Orton",
+                    "postedDate": "2017-07-15 21:33:49",
+                    "verified": false,
+                    "eventName": "Latitude 2017",
+                    "overallRating": 5,
+                    "breakdown": {
+                        "ratingValue": 4,
+                        "ratingLocation": 5,
+                        "ratingAtmosphere": 5,
+                        "ratingMusic": 5
+                    },
+                    "user": {
+                        "fullName": "Chris East",
+                        "username": "ChrisEast1",
+                        "image": "https://scontent-lcy1-1.xx.fbcdn.net/v/t1.6435-1/182963160_10158229229410488_4870080503065632380_n.jpg?stp=dst-jpg_p480x480&_nc_cat=107&ccb=1-7&_nc_sid=0c64ff&_nc_ohc=dOjATAsGW6kAX8Y-WKt&_nc_ht=scontent-lcy1-1.xx&edm=AHgPADgEAAAA&oh=00_AfDapcdcS7Pi2sqZ1eousXFRl4Y3dq7YmxjVCfGqTEv2cQ&oe=63B16CFC"
+                    }
+                }
+            ],
+            "news": [
+                {
+                    "id": 53936,
+                    "title": "Further additions to Latitude Festival 2019 line up",
+                    "date": "2019-03-07 10:40:03",
+                    "summary": "The likes of Chvrches, Everything Everything, Ray BLK and more join the bill.",
+                    "image": "https://d23sy9fe9womrt.cloudfront.net/6/53936.jpg",
+                    "link": "https://www.skiddle.com/n/53936",
+                    "contentHtml": null
+                },
+                {
+                    "id": 53789,
+                    "title": "Lana Del Rey, Snow Patrol and George Ezra confirmed for Latitude line up",
+                    "date": "2019-01-24 17:28:42",
+                    "summary": "Find out how to get Latitude tickets.",
+                    "image": "https://d23sy9fe9womrt.cloudfront.net/9/53789.jpg",
+                    "link": "https://www.skiddle.com/n/53789",
+                    "contentHtml": null
+                },
+                {
+                    "id": 38815,
+                    "title": "Latitude: The top five",
+                    "date": "2018-07-10 10:17:33",
+                    "summary": "Daniel Lovatt took a look at the all encompassing Latitude line up.",
+                    "image": "https://d23sy9fe9womrt.cloudfront.net/5/38815.jpg",
+                    "link": "https://www.skiddle.com/n/38815",
+                    "contentHtml": null
+                }
+            ]
+        },
+        "__N_SSP": true
+    },
+    "page": "/[...all]",
+    "query": {
+        "all": [
+            "latitude-festival"
+        ]
+    },
+    "buildId": "s36eHI9zSRpf3XbedkL60",
+    "assetPrefix": "/festivals",
+    "isFallback": false,
+    "dynamicIds": [
+        6772,
+        7315
+    ],
+    "gssp": true,
+    "customServer": true,
+    "scriptLoader": []
+}

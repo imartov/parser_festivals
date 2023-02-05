@@ -1,0 +1,2174 @@
+{
+    "props": {
+        "pageProps": {
+            "festival": {
+                "introText": "<h3>From the first wave to the last beat, Boardmasters brings like-minded souls together for a unique festival experience...</h3>\r\n<p>Boardmasters is situated across two iconic locations. The festival site sits above the rugged cliffs of Watergate Bay, home to arguably the world's best festival view. There are no less than twelve carefully curated stages, with an assortment of acts ranging from local acoustic talent, to mind-bending visual performers via world class headliners.&nbsp;</p>\r\n<p>Explore the festival and you will discover a world of adventure... choose to slow down the pace in the Wellbeing area at Zennor Haven, relax within the wood-fired eco-spa, immerse yourself in talks and workshops, feast inside the Wild Oyster restaurant, and wind your way around the array of fabulous food stalls on offer.&nbsp;</p>\r\n<p>Sustainability and an awareness of the impact on the local environment and community has been part of the ethos for Boardmasters throughout its time - so whilst roaming, keep an eye out for the Boardmasters Green Team who will be on hand to offer handy tips on how to keep the site green and clean.&nbsp;</p>\r\n<p>In Newquay town itself you will find the legendary surf mecca, Fistral Beach. Surf, skate, BMX, live music, the Surf Village and much more can be found here at the home of UK surfing. The pro surf competitions have been at the heart of the festival for over two decades, and&nbsp;the festival is thrilled to welcome back the international surf league events this year. From sun up to sun down, keep the party going by diving in to the TR7 takeovers, Beach Sessions and so much more.</p>\r\n<p>See you at the beach...</p>\r\n<p>&nbsp;</p>\r\n<p>&nbsp;</p>",
+                "mediaJson": null,
+                "genres": [
+                    "Pop",
+                    "Indie",
+                    "Pop Rock"
+                ],
+                "cheapestDayTicket": "185.00",
+                "festivalID": 274,
+                "festivalName": "Boardmasters Festival",
+                "festivalShortname": "Boardmasters",
+                "safeName": "boardmasters",
+                "listingsData": null,
+                "endDate": "2023-08-13",
+                "descriptionText": "Get more information about Boardmasters 2023 including festival tickets, news, reviews and lineups.",
+                "seoPageTitle": "",
+                "bannerImage": "https://s3-eu-west-1.amazonaws.com/skiddlecdn-images-listings/festivals/9161_1511861397_festbanner.jpg",
+                "image": "https://s3-eu-west-1.amazonaws.com/skiddlecdn-images-listings/festivals/4093_1511860831_fest.jpg",
+                "reviewsSummary": {
+                    "totalReviews": 0,
+                    "ratingValue": null,
+                    "ratingLocation": null,
+                    "ratingAtmosphere": null,
+                    "ratingMusic": null,
+                    "overallRating": null
+                },
+                "minAge": 0,
+                "startDate": "2023-08-09",
+                "location": "Newquay Fistral Beach And Watergate Bay in Cornwall",
+                "travel": {
+                    "coach": "",
+                    "car": "",
+                    "taxi": "",
+                    "bus": "",
+                    "rail": ""
+                },
+                "latitude": "50.43582570000",
+                "longitude": "-5.03674520000",
+                "venueID": 5632,
+                "promoterID": 236577,
+                "currency": "GBP",
+                "queueEnabled": 0,
+                "tbc": 0,
+                "explore": {
+                    "categories": [
+                        {
+                            "name": "Family Friendly festivals",
+                            "link": "/festivals/family-friendly.html",
+                            "id": "family-friendly-festivals"
+                        },
+                        {
+                            "name": "Dance Music festivals",
+                            "link": "/festivals/dance.html",
+                            "id": "dance-music-festivals"
+                        },
+                        {
+                            "name": "Dance Music festivals",
+                            "link": ".html",
+                            "id": "rock---metal---indie-music-festivals"
+                        },
+                        {
+                            "name": "Budget festivals",
+                            "link": "/festivals/under-100.html",
+                            "id": "budget-festivals"
+                        }
+                    ],
+                    "type": [
+                        {
+                            "name": "Sport festivals",
+                            "link": "/festivals/type/sport-90.html",
+                            "id": "sport"
+                        },
+                        {
+                            "name": "Music festivals",
+                            "link": "/festivals/type/music-40.html",
+                            "id": "music"
+                        },
+                        {
+                            "name": "Family Friendly festivals",
+                            "link": "/festivals/type/family-friendly-92.html",
+                            "id": "family-friendly"
+                        }
+                    ],
+                    "size": [
+                        {
+                            "name": "Medium sized festivals",
+                            "link": "/festivals/size/medium-6.html",
+                            "id": "medium"
+                        }
+                    ],
+                    "accommodation": [
+                        {
+                            "name": "Caravan facilities",
+                            "link": "/festivals/accommodation/caravan-18.html",
+                            "id": "caravan"
+                        },
+                        {
+                            "name": "Luxury / VIP Camping facilities",
+                            "link": "/festivals/accommodation/luxury---vip-camping-14.html",
+                            "id": "luxury---vip-camping"
+                        },
+                        {
+                            "name": "Campervan facilities",
+                            "link": "/festivals/accommodation/campervan-20.html",
+                            "id": "campervan"
+                        },
+                        {
+                            "name": "Standard Camping facilities",
+                            "link": "/festivals/accommodation/standard-camping-12.html",
+                            "id": "standard-camping"
+                        }
+                    ],
+                    "amenities": [
+                        {
+                            "name": "Toilets",
+                            "link": "/festivals/amenities/toilets-26.html",
+                            "id": "toilets"
+                        },
+                        {
+                            "name": "Luxury Toilets",
+                            "link": "/festivals/amenities/luxury-toilets-30.html",
+                            "id": "luxury-toilets"
+                        },
+                        {
+                            "name": "Showers",
+                            "link": "/festivals/amenities/showers-24.html",
+                            "id": "showers"
+                        },
+                        {
+                            "name": "Luxury Showers",
+                            "link": "/festivals/amenities/luxury-showers-28.html",
+                            "id": "luxury-showers"
+                        }
+                    ],
+                    "attractions": [
+                        {
+                            "name": "Extreme Sports",
+                            "link": "/festivals/attractions/extreme-sports-82.html",
+                            "id": "extreme-sports"
+                        },
+                        {
+                            "name": "Fairground",
+                            "link": "/festivals/attractions/fairground-54.html",
+                            "id": "fairground"
+                        },
+                        {
+                            "name": "Beach",
+                            "link": "/festivals/attractions/beach-86.html",
+                            "id": "beach"
+                        },
+                        {
+                            "name": "Cinema / Film screenings",
+                            "link": "/festivals/attractions/cinema---film-screenings-76.html",
+                            "id": "cinema---film-screenings"
+                        },
+                        {
+                            "name": "Water Sports",
+                            "link": "/festivals/attractions/water-sports-84.html",
+                            "id": "water-sports"
+                        }
+                    ]
+                }
+            },
+            "headerJSON": [
+                {
+                    "id": "gigs",
+                    "title": "gigs",
+                    "titleLink": "/live/",
+                    "links": [
+                        {
+                            "id": "all_eventtype",
+                            "title": "all gigs",
+                            "link": "/live/"
+                        },
+                        {
+                            "id": "all_cities",
+                            "title": "view all cities",
+                            "link": "/whats-on/cities.html"
+                        }
+                    ],
+                    "categories": [
+                        {
+                            "id": "cities",
+                            "category": "browse gigs in",
+                            "links": [
+                                {
+                                    "title": "Birmingham",
+                                    "link": "/gigs/Birmingham/",
+                                    "hrefTitle": "Events in Birmingham"
+                                },
+                                {
+                                    "title": "Bristol",
+                                    "link": "/gigs/Bristol/",
+                                    "hrefTitle": "Events in Bristol"
+                                },
+                                {
+                                    "title": "Brighton",
+                                    "link": "/gigs/Brighton/",
+                                    "hrefTitle": "Events in Brighton"
+                                },
+                                {
+                                    "title": "Cardiff",
+                                    "link": "/gigs/Cardiff/",
+                                    "hrefTitle": "Events in Cardiff"
+                                },
+                                {
+                                    "title": "Edinburgh",
+                                    "link": "/gigs/Edinburgh/",
+                                    "hrefTitle": "Events in Edinburgh"
+                                },
+                                {
+                                    "title": "Glasgow",
+                                    "link": "/gigs/Glasgow/",
+                                    "hrefTitle": "Events in Glasgow"
+                                },
+                                {
+                                    "title": "Leeds",
+                                    "link": "/gigs/Leeds/",
+                                    "hrefTitle": "Events in Leeds"
+                                },
+                                {
+                                    "title": "Liverpool",
+                                    "link": "/gigs/Liverpool/",
+                                    "hrefTitle": "Events in Liverpool"
+                                },
+                                {
+                                    "title": "London",
+                                    "link": "/gigs/London/",
+                                    "hrefTitle": "Events in London"
+                                },
+                                {
+                                    "title": "Manchester",
+                                    "link": "/gigs/Manchester/",
+                                    "hrefTitle": "Events in Manchester"
+                                },
+                                {
+                                    "title": "Newcastle",
+                                    "link": "/gigs/Newcastle-on-Tyne/",
+                                    "hrefTitle": "Events in Newcastle"
+                                },
+                                {
+                                    "title": "Sheffield",
+                                    "link": "/gigs/Sheffield/",
+                                    "hrefTitle": "Events in Sheffield"
+                                },
+                                {
+                                    "title": "",
+                                    "link": ""
+                                },
+                                {
+                                    "title": "View all cities",
+                                    "link": "/whats-on/cities.html",
+                                    "hrefTitle": "View all cities"
+                                }
+                            ]
+                        },
+                        {
+                            "id": "all_eventtype",
+                            "category": "find events",
+                            "links": [
+                                {
+                                    "title": "Artist tour dates",
+                                    "link": "/artists/"
+                                },
+                                {
+                                    "title": "Events by brand",
+                                    "link": "/groups/"
+                                },
+                                {
+                                    "title": "Socially Distanced Events",
+                                    "link": "/inspire-me/socially-distanced-events-2020"
+                                },
+                                {
+                                    "title": "Virtual Events",
+                                    "link": "/whats-on/online/"
+                                }
+                            ]
+                        },
+                        {
+                            "id": "seasonal",
+                            "category": "seasonal",
+                            "links": [
+                                {
+                                    "title": "Festivals 2022",
+                                    "link": "/festivals/"
+                                },
+                                {
+                                    "title": "Valentines Day",
+                                    "link": "/valentinesday/"
+                                }
+                            ]
+                        },
+                        {
+                            "id": "top_venues",
+                            "category": "top venues",
+                            "links": [
+                                {
+                                    "title": "Hare & Hounds ",
+                                    "link": "/whats-on/birmingham/hare-and-hounds/"
+                                },
+                                {
+                                    "title": "YES - Manchester",
+                                    "link": "/whats-on/manchester/yes/"
+                                },
+                                {
+                                    "title": "Phase One",
+                                    "link": "/whats-on/liverpool/phase-one/"
+                                },
+                                {
+                                    "title": "Invisible Wind Factory",
+                                    "link": "/whats-on/liverpool/invisible-wind-factory/"
+                                },
+                                {
+                                    "title": "The Louisiana",
+                                    "link": "/whats-on/bristol/The-louisiana/"
+                                },
+                                {
+                                    "title": "The Concorde 2",
+                                    "link": "/whats-on/brighton/the-concorde-2/"
+                                },
+                                {
+                                    "title": "The Old Dr Bells Baths",
+                                    "link": "/whats-on/edinburgh/the-old-dr-bells-baths/"
+                                },
+                                {
+                                    "title": "St Lukes",
+                                    "link": "/whats-on/glasgow/St-Luke%27s-/"
+                                },
+                                {
+                                    "title": "Barrowland Ballroom",
+                                    "link": "/whats-on/glasgow/Barrowland-ballroom/"
+                                },
+                                {
+                                    "title": "Brudenell Social Club",
+                                    "link": "/whats-on/leeds/brudenell-social-club/"
+                                },
+                                {
+                                    "title": "Millenium Square",
+                                    "link": "/whats-on/leeds/Millenium-square/"
+                                },
+                                {
+                                    "title": "The Jazz Cafe",
+                                    "link": "/whats-on/london/The-jazz-cafe/"
+                                },
+                                {
+                                    "title": "The Steelyard",
+                                    "link": "/whats-on/london/The-steel-yard/"
+                                },
+                                {
+                                    "title": "The Cluny",
+                                    "link": "/whats-on/Newcastle-on-tyne/the-cluny/"
+                                },
+                                {
+                                    "title": "Record Junkee",
+                                    "link": "/whats-on/sheffield/record-junkee/"
+                                }
+                            ]
+                        }
+                    ],
+                    "genres": {
+                        "id": "genre_images",
+                        "title": "gigs by genres",
+                        "links": [
+                            {
+                                "title": "Rock & Metal gigs",
+                                "image": "https://d1plawd8huk6hh.cloudfront.net/images/landing/backgrounds/rhcp-small2.jpg",
+                                "link": "/live/rock-metal.html"
+                            },
+                            {
+                                "title": "Indie & Alternative gigs",
+                                "image": "https://d1plawd8huk6hh.cloudfront.net/images/landing/backgrounds/arctic-monkeys-small2.jpg",
+                                "link": "/live/indie-alternative.html"
+                            },
+                            {
+                                "title": "Hip Hop & R&B gigs",
+                                "image": "https://d1plawd8huk6hh.cloudfront.net/images/landing/backgrounds/loyle-carner-small2.jpg",
+                                "link": "/live/hip-hop-rnb.html"
+                            },
+                            {
+                                "title": "Reggae & Dancehall gigs",
+                                "image": "https://d1plawd8huk6hh.cloudfront.net/images/landing/backgrounds/lee-scratch-perry-small2.jpg",
+                                "link": "/live/reggae-dancehall.html"
+                            },
+                            {
+                                "title": "Electronic gigs",
+                                "image": "https://d1plawd8huk6hh.cloudfront.net/images/landing/backgrounds/daft-punk-small2.jpg",
+                                "link": "/live/electronic.html"
+                            },
+                            {
+                                "title": "Pop gigs",
+                                "image": "https://d1plawd8huk6hh.cloudfront.net/images/landing/backgrounds/jess-glynne-small2.jpg",
+                                "link": "/live/pop.html"
+                            },
+                            {
+                                "title": "Funk & Soul gigs",
+                                "image": "https://d1plawd8huk6hh.cloudfront.net/images/landing/backgrounds/mark-ronson-small2.jpg",
+                                "link": "/live/funk-soul.html"
+                            },
+                            {
+                                "title": "Folk & Blues gigs",
+                                "image": "https://d1plawd8huk6hh.cloudfront.net/images/landing/backgrounds/lucy-rose-small2.jpg",
+                                "link": "/live/folk-blues.html"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "id": "clubs",
+                    "title": "clubs",
+                    "titleLink": "/clubs/",
+                    "links": [
+                        {
+                            "id": "all_eventtype",
+                            "title": "all clubbing events",
+                            "link": "/clubs/"
+                        },
+                        {
+                            "id": "all_cities",
+                            "title": "view all cities",
+                            "link": "/whats-on/cities.html"
+                        }
+                    ],
+                    "categories": [
+                        {
+                            "id": "cities",
+                            "category": "browse club events in",
+                            "links": [
+                                {
+                                    "title": "Birmingham",
+                                    "link": "/clubs/Birmingham/",
+                                    "hrefTitle": "Events in Birmingham"
+                                },
+                                {
+                                    "title": "Bristol",
+                                    "link": "/clubs/Bristol/",
+                                    "hrefTitle": "Events in Bristol"
+                                },
+                                {
+                                    "title": "Brighton",
+                                    "link": "/clubs/Brighton/",
+                                    "hrefTitle": "Events in Brighton"
+                                },
+                                {
+                                    "title": "Cardiff",
+                                    "link": "/clubs/Cardiff/",
+                                    "hrefTitle": "Events in Cardiff"
+                                },
+                                {
+                                    "title": "Edinburgh",
+                                    "link": "/clubs/Edinburgh/",
+                                    "hrefTitle": "Events in Edinburgh"
+                                },
+                                {
+                                    "title": "Glasgow",
+                                    "link": "/clubs/Glasgow/",
+                                    "hrefTitle": "Events in Glasgow"
+                                },
+                                {
+                                    "title": "Leeds",
+                                    "link": "/clubs/Leeds/",
+                                    "hrefTitle": "Events in Leeds"
+                                },
+                                {
+                                    "title": "Liverpool",
+                                    "link": "/clubs/Liverpool/",
+                                    "hrefTitle": "Events in Liverpool"
+                                },
+                                {
+                                    "title": "London",
+                                    "link": "/clubs/London/",
+                                    "hrefTitle": "Events in London"
+                                },
+                                {
+                                    "title": "Manchester",
+                                    "link": "/clubs/Manchester/",
+                                    "hrefTitle": "Events in Manchester"
+                                },
+                                {
+                                    "title": "Newcastle",
+                                    "link": "/clubs/Newcastle-on-Tyne/",
+                                    "hrefTitle": "Events in Newcastle"
+                                },
+                                {
+                                    "title": "Sheffield",
+                                    "link": "/clubs/Sheffield/",
+                                    "hrefTitle": "Events in Sheffield"
+                                },
+                                {
+                                    "title": "",
+                                    "link": ""
+                                },
+                                {
+                                    "title": "View all cities",
+                                    "link": "/whats-on/cities.html",
+                                    "hrefTitle": "View all cities"
+                                }
+                            ]
+                        },
+                        {
+                            "id": "find_events",
+                            "category": "find events",
+                            "links": [
+                                {
+                                    "title": "Artist/DJ tour dates",
+                                    "link": "/artists/"
+                                },
+                                {
+                                    "title": "Events by brand",
+                                    "link": "/groups/"
+                                },
+                                {
+                                    "title": "Top 100 Clubs",
+                                    "link": "/whats-on/top100clubs.html"
+                                },
+                                {
+                                    "title": "Socially Distanced Events",
+                                    "link": "/inspire-me/socially-distanced-events-2021"
+                                },
+                                {
+                                    "title": "Virtual Events",
+                                    "link": "/whats-on/online/"
+                                }
+                            ]
+                        },
+                        {
+                            "id": "seasonal",
+                            "category": "seasonal",
+                            "links": [
+                                {
+                                    "title": "Festivals 2022",
+                                    "link": "/festivals/"
+                                },
+                                {
+                                    "title": "Ibiza 20201",
+                                    "link": "/ibiza/"
+                                },
+                                {
+                                    "title": "Croatia 20201",
+                                    "link": "/croatia/"
+                                },
+                                {
+                                    "title": "Fathers Day",
+                                    "link": "/fathersday/"
+                                }
+                            ]
+                        },
+                        {
+                            "id": "top_clubs",
+                            "category": "top clubs",
+                            "links": [
+                                {
+                                    "title": "WHP",
+                                    "link": "/groups/thewarehouseproject/"
+                                },
+                                {
+                                    "title": "Printworks",
+                                    "link": "/whats-on/London/Printworks-London/"
+                                },
+                                {
+                                    "title": "Motion",
+                                    "link": "/groups/motionbristol/"
+                                },
+                                {
+                                    "title": "Victoria Warehouse",
+                                    "link": "/whats-on/Manchester/O2-Victoria-Warehouse/"
+                                },
+                                {
+                                    "title": "Albert Hall",
+                                    "link": "/groups/alberthall/"
+                                },
+                                {
+                                    "title": "24 Kitchen Street",
+                                    "link": "/whats-on/Liverpool/24-Kitchen-Street/"
+                                },
+                                {
+                                    "title": "Ministry of Sound",
+                                    "link": "/whats-on/London/Ministry-Of-Sound/"
+                                },
+                                {
+                                    "title": "Digital",
+                                    "link": "/whats-on/Newcastle-on-Tyne/Digital/"
+                                },
+                                {
+                                    "title": "Lab11",
+                                    "link": "/whats-on/Birmingham/LAB11/"
+                                },
+                                {
+                                    "title": "Bramley Moore Dock",
+                                    "link": "/whats-on/Liverpool/Bramley-Moore-Dock/"
+                                },
+                                {
+                                    "title": "Digbeth Arena",
+                                    "link": "/whats-on/Birmingham/Digbeth-Arena/"
+                                },
+                                {
+                                    "title": "The Mill",
+                                    "link": "/whats-on/Birmingham/The-Mill-Digbeth/"
+                                },
+                                {
+                                    "title": "Social Avenue",
+                                    "link": "/whats-on/Manchester/Social-Avenue/"
+                                },
+                                {
+                                    "title": "Dreamland",
+                                    "link": "/whats-on/Margate/Dreamland/"
+                                },
+                                {
+                                    "title": "Fabric",
+                                    "link": "/groups/fabric/"
+                                }
+                            ]
+                        },
+                        {
+                            "id": "top_events",
+                            "category": "top events",
+                            "links": [
+                                {
+                                    "title": "WAH",
+                                    "link": "/groups/elrow/"
+                                },
+                                {
+                                    "title": "Elrow",
+                                    "link": "/groups/elrow/"
+                                },
+                                {
+                                    "title": "Glitterbox",
+                                    "link": "/groups/glitterbox/"
+                                },
+                                {
+                                    "title": "Circus",
+                                    "link": "/groups/circusliverpool/"
+                                },
+                                {
+                                    "title": "Homoelectric",
+                                    "link": "/groups/homoelectric/"
+                                },
+                                {
+                                    "title": "Defected",
+                                    "link": "/groups/defectedinthehouse/"
+                                },
+                                {
+                                    "title": "PierJam",
+                                    "link": "/groups/pierjam/"
+                                },
+                                {
+                                    "title": "Garage Nation",
+                                    "link": "/groups/garagenation/"
+                                },
+                                {
+                                    "title": "Goodgreef",
+                                    "link": "/groups/goodgreef/"
+                                },
+                                {
+                                    "title": "Jika Jika",
+                                    "link": "/groups/Jikajika/"
+                                },
+                                {
+                                    "title": "Weird Science",
+                                    "link": "/groups/weirdscience/"
+                                },
+                                {
+                                    "title": "Cirque Du Soul",
+                                    "link": "/groups/cirquedusoul/"
+                                },
+                                {
+                                    "title": "Bedlam",
+                                    "link": "/groups/bedlamcardiff/"
+                                },
+                                {
+                                    "title": "Circus x Cream",
+                                    "link": "/groups/circusxcream/"
+                                },
+                                {
+                                    "title": "Cream",
+                                    "link": "/groups/cream/"
+                                }
+                            ]
+                        }
+                    ],
+                    "genres": {
+                        "id": "genre_images",
+                        "title": "clubs by genres",
+                        "links": [
+                            {
+                                "title": "House & Techno club events",
+                                "image": "https://d1plawd8huk6hh.cloudfront.net/landing-pages/backgrounds/nina-kraviz-small2.jpg",
+                                "link": "/clubs/house-techno.html"
+                            },
+                            {
+                                "title": "UKG & Bass Music club events",
+                                "image": "https://d1plawd8huk6hh.cloudfront.net/landing-pages/backgrounds/dj-ez-small2.png",
+                                "link": "/clubs/ukg-bass-music.html"
+                            },
+                            {
+                                "title": "EDM club events",
+                                "image": "https://d1plawd8huk6hh.cloudfront.net/landing-pages/backgrounds/don-diablo-small2.png",
+                                "link": "/clubs/main-room-edm.html"
+                            },
+                            {
+                                "title": "Funk, Soul & Disco club events",
+                                "image": "https://d1plawd8huk6hh.cloudfront.net/landing-pages/backgrounds/dimitri-from-paris-small2.jpg",
+                                "link": "/clubs/funk-soul-disco.html"
+                            },
+                            {
+                                "title": "Trance & Hard Dance club events",
+                                "image": "https://d1plawd8huk6hh.cloudfront.net/landing-pages/backgrounds/paul-oakenfold-small2.jpg",
+                                "link": "/clubs/trance-hard-dance.html"
+                            },
+                            {
+                                "title": "Hip Hop & R&B club events",
+                                "image": "https://d1plawd8huk6hh.cloudfront.net/landing-pages/backgrounds/kendrick-small2.jpg",
+                                "link": "/clubs/hip-hop-rnb.html"
+                            },
+                            {
+                                "title": "Reggae, DUB & Dancehall club events",
+                                "image": "https://d1plawd8huk6hh.cloudfront.net/images/landing/backgrounds/lee-scratch-perry-small2.jpg",
+                                "link": "/clubs/reggae-dub.html"
+                            },
+                            {
+                                "title": "Pop, Rock & Indie club events",
+                                "image": "https://d1plawd8huk6hh.cloudfront.net/landing-pages/backgrounds/arctic-monkeys-small2.jpg",
+                                "link": "/clubs/rock-indie.html"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "id": "festivals",
+                    "title": "festivals",
+                    "titleLink": "/festivals/",
+                    "links": [
+                        {
+                            "id": "all_eventtype",
+                            "title": "festivals",
+                            "link": "/festivals/"
+                        }
+                    ],
+                    "categories": [
+                        {
+                            "id": "find_festival",
+                            "category": "find your perfect festival",
+                            "links": [
+                                {
+                                    "title": "Festivals 2022",
+                                    "link": "/festivals/"
+                                },
+                                {
+                                    "title": "Festival Finder",
+                                    "link": "/festivals/search/"
+                                }
+                            ]
+                        },
+                        {
+                            "id": "types_festivals",
+                            "category": "types of festivals",
+                            "links": [
+                                {
+                                    "title": "Dance Music Festivals",
+                                    "link": "/festivals/dance.html"
+                                },
+                                {
+                                    "title": "Rock and Indie Festivals",
+                                    "link": "/festivals/rock-indie.html"
+                                },
+                                {
+                                    "title": "Boutique Festivals",
+                                    "link": "/festivals/boutique.html"
+                                },
+                                {
+                                    "title": "Budget Festivals",
+                                    "link": "/festivals/under-100.html"
+                                },
+                                {
+                                    "title": "European/Overseas Festivals",
+                                    "link": "/festivals/overseas.html"
+                                },
+                                {
+                                    "title": "Browse all festivals",
+                                    "link": "/festivals/search/"
+                                },
+                                {
+                                    "title": "Budget Festivals",
+                                    "link": "/festivals/under-100.html"
+                                },
+                                {
+                                    "title": "Family Friendly Festivals",
+                                    "link": "/festivals/family-friendly.html"
+                                },
+                                {
+                                    "title": "Payment Plan Festivals",
+                                    "link": "/inspire-me/payment-plan-festivals"
+                                }
+                            ]
+                        },
+                        {
+                            "id": "festival_tickets",
+                            "category": "festival tickets",
+                            "links": [
+                                {
+                                    "title": "51st Festival",
+                                    "link": "/festivals/51st-state-festival/"
+                                },
+                                {
+                                    "title": "Bassfest",
+                                    "link": "/festivals/bassfest/"
+                                },
+                                {
+                                    "title": "Belladrum",
+                                    "link": "/festivals/belladrum/"
+                                },
+                                {
+                                    "title": "Bluedot",
+                                    "link": "/festivals/bluedot-festival/",
+                                    "hideMobile": true
+                                },
+                                {
+                                    "title": "Boundary Brighton",
+                                    "link": "/festivals/boundary-brighton/"
+                                },
+                                {
+                                    "title": "Creamfields North",
+                                    "link": "/festivals/creamfields/",
+                                    "hideMobile": true
+                                },
+                                {
+                                    "title": "Creamfields South",
+                                    "link": "/festivals/creamfields-south/",
+                                    "hideMobile": true
+                                },
+                                {
+                                    "title": "Dream Valley",
+                                    "link": "/festivals/Dream-Valley/",
+                                    "hideMobile": true
+                                },
+                                {
+                                    "title": "El Dorado",
+                                    "link": "/festivals/El-Dorado/",
+                                    "hideMobile": true
+                                },
+                                {
+                                    "title": "Electric Woodlands",
+                                    "link": "/festivals/Electric-Woodlands/",
+                                    "hideMobile": true
+                                },
+                                {
+                                    "title": "Field day",
+                                    "link": "/festivals/Field-day/",
+                                    "hideMobile": true
+                                },
+                                {
+                                    "title": "Fields of Gold",
+                                    "link": "/festivals/Fields-of-Gold/",
+                                    "hideMobile": true
+                                },
+                                {
+                                    "title": "Hide & Seek",
+                                    "link": "/festivals/hide-seek-festival/",
+                                    "hideMobile": true
+                                },
+                                {
+                                    "title": "Highest Point Festival",
+                                    "link": "/festivals/Highest-Point-Festival/",
+                                    "hideMobile": true
+                                },
+                                {
+                                    "title": "In It Together",
+                                    "link": "/festivals/In-It-Together/",
+                                    "hideMobile": true
+                                },
+                                {
+                                    "title": "Inside Out",
+                                    "link": "/festivals/Inside-Out/",
+                                    "hideMobile": true
+                                },
+                                {
+                                    "title": "Junction 2",
+                                    "link": "/festivals/Junction-2/",
+                                    "hideMobile": true
+                                },
+                                {
+                                    "title": "Kendal calling",
+                                    "link": "/festivals/Kendal-calling/",
+                                    "hideMobile": true
+                                },
+                                {
+                                    "title": "Kubix Festival ",
+                                    "link": "/festivals/Kubix-Festival/",
+                                    "hideMobile": true
+                                },
+                                {
+                                    "title": "Lovebox",
+                                    "link": "/festivals/Lovebox/",
+                                    "hideMobile": true
+                                },
+                                {
+                                    "title": "Lytham Festival",
+                                    "link": "/festivals/Lytham-prom/",
+                                    "hideMobile": true
+                                },
+                                {
+                                    "title": "MADE",
+                                    "link": "/festivals/MADE-birmingham/",
+                                    "hideMobile": true
+                                },
+                                {
+                                    "title": "Mint Festival",
+                                    "link": "/festivals/Mint-Festival/",
+                                    "hideMobile": true
+                                },
+                                {
+                                    "title": "Moovin Festival",
+                                    "link": "/festivals/Moovin-Festival/",
+                                    "hideMobile": true
+                                },
+                                {
+                                    "title": "Neighbourhood Weekender",
+                                    "link": "/festivals/neighbourhood-weekender/"
+                                },
+                                {
+                                    "title": "Parklife",
+                                    "link": "/festivals/Parklife2/",
+                                    "hideMobile": true
+                                },
+                                {
+                                    "title": "Playground Festival",
+                                    "link": "/festivals/playground-festival/",
+                                    "hideMobile": true
+                                },
+                                {
+                                    "title": "Reminisce Festival",
+                                    "link": "/festivals/Reminisce-Festival/",
+                                    "hideMobile": true
+                                },
+                                {
+                                    "title": "Snowboxx",
+                                    "link": "/festivals/Snowboxx-festival/",
+                                    "hideMobile": true
+                                },
+                                {
+                                    "title": "Solfest",
+                                    "link": "/festivals/Solfest/",
+                                    "hideMobile": true
+                                },
+                                {
+                                    "title": "Terminal V",
+                                    "link": "/festivals/Terminal-v-festival/",
+                                    "hideMobile": true
+                                },
+                                {
+                                    "title": "The Weekender",
+                                    "link": "/festivals/The-weekender/",
+                                    "hideMobile": true
+                                },
+                                {
+                                    "title": "Westfest",
+                                    "link": "/festivals/Westfest/",
+                                    "hideMobile": true
+                                },
+                                {
+                                    "title": "More festival tickets",
+                                    "link": "/festivals/",
+                                    "hideMobile": true
+                                }
+                            ]
+                        }
+                    ],
+                    "genres": null
+                },
+                {
+                    "id": "whats_on",
+                    "title": "what's on",
+                    "titleLink": "/whats-on/",
+                    "links": [
+                        {
+                            "id": "all_eventtype",
+                            "title": "All Events",
+                            "link": "/whats-on/"
+                        }
+                    ],
+                    "categories": [
+                        {
+                            "id": "cities",
+                            "category": "browse events in",
+                            "links": [
+                                {
+                                    "title": "Events Home",
+                                    "link": "/whats-on/"
+                                },
+                                {
+                                    "title": "Birmingham",
+                                    "link": "/whats-on/Birmingham/",
+                                    "hrefTitle": "Events in Birmingham"
+                                },
+                                {
+                                    "title": "Bristol",
+                                    "link": "/whats-on/Bristol/",
+                                    "hrefTitle": "Events in Bristol"
+                                },
+                                {
+                                    "title": "Brighton",
+                                    "link": "/whats-on/Brighton/",
+                                    "hrefTitle": "Events in Brighton"
+                                },
+                                {
+                                    "title": "Cardiff",
+                                    "link": "/whats-on/Cardiff/",
+                                    "hrefTitle": "Events in Cardiff"
+                                },
+                                {
+                                    "title": "Edinburgh",
+                                    "link": "/whats-on/Edinburgh/",
+                                    "hrefTitle": "Events in Edinburgh"
+                                },
+                                {
+                                    "title": "Glasgow",
+                                    "link": "/whats-on/Glasgow/",
+                                    "hrefTitle": "Events in Glasgow"
+                                },
+                                {
+                                    "title": "Leeds",
+                                    "link": "/whats-on/Leeds/",
+                                    "hrefTitle": "Events in Leeds"
+                                },
+                                {
+                                    "title": "Liverpool",
+                                    "link": "/whats-on/Liverpool/",
+                                    "hrefTitle": "Events in Liverpool"
+                                },
+                                {
+                                    "title": "London",
+                                    "link": "/whats-on/London/",
+                                    "hrefTitle": "Events in London"
+                                },
+                                {
+                                    "title": "Manchester",
+                                    "link": "/whats-on/Manchester/",
+                                    "hrefTitle": "Events in Manchester"
+                                },
+                                {
+                                    "title": "Newcastle",
+                                    "link": "/whats-on/Newcastle-on-Tyne/",
+                                    "hrefTitle": "Events in Newcastle"
+                                },
+                                {
+                                    "title": "Sheffield",
+                                    "link": "/whats-on/Sheffield/",
+                                    "hrefTitle": "Events in Sheffield"
+                                },
+                                {
+                                    "title": "View all cities",
+                                    "link": "/whats-on/cities.html",
+                                    "hrefTitle": "View all cities"
+                                }
+                            ]
+                        },
+                        {
+                            "id": "city_guides",
+                            "category": "city guides",
+                            "links": [
+                                {
+                                    "title": "London Guide",
+                                    "link": "/cities/london/"
+                                },
+                                {
+                                    "title": "Manchester Guide",
+                                    "link": "/cities/manchester/"
+                                },
+                                {
+                                    "title": "Liverpool Guide",
+                                    "link": "/cities/liverpool/"
+                                },
+                                {
+                                    "title": "Leeds Guide",
+                                    "link": "/cities/leeds/"
+                                },
+                                {
+                                    "title": "Birmingham Guide",
+                                    "link": "/cities/birmingham/"
+                                },
+                                {
+                                    "title": "Newcastle Guide",
+                                    "link": "/cities/newcastle-on-tyne/"
+                                },
+                                {
+                                    "title": "Edinburgh Guide",
+                                    "link": "/cities/edinburgh/"
+                                },
+                                {
+                                    "title": "Glasgow Guide",
+                                    "link": "/cities/glasgow/"
+                                },
+                                {
+                                    "title": "Brighton Guide",
+                                    "link": "/cities/brighton/"
+                                },
+                                {
+                                    "title": "Bristol Guide",
+                                    "link": "/cities/bristol/"
+                                },
+                                {
+                                    "title": "Cardiff Guide",
+                                    "link": "/cities/cardiff/"
+                                }
+                            ]
+                        },
+                        {
+                            "id": "popular_artists",
+                            "category": "popular artists",
+                            "links": [
+                                {
+                                    "title": "andy c",
+                                    "link": "/artists/andy-c-123457009/"
+                                },
+                                {
+                                    "title": "bicep",
+                                    "link": "/artists/bicep-123504694/"
+                                },
+                                {
+                                    "title": "bonobo",
+                                    "link": "/artists/bonobo-123483600/"
+                                },
+                                {
+                                    "title": "camelphat",
+                                    "link": "/artists/camelphat-123530158/"
+                                },
+                                {
+                                    "title": "caribou",
+                                    "link": "/artists/caribou-123481754/"
+                                },
+                                {
+                                    "title": "chase & Status",
+                                    "link": "/artists/chase--status-123456801/"
+                                },
+                                {
+                                    "title": "denis sulta",
+                                    "link": "/artists/denis-sulta-123542576/"
+                                },
+                                {
+                                    "title": "eric prydz",
+                                    "link": "/artists/eric-prydz-123456863/"
+                                },
+                                {
+                                    "title": "four tet",
+                                    "link": "/artists/four-tet-123471730/"
+                                },
+                                {
+                                    "title": "hybrid minds",
+                                    "link": "/artists/hybrid-minds-123508782/"
+                                },
+                                {
+                                    "title": "nina kraviz",
+                                    "link": "/artists/nina-kraviz-123499386/"
+                                },
+                                {
+                                    "title": "patrick topping",
+                                    "link": "/artists/patrick-topping-123520148/"
+                                },
+                                {
+                                    "title": "peggy gou",
+                                    "link": "/artists/peggy-gou-123551749/"
+                                },
+                                {
+                                    "title": "solardo",
+                                    "link": "/artists/solardo-123546951/"
+                                },
+                                {
+                                    "title": "Sonny Fodera",
+                                    "link": "/artists/sonny-fodera-123515298/"
+                                },
+                                {
+                                    "title": "view all artists",
+                                    "link": "/artists/"
+                                }
+                            ]
+                        },
+                        {
+                            "id": "seasonal_links",
+                            "category": "Valentines Day",
+                            "links": [
+                                {
+                                    "title": "London Guide",
+                                    "link": "/cities/london/valentines-day.html"
+                                },
+                                {
+                                    "title": "Manchester Guide",
+                                    "link": "/cities/manchester/valentines-day.html"
+                                },
+                                {
+                                    "title": "Liverpool Guide",
+                                    "link": "/cities/liverpool/valentines-day.html"
+                                },
+                                {
+                                    "title": "Cardiff Guide",
+                                    "link": "/cities/cardiff/valentines-day.html"
+                                },
+                                {
+                                    "title": "Edinburgh Guide",
+                                    "link": "/cities/edinburgh/valentines-day.html"
+                                }
+                            ]
+                        }
+                    ],
+                    "genres": null
+                },
+                {
+                    "id": "things_to_do",
+                    "title": "things to do",
+                    "titleLink": "/cities/",
+                    "links": [
+                        {
+                            "id": "all_eventtype",
+                            "title": "all things to do",
+                            "link": "/things-to-do/"
+                        }
+                    ],
+                    "categories": [
+                        {
+                            "id": "cities",
+                            "category": "things to do in",
+                            "links": [
+                                {
+                                    "title": "Liverpool",
+                                    "link": "/things-to-do/Liverpool/",
+                                    "hrefTitle": "Things to do in Liverpool"
+                                },
+                                {
+                                    "title": "London",
+                                    "link": "/things-to-do/London/",
+                                    "hrefTitle": "Things to do in London"
+                                },
+                                {
+                                    "title": "Manchester",
+                                    "link": "/things-to-do/Manchester/",
+                                    "hrefTitle": "Things to do in Manchester"
+                                },
+                                {
+                                    "title": "Birmingham",
+                                    "link": "/things-to-do/Birmingham/",
+                                    "hrefTitle": "Things to do in Birmingham"
+                                },
+                                {
+                                    "title": "Leeds",
+                                    "link": "/things-to-do/Leeds/",
+                                    "hrefTitle": "Things to do in Leeds"
+                                },
+                                {
+                                    "title": "Newcastle",
+                                    "link": "/things-to-do/Newcastle-on-Tyne/",
+                                    "hrefTitle": "Things to do in Newcastle"
+                                },
+                                {
+                                    "title": "Cardiff",
+                                    "link": "/things-to-do/Cardiff/",
+                                    "hrefTitle": "Things to do in Cardiff"
+                                },
+                                {
+                                    "title": "Edinburgh",
+                                    "link": "/things-to-do/Edinburgh/",
+                                    "hrefTitle": "Things to do in Edinburgh"
+                                },
+                                {
+                                    "title": "Bristol",
+                                    "link": "/things-to-do/Bristol/",
+                                    "hrefTitle": "Things to do in Bristol"
+                                },
+                                {
+                                    "title": "Glasgow",
+                                    "link": "/things-to-do/Glasgow/",
+                                    "hrefTitle": "Things to do in Glasgow"
+                                },
+                                {
+                                    "title": "Sheffield",
+                                    "link": "/things-to-do/Sheffield/",
+                                    "hrefTitle": "Things to do in Sheffield"
+                                }
+                            ]
+                        },
+                        {
+                            "id": "comedy_in",
+                            "category": "comedy in",
+                            "links": [
+                                {
+                                    "title": "Liverpool",
+                                    "link": "/comedy/Liverpool/",
+                                    "hrefTitle": ""
+                                },
+                                {
+                                    "title": "London",
+                                    "link": "/comedy/London/",
+                                    "hrefTitle": ""
+                                },
+                                {
+                                    "title": "Manchester",
+                                    "link": "/comedy/Manchester/",
+                                    "hrefTitle": ""
+                                },
+                                {
+                                    "title": "Birmingham",
+                                    "link": "/comedy/Birmingham/",
+                                    "hrefTitle": ""
+                                },
+                                {
+                                    "title": "Leeds",
+                                    "link": "/comedy/Leeds/",
+                                    "hrefTitle": ""
+                                },
+                                {
+                                    "title": "Newcastle",
+                                    "link": "/comedy/Newcastle/",
+                                    "hrefTitle": ""
+                                },
+                                {
+                                    "title": "Cardiff",
+                                    "link": "/comedy/Cardiff/",
+                                    "hrefTitle": ""
+                                },
+                                {
+                                    "title": "Edinburgh",
+                                    "link": "/comedy/Edinburgh/",
+                                    "hrefTitle": ""
+                                },
+                                {
+                                    "title": "Bristol",
+                                    "link": "/comedy/Bristol/",
+                                    "hrefTitle": ""
+                                },
+                                {
+                                    "title": "Glasgow",
+                                    "link": "/comedy/Glasgow/",
+                                    "hrefTitle": ""
+                                },
+                                {
+                                    "title": "Sheffield",
+                                    "link": "/comedy/Sheffield/",
+                                    "hrefTitle": ""
+                                }
+                            ]
+                        },
+                        {
+                            "id": "theatre_in",
+                            "category": "theatre in",
+                            "links": [
+                                {
+                                    "title": "Liverpool",
+                                    "link": "/theatre/Liverpool/",
+                                    "hrefTitle": ""
+                                },
+                                {
+                                    "title": "London",
+                                    "link": "/theatre/London/",
+                                    "hrefTitle": ""
+                                },
+                                {
+                                    "title": "Manchester",
+                                    "link": "/theatre/Manchester/",
+                                    "hrefTitle": ""
+                                },
+                                {
+                                    "title": "Birmingham",
+                                    "link": "/theatre/Birmingham/",
+                                    "hrefTitle": ""
+                                },
+                                {
+                                    "title": "Leeds",
+                                    "link": "/theatre/Leeds/",
+                                    "hrefTitle": ""
+                                },
+                                {
+                                    "title": "Newcastle",
+                                    "link": "/theatre/Newcastle/",
+                                    "hrefTitle": ""
+                                },
+                                {
+                                    "title": "Cardiff",
+                                    "link": "/theatre/Cardiff/",
+                                    "hrefTitle": ""
+                                },
+                                {
+                                    "title": "Edinburgh",
+                                    "link": "/theatre/Edinburgh/",
+                                    "hrefTitle": ""
+                                },
+                                {
+                                    "title": "Bristol",
+                                    "link": "/theatre/Bristol/",
+                                    "hrefTitle": ""
+                                },
+                                {
+                                    "title": "Glasgow",
+                                    "link": "/theatre/Glasgow/",
+                                    "hrefTitle": ""
+                                },
+                                {
+                                    "title": "Sheffield",
+                                    "link": "/theatre/Sheffield/",
+                                    "hrefTitle": ""
+                                }
+                            ]
+                        },
+                        {
+                            "id": "exhibitions_in",
+                            "category": "exhibitions & attractions in",
+                            "links": [
+                                {
+                                    "title": "Liverpool",
+                                    "link": "/exhibitions/Liverpool/",
+                                    "hrefTitle": ""
+                                },
+                                {
+                                    "title": "London",
+                                    "link": "/exhibitions/London/",
+                                    "hrefTitle": ""
+                                },
+                                {
+                                    "title": "Manchester",
+                                    "link": "/exhibitions/Manchester/",
+                                    "hrefTitle": ""
+                                },
+                                {
+                                    "title": "Birmingham",
+                                    "link": "/exhibitions/Birmingham/",
+                                    "hrefTitle": ""
+                                },
+                                {
+                                    "title": "Leeds",
+                                    "link": "/exhibitions/Leeds/",
+                                    "hrefTitle": ""
+                                },
+                                {
+                                    "title": "Newcastle",
+                                    "link": "/exhibitions/Newcastle/",
+                                    "hrefTitle": ""
+                                },
+                                {
+                                    "title": "Cardiff",
+                                    "link": "/exhibitions/Cardiff/",
+                                    "hrefTitle": ""
+                                },
+                                {
+                                    "title": "Edinburgh",
+                                    "link": "/exhibitions/Edinburgh/",
+                                    "hrefTitle": ""
+                                },
+                                {
+                                    "title": "Bristol",
+                                    "link": "/exhibitions/Bristol/",
+                                    "hrefTitle": ""
+                                },
+                                {
+                                    "title": "Glasgow",
+                                    "link": "/exhibitions/Glasgow/",
+                                    "hrefTitle": ""
+                                },
+                                {
+                                    "title": "Sheffield",
+                                    "link": "/exhibitions/Sheffield/",
+                                    "hrefTitle": ""
+                                }
+                            ]
+                        }
+                    ],
+                    "genres": null
+                },
+                {
+                    "id": "add_event",
+                    "title": "add event",
+                    "titleLink": "https://promotioncentre.co.uk",
+                    "links": [],
+                    "categories": [],
+                    "genres": null
+                }
+            ],
+            "artists": [
+                {
+                    "id": 123510544,
+                    "name": "Florence + the Machine",
+                    "active": true,
+                    "favourite": 0,
+                    "imageUrl": "https://i.scdn.co/image/ab67616100005174e3c37f869b830d1cf1ec829a",
+                    "spotifyMp3Url": "https://p.scdn.co/mp3-preview/9f56160c3b752e82161a0da15ab51675a0d75d4f",
+                    "spotifyArtistUrl": "spotify:artist:1moxjboGR7GNWYIMWsRjgG",
+                    "favouritesCount": 33982,
+                    "artistProfileUrl": "https://skiddle.com/artists/florence-the-machine-123510544",
+                    "stageId": 0,
+                    "stageName": "",
+                    "stageDisplayOrder": 0,
+                    "artistsOrderBy": "custom",
+                    "scenario": "datesandstages",
+                    "artistsDisplayOrder": 2,
+                    "headliner": true,
+                    "datePerforming": ""
+                },
+                {
+                    "id": 123456864,
+                    "name": "Example",
+                    "active": true,
+                    "favourite": 0,
+                    "imageUrl": "https://i.scdn.co/image/ab676161000051746e2d75e80240f2e06ef35aa1",
+                    "spotifyMp3Url": "https://p.scdn.co/mp3-preview/d9587fc248033f57438e0f6c68d2207eda4d7c05",
+                    "spotifyArtistUrl": "spotify:artist:6Vh6UDWfu9PUSXSzAaB3CW",
+                    "favouritesCount": 29327,
+                    "artistProfileUrl": "https://skiddle.com/artists/example-123456864",
+                    "stageId": 0,
+                    "stageName": "",
+                    "stageDisplayOrder": 0,
+                    "artistsOrderBy": "custom",
+                    "scenario": "datesandstages",
+                    "artistsDisplayOrder": 5,
+                    "headliner": true,
+                    "datePerforming": ""
+                },
+                {
+                    "id": 123471730,
+                    "name": "Four Tet",
+                    "active": true,
+                    "favourite": 0,
+                    "imageUrl": "https://i.scdn.co/image/ab6761610000517484e29d09b4917bec2700a0d7",
+                    "spotifyMp3Url": "https://p.scdn.co/mp3-preview/c078c85a42d6230958cd82865b06d941d2e0332f",
+                    "spotifyArtistUrl": "spotify:artist:7Eu1txygG6nJttLHbZdQOh",
+                    "favouritesCount": 21128,
+                    "artistProfileUrl": "https://skiddle.com/artists/four-tet-123471730",
+                    "stageId": 0,
+                    "stageName": "",
+                    "stageDisplayOrder": 0,
+                    "artistsOrderBy": "custom",
+                    "scenario": "datesandstages",
+                    "artistsDisplayOrder": 4,
+                    "headliner": true,
+                    "datePerforming": ""
+                },
+                {
+                    "id": 123457492,
+                    "name": "Ben Nicky",
+                    "active": true,
+                    "favourite": 0,
+                    "imageUrl": "https://i.scdn.co/image/ab67616100005174d6775481ee684dd5663857fc",
+                    "spotifyMp3Url": "https://p.scdn.co/mp3-preview/51a0a8d985385d5eb85acadefba8e5208024f390",
+                    "spotifyArtistUrl": "spotify:artist:3Bd1phrOZJuCev9U0bzdtA",
+                    "favouritesCount": 18235,
+                    "artistProfileUrl": "https://skiddle.com/artists/ben-nicky-123457492",
+                    "stageId": 0,
+                    "stageName": "",
+                    "stageDisplayOrder": 0,
+                    "artistsOrderBy": "custom",
+                    "scenario": "datesandstages",
+                    "artistsDisplayOrder": 9,
+                    "headliner": true,
+                    "datePerforming": ""
+                },
+                {
+                    "id": 123505226,
+                    "name": "Danny Howard",
+                    "active": true,
+                    "favourite": 0,
+                    "imageUrl": "https://i.scdn.co/image/ab67616100005174707d1681b6016548b390d4a7",
+                    "spotifyMp3Url": "https://p.scdn.co/mp3-preview/0470e28c8ff00563f63aceff427ccfbcf8de0e7e",
+                    "spotifyArtistUrl": "spotify:artist:14MtanGZe4G1fzC8raLFUK",
+                    "favouritesCount": 14046,
+                    "artistProfileUrl": "https://skiddle.com/artists/danny-howard-123505226",
+                    "stageId": 0,
+                    "stageName": "",
+                    "stageDisplayOrder": 0,
+                    "artistsOrderBy": "custom",
+                    "scenario": "datesandstages",
+                    "artistsDisplayOrder": 12,
+                    "headliner": true,
+                    "datePerforming": ""
+                },
+                {
+                    "id": 123510356,
+                    "name": "Dimension",
+                    "active": true,
+                    "favourite": 0,
+                    "imageUrl": "https://d1mdxzfl9p8pzo.cloudfront.net/6/123510356_2.jpg",
+                    "spotifyMp3Url": "https://p.scdn.co/mp3-preview/865f4562401ca4f2aeb51727ab21da1ccdfc712e",
+                    "spotifyArtistUrl": "spotify:artist:1QMgre3BHX161ZHtWMUu6S",
+                    "favouritesCount": 13420,
+                    "artistProfileUrl": "https://skiddle.com/artists/dimension-123510356",
+                    "stageId": 0,
+                    "stageName": "",
+                    "stageDisplayOrder": 0,
+                    "artistsOrderBy": "custom",
+                    "scenario": "datesandstages",
+                    "artistsDisplayOrder": 15,
+                    "headliner": true,
+                    "datePerforming": ""
+                },
+                {
+                    "id": 123553199,
+                    "name": "Liam Gallagher",
+                    "active": true,
+                    "favourite": 0,
+                    "imageUrl": "https://i.scdn.co/image/ab67616100005174effb0cb29e41de8ab6584968",
+                    "spotifyMp3Url": "https://p.scdn.co/mp3-preview/995b65f84419ca454aca539b187976a8a442fe65?cid=67f3bb40a17f4484a9a80163f644c9c3",
+                    "spotifyArtistUrl": "spotify:artist:6sN51vEARnAAdBw1IKZ8Q9",
+                    "favouritesCount": 11354,
+                    "artistProfileUrl": "https://skiddle.com/artists/liam-gallagher-123553199",
+                    "stageId": 0,
+                    "stageName": "",
+                    "stageDisplayOrder": 0,
+                    "artistsOrderBy": "custom",
+                    "scenario": "datesandstages",
+                    "artistsDisplayOrder": 1,
+                    "headliner": true,
+                    "datePerforming": ""
+                },
+                {
+                    "id": 123467179,
+                    "name": "Paul Woolford",
+                    "active": true,
+                    "favourite": 0,
+                    "imageUrl": "https://i.scdn.co/image/ab6761610000517437e87628e36afd349347d582",
+                    "spotifyMp3Url": "https://p.scdn.co/mp3-preview/9953e43ffd0438c6535f5714248223796b09ad6c",
+                    "spotifyArtistUrl": "spotify:artist:4CA8PTrbq1l5IgyvBA2JSV",
+                    "favouritesCount": 10782,
+                    "artistProfileUrl": "https://skiddle.com/artists/paul-woolford-123467179",
+                    "stageId": 0,
+                    "stageName": "",
+                    "stageDisplayOrder": 0,
+                    "artistsOrderBy": "custom",
+                    "scenario": "datesandstages",
+                    "artistsDisplayOrder": 10,
+                    "headliner": true,
+                    "datePerforming": ""
+                },
+                {
+                    "id": 123545510,
+                    "name": "Little Simz",
+                    "active": true,
+                    "favourite": 0,
+                    "imageUrl": "https://d1mdxzfl9p8pzo.cloudfront.net/0/123545510_3.jpg",
+                    "spotifyMp3Url": "https://p.scdn.co/mp3-preview/06fca2b10fe4a6b717fea6a81d9fd8abb07d8ab1",
+                    "spotifyArtistUrl": "spotify:artist:6eXZu6O7nAUA5z6vLV8NKI",
+                    "favouritesCount": 9234,
+                    "artistProfileUrl": "https://skiddle.com/artists/little-simz-123545510",
+                    "stageId": 0,
+                    "stageName": "",
+                    "stageDisplayOrder": 0,
+                    "artistsOrderBy": "custom",
+                    "scenario": "datesandstages",
+                    "artistsDisplayOrder": 3,
+                    "headliner": false,
+                    "datePerforming": ""
+                },
+                {
+                    "id": 123554648,
+                    "name": "Kanine",
+                    "active": true,
+                    "favourite": 0,
+                    "imageUrl": "https://i.scdn.co/image/ab676161000051744a4332aaf4ea317793018b33",
+                    "spotifyMp3Url": "https://p.scdn.co/mp3-preview/58700d4d7e0633e84e94bbb4ad1405e49531d6dc?cid=67f3bb40a17f4484a9a80163f644c9c3",
+                    "spotifyArtistUrl": "spotify:artist:1KiNUGL3r0GgyLwqYCY1yV",
+                    "favouritesCount": 6599,
+                    "artistProfileUrl": "https://skiddle.com/artists/kanine-123554648",
+                    "stageId": 0,
+                    "stageName": "",
+                    "stageDisplayOrder": 0,
+                    "artistsOrderBy": "custom",
+                    "scenario": "datesandstages",
+                    "artistsDisplayOrder": 18,
+                    "headliner": false,
+                    "datePerforming": ""
+                },
+                {
+                    "id": 123574188,
+                    "name": "Vibe Chemistry",
+                    "active": true,
+                    "favourite": 0,
+                    "imageUrl": "https://i.scdn.co/image/ab67616100005174b47875a98b431bbfb5e760c4",
+                    "spotifyMp3Url": "https://p.scdn.co/mp3-preview/554171ae0da27035c6197461c99ceff50b3b4d61?cid=67f3bb40a17f4484a9a80163f644c9c3",
+                    "spotifyArtistUrl": "spotify:artist:1L5GuSYb4gktP74dqFkJpi",
+                    "favouritesCount": 5521,
+                    "artistProfileUrl": "https://skiddle.com/artists/vibe-chemistry-123574188",
+                    "stageId": 0,
+                    "stageName": "",
+                    "stageDisplayOrder": 0,
+                    "artistsOrderBy": "custom",
+                    "scenario": "datesandstages",
+                    "artistsDisplayOrder": 24,
+                    "headliner": false,
+                    "datePerforming": ""
+                },
+                {
+                    "id": 123506962,
+                    "name": "Inja",
+                    "active": true,
+                    "favourite": 0,
+                    "imageUrl": "https://i.scdn.co/image/ab6761610000517449fc604757bfc60f18782f4e",
+                    "spotifyMp3Url": "https://p.scdn.co/mp3-preview/d918f68f346e132e865d6e8c9aa4c4d476dabe1e",
+                    "spotifyArtistUrl": "spotify:artist:4jl7rqDfdaWDHD0RdP7ndM",
+                    "favouritesCount": 4668,
+                    "artistProfileUrl": "https://skiddle.com/artists/inja-123506962",
+                    "stageId": 0,
+                    "stageName": "",
+                    "stageDisplayOrder": 0,
+                    "artistsOrderBy": "custom",
+                    "scenario": "datesandstages",
+                    "artistsDisplayOrder": 13,
+                    "headliner": false,
+                    "datePerforming": ""
+                },
+                {
+                    "id": 123552404,
+                    "name": "Kings of the Rollers",
+                    "active": true,
+                    "favourite": 0,
+                    "imageUrl": "https://i.scdn.co/image/ab67616100005174f963cf0c7f840a95ac21e151",
+                    "spotifyMp3Url": "https://p.scdn.co/mp3-preview/11a349d5f2b701a7a690ec1fba61a76acc84cb1a?cid=67f3bb40a17f4484a9a80163f644c9c3",
+                    "spotifyArtistUrl": "spotify:artist:3OHnTiMsWYjSyj52aKmrBP",
+                    "favouritesCount": 2956,
+                    "artistProfileUrl": "https://skiddle.com/artists/kings-of-the-rollers-123552404",
+                    "stageId": 0,
+                    "stageName": "",
+                    "stageDisplayOrder": 0,
+                    "artistsOrderBy": "custom",
+                    "scenario": "datesandstages",
+                    "artistsDisplayOrder": 17,
+                    "headliner": false,
+                    "datePerforming": ""
+                },
+                {
+                    "id": 123579183,
+                    "name": "Belters Only",
+                    "active": true,
+                    "favourite": 0,
+                    "imageUrl": "https://i.scdn.co/image/ab6761610000517447eb8ef1f68288aaf5addac4",
+                    "spotifyMp3Url": "",
+                    "spotifyArtistUrl": "spotify:artist:1H1sDUWSlytzifZTDpKgUA",
+                    "favouritesCount": 2870,
+                    "artistProfileUrl": "https://skiddle.com/artists/belters-only-123579183",
+                    "stageId": 0,
+                    "stageName": "",
+                    "stageDisplayOrder": 0,
+                    "artistsOrderBy": "custom",
+                    "scenario": "datesandstages",
+                    "artistsDisplayOrder": 26,
+                    "headliner": false,
+                    "datePerforming": ""
+                },
+                {
+                    "id": 123557710,
+                    "name": "Goddard",
+                    "active": true,
+                    "favourite": 0,
+                    "imageUrl": "https://i.scdn.co/image/ab67616100005174815ffec99e1d2ddab0e03108",
+                    "spotifyMp3Url": "https://p.scdn.co/mp3-preview/3b6bb5c913b9be1c8e7a6e1494b6b0c0836e04cb?cid=67f3bb40a17f4484a9a80163f644c9c3",
+                    "spotifyArtistUrl": "spotify:artist:2Cr2rpr7lav8wbSsvULw9u",
+                    "favouritesCount": 1084,
+                    "artistProfileUrl": "https://skiddle.com/artists/goddard-123557710",
+                    "stageId": 0,
+                    "stageName": "",
+                    "stageDisplayOrder": 0,
+                    "artistsOrderBy": "custom",
+                    "scenario": "datesandstages",
+                    "artistsDisplayOrder": 19,
+                    "headliner": false,
+                    "datePerforming": ""
+                },
+                {
+                    "id": 123565062,
+                    "name": "Tsha",
+                    "active": true,
+                    "favourite": 0,
+                    "imageUrl": "https://i.scdn.co/image/ab67616100005174544d5637c451668bb2fff9d4",
+                    "spotifyMp3Url": "https://p.scdn.co/mp3-preview/0e884e0fd24453d7fad7a19c0e47268d42357225?cid=67f3bb40a17f4484a9a80163f644c9c3",
+                    "spotifyArtistUrl": "spotify:artist:2kLa7JZu4Ijdz1Gle2khZh",
+                    "favouritesCount": 875,
+                    "artistProfileUrl": "https://skiddle.com/artists/tsha-123565062",
+                    "stageId": 0,
+                    "stageName": "",
+                    "stageDisplayOrder": 0,
+                    "artistsOrderBy": "custom",
+                    "scenario": "datesandstages",
+                    "artistsDisplayOrder": 21,
+                    "headliner": false,
+                    "datePerforming": ""
+                },
+                {
+                    "id": 123569971,
+                    "name": "Dylan",
+                    "active": true,
+                    "favourite": 0,
+                    "imageUrl": "https://i.scdn.co/image/ab6761610000517422f0fb2c6560cd49da994111",
+                    "spotifyMp3Url": "https://p.scdn.co/mp3-preview/5e9bdcaafcbc82891a398d768321c8f574ee231d?cid=67f3bb40a17f4484a9a80163f644c9c3",
+                    "spotifyArtistUrl": "spotify:artist:4LOM7NzyrZvlGSYPFDsnTk",
+                    "favouritesCount": 860,
+                    "artistProfileUrl": "https://skiddle.com/artists/dylan-123569971",
+                    "stageId": 0,
+                    "stageName": "",
+                    "stageDisplayOrder": 0,
+                    "artistsOrderBy": "custom",
+                    "scenario": "datesandstages",
+                    "artistsDisplayOrder": 6,
+                    "headliner": false,
+                    "datePerforming": ""
+                },
+                {
+                    "id": 123544585,
+                    "name": "Gwenno",
+                    "active": true,
+                    "favourite": 0,
+                    "imageUrl": "https://i.scdn.co/image/ab6761610000517446eaf377751316f02fd294c8",
+                    "spotifyMp3Url": "https://p.scdn.co/mp3-preview/4ec235894f97d7103cb6a996d6d92b485077f0ee",
+                    "spotifyArtistUrl": "spotify:artist:44mRrrRjaV8iu1VLIKuwty",
+                    "favouritesCount": 747,
+                    "artistProfileUrl": "https://skiddle.com/artists/gwenno-123544585",
+                    "stageId": 0,
+                    "stageName": "",
+                    "stageDisplayOrder": 0,
+                    "artistsOrderBy": "custom",
+                    "scenario": "datesandstages",
+                    "artistsDisplayOrder": 16,
+                    "headliner": false,
+                    "datePerforming": ""
+                },
+                {
+                    "id": 123558625,
+                    "name": "Connie Constance",
+                    "active": true,
+                    "favourite": 0,
+                    "imageUrl": "https://i.scdn.co/image/ab6761610000517411a05dc3466d40f8a9685140",
+                    "spotifyMp3Url": "",
+                    "spotifyArtistUrl": "spotify:artist:4RB2kk5dmocmMiHFBlmOEt",
+                    "favouritesCount": 649,
+                    "artistProfileUrl": "https://skiddle.com/artists/connie-constance-123558625",
+                    "stageId": 0,
+                    "stageName": "",
+                    "stageDisplayOrder": 0,
+                    "artistsOrderBy": "custom",
+                    "scenario": "datesandstages",
+                    "artistsDisplayOrder": 20,
+                    "headliner": false,
+                    "datePerforming": ""
+                },
+                {
+                    "id": 123541882,
+                    "name": "Charlie Tee",
+                    "active": true,
+                    "favourite": 0,
+                    "imageUrl": "https://d1mdxzfl9p8pzo.cloudfront.net/2/123541882_2.jpg",
+                    "spotifyMp3Url": "https://p.scdn.co/mp3-preview/3e846a4a8a6b37656734e01b22cf6ed6153eff33?cid=67f3bb40a17f4484a9a80163f644c9c3",
+                    "spotifyArtistUrl": "spotify:artist:53ugB3JkFiHzPWmwdOQat1",
+                    "favouritesCount": 645,
+                    "artistProfileUrl": "https://skiddle.com/artists/charlie-tee-123541882",
+                    "stageId": 0,
+                    "stageName": "",
+                    "stageDisplayOrder": 0,
+                    "artistsOrderBy": "custom",
+                    "scenario": "datesandstages",
+                    "artistsDisplayOrder": 14,
+                    "headliner": false,
+                    "datePerforming": ""
+                },
+                {
+                    "id": 123569393,
+                    "name": "Kid Kapichi",
+                    "active": true,
+                    "favourite": 0,
+                    "imageUrl": "https://i.scdn.co/image/ab67616100005174e3bfac420babaca39a703f80",
+                    "spotifyMp3Url": "https://p.scdn.co/mp3-preview/f176b9e299ad3786da730b7308436ac73eb13916?cid=67f3bb40a17f4484a9a80163f644c9c3",
+                    "spotifyArtistUrl": "spotify:artist:2iwVdN0Geaw5Sn2Abeh9fB",
+                    "favouritesCount": 616,
+                    "artistProfileUrl": "https://skiddle.com/artists/kid-kapichi-123569393",
+                    "stageId": 0,
+                    "stageName": "",
+                    "stageDisplayOrder": 0,
+                    "artistsOrderBy": "custom",
+                    "scenario": "datesandstages",
+                    "artistsDisplayOrder": 22,
+                    "headliner": false,
+                    "datePerforming": ""
+                },
+                {
+                    "id": 123578066,
+                    "name": "Jockstrap",
+                    "active": true,
+                    "favourite": 0,
+                    "imageUrl": "https://i.scdn.co/image/ab676161000051746a6f9f479169bf10856a9b1d",
+                    "spotifyMp3Url": "https://p.scdn.co/mp3-preview/fc7c6439710504da0d4927b4356dae67f02c300e?cid=67f3bb40a17f4484a9a80163f644c9c3",
+                    "spotifyArtistUrl": "spotify:artist:6S3Z6Me30mtdm526H17v8k",
+                    "favouritesCount": 445,
+                    "artistProfileUrl": "https://skiddle.com/artists/jockstrap-123578066",
+                    "stageId": 0,
+                    "stageName": "",
+                    "stageDisplayOrder": 0,
+                    "artistsOrderBy": "custom",
+                    "scenario": "datesandstages",
+                    "artistsDisplayOrder": 25,
+                    "headliner": false,
+                    "datePerforming": ""
+                },
+                {
+                    "id": 123496706,
+                    "name": "Jaguar",
+                    "active": false,
+                    "favourite": 0,
+                    "imageUrl": "https://i.scdn.co/image/ab67616d00001e02bdaac01f087c5a9a540b2034",
+                    "spotifyMp3Url": "https://p.scdn.co/mp3-preview/57aafb206af34657c635612e9eb01c4b7cecd90f",
+                    "spotifyArtistUrl": "spotify:artist:0cenougOfkeia2aXkKWAUy",
+                    "favouritesCount": 441,
+                    "artistProfileUrl": "https://skiddle.com/artists/jaguar-123496706",
+                    "stageId": 0,
+                    "stageName": "",
+                    "stageDisplayOrder": 0,
+                    "artistsOrderBy": "custom",
+                    "scenario": "datesandstages",
+                    "artistsDisplayOrder": 11,
+                    "headliner": false,
+                    "datePerforming": ""
+                },
+                {
+                    "id": 123572058,
+                    "name": "Bob Vylan",
+                    "active": true,
+                    "favourite": 0,
+                    "imageUrl": "https://d1mdxzfl9p8pzo.cloudfront.net/8/123572058_1.jpg",
+                    "spotifyMp3Url": "",
+                    "spotifyArtistUrl": "spotify:artist:6XgIk9Y6qy6JCMZVime6DQ",
+                    "favouritesCount": 338,
+                    "artistProfileUrl": "https://skiddle.com/artists/bob-vylan-123572058",
+                    "stageId": 0,
+                    "stageName": "",
+                    "stageDisplayOrder": 0,
+                    "artistsOrderBy": "custom",
+                    "scenario": "datesandstages",
+                    "artistsDisplayOrder": 7,
+                    "headliner": false,
+                    "datePerforming": ""
+                },
+                {
+                    "id": 123575447,
+                    "name": "Cassyette",
+                    "active": true,
+                    "favourite": 0,
+                    "imageUrl": "https://i.scdn.co/image/ab6761610000517460b14c759534b34fdf9e101f",
+                    "spotifyMp3Url": "https://p.scdn.co/mp3-preview/81e5d4b49600893d0cd2540a5dce3aa619ff6173?cid=67f3bb40a17f4484a9a80163f644c9c3",
+                    "spotifyArtistUrl": "spotify:artist:3X8VK5wNpLQCVEo4sWBH2A",
+                    "favouritesCount": 294,
+                    "artistProfileUrl": "https://skiddle.com/artists/cassyette-123575447",
+                    "stageId": 0,
+                    "stageName": "",
+                    "stageDisplayOrder": 0,
+                    "artistsOrderBy": "custom",
+                    "scenario": "datesandstages",
+                    "artistsDisplayOrder": 8,
+                    "headliner": false,
+                    "datePerforming": ""
+                },
+                {
+                    "id": 123571414,
+                    "name": "Wunderhorse",
+                    "active": true,
+                    "favourite": 0,
+                    "imageUrl": "https://i.scdn.co/image/ab67616100005174e2eb22961437b817fc800dcd",
+                    "spotifyMp3Url": "https://p.scdn.co/mp3-preview/9727cbca33736e537ff1dc978b1598f9833637e4?cid=67f3bb40a17f4484a9a80163f644c9c3",
+                    "spotifyArtistUrl": "spotify:artist:41pd7r1XBRsvdxY3vHEgib",
+                    "favouritesCount": 222,
+                    "artistProfileUrl": "https://skiddle.com/artists/wunderhorse-123571414",
+                    "stageId": 0,
+                    "stageName": "",
+                    "stageDisplayOrder": 0,
+                    "artistsOrderBy": "custom",
+                    "scenario": "datesandstages",
+                    "artistsDisplayOrder": 23,
+                    "headliner": false,
+                    "datePerforming": ""
+                },
+                {
+                    "id": 123579523,
+                    "name": "Gretel Hanlyn",
+                    "active": true,
+                    "favourite": 0,
+                    "imageUrl": "https://d1mdxzfl9p8pzo.cloudfront.net/3/123579523_1.jpg",
+                    "spotifyMp3Url": "",
+                    "spotifyArtistUrl": "",
+                    "favouritesCount": 31,
+                    "artistProfileUrl": "https://skiddle.com/artists/gretel-hanlyn-123579523",
+                    "stageId": 0,
+                    "stageName": "",
+                    "stageDisplayOrder": 0,
+                    "artistsOrderBy": "custom",
+                    "scenario": "datesandstages",
+                    "artistsDisplayOrder": 27,
+                    "headliner": false,
+                    "datePerforming": ""
+                },
+                {
+                    "id": 123583840,
+                    "name": "Katchafire",
+                    "active": true,
+                    "favourite": 0,
+                    "imageUrl": "https://i.scdn.co/image/ab676161000051749078a6e5fe505d0f848dbfe0",
+                    "spotifyMp3Url": "https://p.scdn.co/mp3-preview/3d0c2c4c7fbc5c4c9736582a4c810748be1e7696?cid=67f3bb40a17f4484a9a80163f644c9c3",
+                    "spotifyArtistUrl": "spotify:artist:786hGmAEXHUeCdKPAj3JIa",
+                    "favouritesCount": 17,
+                    "artistProfileUrl": "https://skiddle.com/artists/katchafire-123583840",
+                    "stageId": 0,
+                    "stageName": "",
+                    "stageDisplayOrder": 0,
+                    "artistsOrderBy": "custom",
+                    "scenario": "datesandstages",
+                    "artistsDisplayOrder": 28,
+                    "headliner": false,
+                    "datePerforming": ""
+                }
+            ],
+            "reviews": [],
+            "meta": {},
+            "reviewsSummary": {
+                "totalReviews": 0,
+                "ratingValue": null,
+                "ratingLocation": null,
+                "ratingAtmosphere": null,
+                "ratingMusic": null,
+                "overallRating": null
+            },
+            "faqs": [
+                {
+                    "id": 1726,
+                    "festivalId": 274,
+                    "question": "When is Boardmasters 2023?",
+                    "answer": "<p>Boardmasters returns to Newquay&nbsp;Wednesday 9th August - Sunday 13th August 2023.</p>",
+                    "order": 1,
+                    "tab": "general"
+                },
+                {
+                    "id": 1729,
+                    "festivalId": 274,
+                    "question": "How much are Boardmasters tickets?",
+                    "answer": "<p>&nbsp;Please see the ticket section for more info.</p>",
+                    "order": 1,
+                    "tab": "ticket_information"
+                },
+                {
+                    "id": 1730,
+                    "festivalId": 274,
+                    "question": "How do I get to Boardmasters?",
+                    "answer": "<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 8pt; margin-bottom: 8pt;\"><span style=\"font-size: 8.5pt; font-family: Verdana; color: #000000; background-color: transparent; font-weight: bold; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\"><strong style=\"font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 11px; white-space: normal;\">Address:</strong><br style=\"font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 11px; font-weight: 400; white-space: normal;\" /><span style=\"font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 11px; font-weight: 400; white-space: normal;\">Watergate Bay Site</span><br style=\"font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 11px; font-weight: 400; white-space: normal;\" /><span style=\"font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 11px; font-weight: 400; white-space: normal;\">Trebelsue Farm,</span><br style=\"font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 11px; font-weight: 400; white-space: normal;\" /><span style=\"font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 11px; font-weight: 400; white-space: normal;\">Watergate Bay,</span><br style=\"font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 11px; font-weight: 400; white-space: normal;\" /><span style=\"font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 11px; font-weight: 400; white-space: normal;\">Cornwall</span><br style=\"font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 11px; font-weight: 400; white-space: normal;\" /><span style=\"font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 11px; font-weight: 400; white-space: normal;\">TR8 4AN</span><br style=\"font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 11px; font-weight: 400; white-space: normal;\" /><span style=\"font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 11px; font-weight: 400; white-space: normal;\">United Kingdom</span></span></p>\r\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 8pt; margin-bottom: 8pt;\">&nbsp;</p>\r\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 8pt; margin-bottom: 8pt;\"><span style=\"font-size: 8.5pt; font-family: Verdana; color: #000000; background-color: transparent; font-weight: bold; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">By car</span><span style=\"font-size: 8.5pt; font-family: Verdana; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\"> - Car parking is provided for all guests who wish to drive to Boardmasters at Trebelsue Farm, Watergate Bay - however as you can imagine this isn't the greenest option... Please consider car sharing or public transport before coming by car. Cars and motorbikes require a parking pass, purchased separately (except VIP ticket holders). Campervans require a campervan campsite pass, purchased separately. Parking around Fistral Beach and town is very limited so we advise you to use the Shuttle bus from Watergate Bay. When arriving by car, look out for road signage to the green or blue carpark.&nbsp;</span></p>\r\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 8pt; margin-bottom: 8pt;\"><span style=\"font-size: 8.5pt; font-family: Verdana; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">Wherever possible the event aims to reduce any impact that may occur to local resident and the surrounding environment. Traffic in the surrounding area of Watergate and Newquay is a real issue and Boardmasters always works closely with local residents and authorities to tackle this. &nbsp; Where possible you are encouraged to use the busses that run from the Festival site at Watergate to Newquay as opposed to using their cars. If you leave the carpark during the festival there will be a &pound;20 cash re-entry fee (they cannot accept card payments at the entrance).&nbsp;</span></p>\r\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 8pt; margin-bottom: 8pt;\"><span style=\"font-size: 8.5pt; font-family: Verdana; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">CAMPERVANS/MOTORHOMES</span></p>\r\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 8pt; margin-bottom: 8pt;\"><span style=\"font-size: 8.5pt; font-family: Verdana; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">&bull; &nbsp; Requires purchase of separate pass</span></p>\r\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 8pt; margin-bottom: 8pt;\"><span style=\"font-size: 8.5pt; font-family: Verdana; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">&bull; &nbsp; There are quite specific rules on what type of vehicles are allowed in the campervan field, please check these before booking</span></p>\r\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 8pt; margin-bottom: 8pt;\"><span style=\"font-size: 8.5pt; font-family: Verdana; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">CAR PARKING</span></p>\r\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 8pt; margin-bottom: 8pt;\"><span style=\"font-size: 8.5pt; font-family: Verdana; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">&bull; &nbsp; Weekend Parking &pound;18 // Day Parking &pound;10</span></p>\r\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 8pt; margin-bottom: 8pt;\"><span style=\"font-size: 8.5pt; font-family: Verdana; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">&bull; &nbsp; &pound;20 fee for re-entry (or shuttle bus service available)</span></p>\r\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 8pt; margin-bottom: 8pt;\"><span style=\"font-size: 8.5pt; font-family: Verdana; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">&bull; &nbsp; Weekend Parking Location - Green Car Park, Trebelsue Farm, Newquay, TR8 4HR (Google Maps)</span></p>\r\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 8pt; margin-bottom: 8pt;\"><span style=\"font-size: 8.5pt; font-family: Verdana; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">&bull; &nbsp; Day Parking Location- Blue Car Park, Trebelsue Farm, Newquay, TR8 4AN (Google Maps)</span></p>\r\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 8pt; margin-bottom: 8pt;\"><span style=\"font-size: 8.5pt; font-family: Verdana; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">CARS &amp; TAXI DROP OFF POINTS</span></p>\r\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 8pt; margin-bottom: 8pt;\"><span style=\"font-size: 8.5pt; font-family: Verdana; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">&bull; &nbsp; Day Ticket Holders Drop Off - Blue Car Park - Cornwall, TR8 4AN (Google Maps)</span></p>\r\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 8pt; margin-bottom: 8pt;\"><span style=\"font-size: 8.5pt; font-family: Verdana; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">&bull; &nbsp; Weekend Campers Drop Off - Blue Car Park - Cornwall, ?TR8 4AN</span></p>\r\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 8pt; margin-bottom: 8pt;\"><span style=\"font-size: 8.5pt; font-family: Verdana; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">&bull; &nbsp; VIP Weekend Campers Drop Off - Blue Car Park - Cornwall, ?TR8 4AN</span></p>\r\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 8pt; margin-bottom: 8pt;\"><span style=\"font-size: 8.5pt; font-family: Verdana; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">DRIVING DIRECTIONS</span></p>\r\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 8pt; margin-bottom: 8pt;\"><span style=\"font-size: 8.5pt; font-family: Verdana; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">&bull; &nbsp; From the North follow the A39 to St Columb Major then A3059 towards Newquay and follow the signs for green/blue parking</span></p>\r\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 8pt; margin-bottom: 8pt;\"><span style=\"font-size: 8.5pt; font-family: Verdana; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">&bull; &nbsp; From the East or West follow A30 &ndash; A39 &ndash; A3059 and follow the signs for green parking</span></p>\r\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 8pt; margin-bottom: 8pt;\"><span style=\"font-size: 8.5pt; font-family: Verdana; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">&bull; &nbsp; To find your way to Fistral Beach follow signs to Newquay Town Centre. Please be aware that parking is extremely limited around the Fistral Beach site. It is advisable to use the shuttle bus from Watergate Bay</span></p>\r\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 8pt; margin-bottom: 8pt;\"><span style=\"font-size: 8.5pt; font-family: Verdana; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">&nbsp;</span></p>\r\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 8pt; margin-bottom: 8pt;\"><span style=\"font-size: 8.5pt; font-family: Verdana; color: #000000; background-color: transparent; font-weight: bold; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">By train</span><span style=\"font-size: 8.5pt; font-family: Verdana; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\"> -&nbsp; The closest train station is NEWQUAY - a ten minute drive to the main arena.</span></p>\r\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 8pt; margin-bottom: 8pt;\"><span style=\"font-size: 8.5pt; font-family: Verdana; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">&bull; Great Western Rail are running 13 additional trains to/from Newquay during Boardmasters.</span></p>\r\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 8pt; margin-bottom: 8pt;\"><span style=\"font-size: 8.5pt; font-family: Verdana; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">&bull; Customers must have a seat reservation to travel by train.</span></p>\r\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 8pt; margin-bottom: 8pt;\"><span style=\"font-size: 8.5pt; font-family: Verdana; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">&bull; They should allow extra time and arrive at the station 30 minutes before their train departs.</span></p>\r\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 8pt; margin-bottom: 8pt;\"><span style=\"font-size: 8.5pt; font-family: Verdana; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">&bull; A shuttle bus service runs from just outside the station &ndash; if heading to Watergate Bay board the bus outside the Great Western Hotel, for Fistral outside Burger King.</span></p>\r\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 8pt; margin-bottom: 8pt;\"><span style=\"font-size: 8.5pt; font-family: Verdana; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">&bull; Extra bus services will be available to take customers to mainline services towards London.</span></p>\r\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 8pt; margin-bottom: 8pt;\"><span style=\"font-size: 8.5pt; font-family: Verdana; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">&bull; Surfboards are not permitted on the new IET trains. Please check luggage requirements before purchasing your train ticket</span></p>\r\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 8pt; margin-bottom: 8pt;\"><span style=\"font-size: 8.5pt; font-family: Verdana; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">&nbsp;</span></p>\r\n<p><span id=\"docs-internal-guid-fb5e7ef6-7fff-ecff-37cf-4ea6abedd0dd\"><span style=\"font-size: 8.5pt; font-family: Verdana; background-color: transparent; font-weight: bold; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;\">By coach</span><span style=\"font-size: 8.5pt; font-family: Verdana; background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;\"> - Big Green Coach return as the official travel partner for Boardmasters 2021. It&rsquo;s a long drive home so give yourself a break and let someone else take care of your travel. With 23 pick-up points across the UK and return journeys starting from just &pound;42 there is something for everyone. Plus, you'll be dropped off at the official Coach Park inside the festival gates - no one gets you closer!</span></span></p>",
+                    "order": 1,
+                    "tab": "travel"
+                },
+                {
+                    "id": 1734,
+                    "festivalId": 274,
+                    "question": "Does Boardmasters have onsite camping?",
+                    "answer": "<p><span id=\"docs-internal-guid-966ad336-7fff-1138-b170-92ac5d900769\"><span style=\"font-size: 8.5pt; font-family: Verdana; background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;\">Yes, Boardmasters has on-site camping and you will be assigned your camping area when purchasing your tickets.</span></span></p>",
+                    "order": 1,
+                    "tab": "camping"
+                },
+                {
+                    "id": 1727,
+                    "festivalId": 274,
+                    "question": "Where is Boardmasters?",
+                    "answer": "<p>Boardmasters takes place at Watergate Bay Site, Cornwall, TR8 4AN</p>",
+                    "order": 2,
+                    "tab": "general"
+                },
+                {
+                    "id": 1732,
+                    "festivalId": 274,
+                    "question": "Are pre-payment plan tickets available?",
+                    "answer": "<p>&nbsp;No, payment plan tickets are not currently available for Boardmasters 2022.</p>",
+                    "order": 2,
+                    "tab": "ticket_information"
+                },
+                {
+                    "id": 1725,
+                    "festivalId": 274,
+                    "question": "What are the entry times to Boardmasters?",
+                    "answer": "<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 8pt; margin-bottom: 8pt;\"><span style=\"font-size: 8.5pt; font-family: Verdana; color: #000000; background-color: transparent; font-weight: bold; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">Entry Times:</span></p>\r\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 8pt; margin-bottom: 8pt;\"><span style=\"font-size: 8.5pt; font-family: Verdana; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">Start: 12:00pm</span></p>\r\n<p>&nbsp;</p>\r\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 8pt; margin-bottom: 8pt;\"><span style=\"font-size: 8.5pt; font-family: Verdana; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">End: 11:00pm</span></p>",
+                    "order": 3,
+                    "tab": "general"
+                },
+                {
+                    "id": 1733,
+                    "festivalId": 274,
+                    "question": "What happens If I bought a ticket and cannot attend?",
+                    "answer": "<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 8pt; margin-bottom: 8pt;\"><span style=\"font-size: 8.5pt; font-family: Verdana; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">Unfortunately we can&rsquo;t issue you with a refund if you can&rsquo;t make the event due to work commitments or your mates have dropped out. In these circumstances, we advise passing on your tickets privately to avoid losing out on the money spent.</span></p>\r\n<p>&nbsp;</p>\r\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 8pt; margin-bottom: 8pt;\"><span style=\"font-size: 8.5pt; font-family: Verdana; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">Refunds can only be offered if the event is cancelled or postponed, as agreed upon purchase.</span></p>",
+                    "order": 3,
+                    "tab": "ticket_information"
+                },
+                {
+                    "id": 1728,
+                    "festivalId": 274,
+                    "question": "Does Boardmasters have any age restrictions?",
+                    "answer": "<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 8pt; margin-bottom: 8pt;\"><span style=\"font-size: 8.5pt; font-family: Verdana; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">All ages are welcome to the festival but the following age restrictions apply:</span></p>\r\n<p>&nbsp;</p>\r\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 8pt; margin-bottom: 8pt;\"><span style=\"font-size: 8.5pt; font-family: Verdana; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">Persons aged 15 and under must be accompanied by an adult aged 21 years and above. Each adult can accompany a maximum of two children.</span></p>",
+                    "order": 4,
+                    "tab": "general"
+                },
+                {
+                    "id": 1731,
+                    "festivalId": 274,
+                    "question": "Can I bring my own food and drink into Boardmasters?",
+                    "answer": "<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 8pt; margin-bottom: 8pt;\"><span style=\"font-size: 8.5pt; font-family: Verdana; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">Yes, you can take food to the festival.</span></p>\r\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 8pt; margin-bottom: 8pt;\"><span style=\"font-size: 8.5pt; font-family: Verdana; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">The following restrictions apply to alcohol:</span></p>\r\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 8pt; margin-bottom: 8pt;\"><span style=\"font-size: 8.5pt; font-family: Verdana; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">&bull;&nbsp; No glass allowed</span></p>\r\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 8pt; margin-bottom: 8pt;\"><span style=\"font-size: 8.5pt; font-family: Verdana; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">&bull;&nbsp; Alcohol brought to the festival must comply with the event regulations which are: Weekend campers aged 18 and over can bring in limited amounts and types of alcohol. You may be asked of proof of age.&nbsp;</span></p>\r\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 8pt; margin-bottom: 8pt;\"><span style=\"font-size: 8.5pt; font-family: Verdana; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">&bull;&nbsp; Quantity per person: 24 cans beer/lager/cider/pre-mixed-spirit-cans OR 3 litres of wine</span></p>\r\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 8pt; margin-bottom: 8pt;\"><span style=\"font-size: 8.5pt; font-family: Verdana; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">&bull;&nbsp; No straight spirits allowed</span></p>\r\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 8pt; margin-bottom: 8pt;\"><span style=\"font-size: 8.5pt; font-family: Verdana; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">&bull;&nbsp; All drinks must be unopened and NO GLASS</span></p>\r\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 8pt; margin-bottom: 8pt;\"><span style=\"font-size: 8.5pt; font-family: Verdana; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">&bull;&nbsp; Alcohol is on sale at the event but you must be 18 or over to purchase. Bring ID, you will be asked each time you buy a drink. It is illegal to buy alcohol for another person who is under 18. Challenge 25 is in place at all bars. Accepted forms of ID are passport, driver&rsquo;s license or anything with a PASS logo.</span></p>\r\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 8pt; margin-bottom: 8pt;\"><span style=\"font-size: 8.5pt; font-family: Verdana; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">&bull;&nbsp; Alcohol will only be permitted on first entry to the festival campsite. You will not be able to exit &amp; re-enter with more alcohol.</span></p>\r\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 8pt; margin-bottom: 8pt;\"><span style=\"font-size: 8.5pt; font-family: Verdana; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">&bull;&nbsp; Alcohol cannot be brought into the festival arena. It will however be on sale inside the arena.</span></p>\r\n<p>&nbsp;</p>\r\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 8pt; margin-bottom: 8pt;\"><span style=\"font-size: 8.5pt; font-family: Verdana; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">&bull;&nbsp; Day ticket holders are not allowed to bring in any alcoholic drinks.</span></p>",
+                    "order": 5,
+                    "tab": "general"
+                }
+            ],
+            "venue": {
+                "id": 5632,
+                "name": "Newquay Fistral Beach And Watergate Bay",
+                "location": {
+                    "address": "Newquay Fistral Beach And Watergate Bay",
+                    "town": "Cornwall",
+                    "postcode": "TR8 4AN",
+                    "latitude": 50.4358257,
+                    "longitude": -5.0367452
+                },
+                "type": "Outdoors",
+                "imageUrl": "https://dhzjvxyl79yzn.cloudfront.net/2/5632_th.jpg",
+                "postcodeLookup": "Newquay"
+            },
+            "adminPanelData": {
+                "memory": 397,
+                "version": "v16.19.0",
+                "containerIP": "169.254.172.2",
+                "listingsData": null,
+                "promoterID": 236577,
+                "remoteAddr": "93.84.31.149"
+            },
+            "reviewsDisplayFour": [],
+            "news": [
+                {
+                    "id": 27727,
+                    "title": "Boardmasters reveals first wave of line up",
+                    "date": "2016-02-04 15:36:40",
+                    "summary": "The five day surf and music celebration reveals its first round of DJs and artists.",
+                    "image": "https://d23sy9fe9womrt.cloudfront.net/7/27727.jpg",
+                    "link": "https://www.skiddle.com/n/27727",
+                    "contentHtml": null
+                },
+                {
+                    "id": 17926,
+                    "title": "Ayah Marar: My Work Stretches Beyond Being A Singer",
+                    "date": "2013-07-08 10:48:05",
+                    "summary": "We catch up with Jordanian singer, songwriter, performer, producer, radio presenter and label owner Ayah Marar ahead of her appearance at Boardmasters 2013",
+                    "image": "https://d23sy9fe9womrt.cloudfront.net/6/17926.jpg",
+                    "link": "https://www.skiddle.com/n/17926",
+                    "contentHtml": null
+                },
+                {
+                    "id": 17444,
+                    "title": "Boardmasters announce line-ups for Unleashed and Marley Point Stages",
+                    "date": "2013-06-05 17:33:33",
+                    "summary": "Full line-up info for the Unleashed and Marley Point Stages at Boardmasters.",
+                    "image": "https://d23sy9fe9womrt.cloudfront.net/4/17444.jpg",
+                    "link": "https://www.skiddle.com/n/17444",
+                    "contentHtml": null
+                }
+            ]
+        },
+        "__N_SSP": true
+    },
+    "page": "/[...all]",
+    "query": {
+        "all": [
+            "boardmasters"
+        ]
+    },
+    "buildId": "s36eHI9zSRpf3XbedkL60",
+    "assetPrefix": "/festivals",
+    "isFallback": false,
+    "dynamicIds": [
+        6772,
+        7315
+    ],
+    "gssp": true,
+    "customServer": true,
+    "scriptLoader": []
+}
